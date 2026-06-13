@@ -1,9 +1,0 @@
-{
-  "game": "Monster Hunter 3 / Tri",
-  "abbreviation": "MH3/Tri",
-  "platform": "Wii",
-  "year": 2009,
-  "source": "maliciousbanjo/mh3-data (NPM mh3-data@2.0.1)",
-  "license": "—",
-  "notes": "Dados parciais. Weapon trees incompletas (apenas 12 entradas estruturais). Quests: ~10 registros contabilizáveis. Items não disponíveis."
-}

@@ -1,9 +1,0 @@
-{
-  "game": "Monster Hunter Generations Ultimate",
-  "abbreviation": "MHGU",
-  "platform": "3DS / Nintendo Switch",
-  "year": 2017,
-  "source": "gatheringhallstudios/MHGenDatabase",
-  "license": "MIT",
-  "notes": "Cobre gens 1–4 + GU (MH1, MH2, MHF, MHF2, MHFU, MH3, MH3G/3U, MH4, MH4G/4U, MHGen, MHGU). Dados mais completos do acervo. Charms ausentes (arquivo vazio)."
-}

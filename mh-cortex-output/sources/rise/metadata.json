@@ -1,9 +1,0 @@
-{
-  "game": "Monster Hunter Rise + Sunbreak",
-  "abbreviation": "MHRise / MHRS",
-  "platform": "Nintendo Switch / PC",
-  "year": 2021,
-  "source": "Badge87/MHRiseScraperData + Neryss/monster_hunter_db",
-  "license": "MIT",
-  "notes": "Quests ausentes. Decorações incluídas em skills/."
-}
