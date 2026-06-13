@@ -1,0 +1,326 @@
+[
+  {
+    "id": "mh3tri_30",
+    "game": "mh3tri",
+    "name": "Agnaktor",
+    "name_ja": null,
+    "species": "leviathan",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_34",
+    "game": "mh3tri",
+    "name": "Alatreon",
+    "name_ja": null,
+    "species": "elder dragon",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_26",
+    "game": "mh3tri",
+    "name": "Barioth",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_19",
+    "game": "mh3tri",
+    "name": "Barroth",
+    "name_ja": null,
+    "species": "brute wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_31",
+    "game": "mh3tri",
+    "name": "Ceadeus",
+    "name_ja": null,
+    "species": "elder dragon",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_32",
+    "game": "mh3tri",
+    "name": "Deviljho",
+    "name_ja": null,
+    "species": "brute wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_24",
+    "game": "mh3tri",
+    "name": "Diablos",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_25",
+    "game": "mh3tri",
+    "name": "Gigginox",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_28",
+    "game": "mh3tri",
+    "name": "Gobul",
+    "name_ja": null,
+    "species": "leviathan",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_18",
+    "game": "mh3tri",
+    "name": "Great Baggi",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_17",
+    "game": "mh3tri",
+    "name": "Great Jaggi",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_33",
+    "game": "mh3tri",
+    "name": "Jhen Mohran",
+    "name_ja": null,
+    "species": "elder dragon",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_29",
+    "game": "mh3tri",
+    "name": "Lagiacrus",
+    "name_ja": null,
+    "species": "leviathan",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_21",
+    "game": "mh3tri",
+    "name": "Qurupeco",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_23",
+    "game": "mh3tri",
+    "name": "Rathalos",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_22",
+    "game": "mh3tri",
+    "name": "Rathian",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_27",
+    "game": "mh3tri",
+    "name": "Royal Ludroth",
+    "name_ja": null,
+    "species": "leviathan",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  },
+  {
+    "id": "mh3tri_20",
+    "game": "mh3tri",
+    "name": "Uragaan",
+    "name_ja": null,
+    "species": "brute wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_large_monsters.json"
+  }
+]

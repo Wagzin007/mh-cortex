@@ -1,0 +1,308 @@
+[
+  {
+    "id": "mh3tri_5",
+    "game": "mh3tri",
+    "name": "Altaroth",
+    "name_ja": null,
+    "species": "neopteron",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_aptonoth",
+    "game": "mh3tri",
+    "name": "Aptonoth",
+    "name_ja": null,
+    "species": "herbivore",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_12",
+    "game": "mh3tri",
+    "name": "Baggi",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_4",
+    "game": "mh3tri",
+    "name": "Bnahabra",
+    "name_ja": null,
+    "species": "neopteron",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_15",
+    "game": "mh3tri",
+    "name": "Delex",
+    "name_ja": null,
+    "species": "piscine wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_2",
+    "game": "mh3tri",
+    "name": "Epioth",
+    "name_ja": null,
+    "species": "herbivore",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_6",
+    "game": "mh3tri",
+    "name": "Felyne",
+    "name_ja": null,
+    "species": "lynian",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_8",
+    "game": "mh3tri",
+    "name": "Fish",
+    "name_ja": null,
+    "species": "fish",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_9",
+    "game": "mh3tri",
+    "name": "Giggi",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_10",
+    "game": "mh3tri",
+    "name": "Jaggi",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_11",
+    "game": "mh3tri",
+    "name": "Jaggia",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_1",
+    "game": "mh3tri",
+    "name": "Kelbi",
+    "name_ja": null,
+    "species": "herbivore",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_13",
+    "game": "mh3tri",
+    "name": "Ludroth",
+    "name_ja": null,
+    "species": "leviathan",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_7",
+    "game": "mh3tri",
+    "name": "Melynx",
+    "name_ja": null,
+    "species": "lynian",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_3",
+    "game": "mh3tri",
+    "name": "Popo",
+    "name_ja": null,
+    "species": "herbivore",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_16",
+    "game": "mh3tri",
+    "name": "Rhenoplos",
+    "name_ja": null,
+    "species": "herbivore",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  },
+  {
+    "id": "mh3tri_14",
+    "game": "mh3tri",
+    "name": "Uroktor",
+    "name_ja": null,
+    "species": "leviathan",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mh3tri"
+    ],
+    "source_file": "mh3tri_small_monsters.json"
+  }
+]

@@ -1,0 +1,4291 @@
+[
+  {
+    "id": "wilds_1",
+    "game": "wilds",
+    "name": "Chatacabra",
+    "name_ja": null,
+    "species": "amphibian",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 3
+      },
+      {
+        "element": "Ice",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 3
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 3
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 3
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 60,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 10,
+        "water": 5,
+        "thunder": 25,
+        "ice": 10,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 75,
+        "blunt": 75,
+        "shot": 75,
+        "fire": 10,
+        "water": 5,
+        "thunder": 30,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Head (Weak Point)",
+        "state": null,
+        "slash": 90,
+        "blunt": 90,
+        "shot": 95,
+        "fire": 10,
+        "water": 5,
+        "thunder": 30,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 10,
+        "water": 5,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 65,
+        "fire": 10,
+        "water": 5,
+        "thunder": 30,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 65,
+        "fire": 5,
+        "water": 5,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Broken)",
+        "state": null,
+        "slash": 75,
+        "blunt": 75,
+        "shot": 75,
+        "fire": 10,
+        "water": 5,
+        "thunder": 25,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (State 1)",
+        "state": null,
+        "slash": 50,
+        "blunt": 65,
+        "shot": 50,
+        "fire": 0,
+        "water": 0,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (State 2)",
+        "state": null,
+        "slash": 50,
+        "blunt": 65,
+        "shot": 50,
+        "fire": 0,
+        "water": 0,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (State 3)",
+        "state": null,
+        "slash": 55,
+        "blunt": 70,
+        "shot": 55,
+        "fire": 0,
+        "water": 5,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 80,
+        "fire": 0,
+        "water": 0,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 0,
+        "water": 0,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 65,
+        "fire": 10,
+        "water": 5,
+        "thunder": 30,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Rear",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 55,
+        "fire": 10,
+        "water": 5,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Rear (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 65,
+        "fire": 10,
+        "water": 5,
+        "thunder": 30,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Tongue",
+        "state": null,
+        "slash": 85,
+        "blunt": 85,
+        "shot": 90,
+        "fire": 10,
+        "water": 5,
+        "thunder": 25,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 0
+      }
+    ],
+    "locations": "Windward Plains",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_2",
+    "game": "wilds",
+    "name": "Doshaguma",
+    "name_ja": null,
+    "species": "Fanged Beast",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Blast"
+    ],
+    "ailments": [
+      "Blastblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Fire",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 48,
+        "blunt": 54,
+        "shot": 45,
+        "fire": 20,
+        "water": 10,
+        "thunder": 20,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 55,
+        "fire": 25,
+        "water": 10,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 38,
+        "blunt": 40,
+        "shot": 25,
+        "fire": 20,
+        "water": 5,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 52,
+        "blunt": 52,
+        "shot": 50,
+        "fire": 20,
+        "water": 10,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Torso (Weak Point)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 70,
+        "fire": 20,
+        "water": 5,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg",
+        "state": null,
+        "slash": 47,
+        "blunt": 45,
+        "shot": 40,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Wound)",
+        "state": null,
+        "slash": 52,
+        "blunt": 52,
+        "shot": 50,
+        "fire": 20,
+        "water": 10,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 40,
+        "blunt": 30,
+        "shot": 35,
+        "fire": 15,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 52,
+        "blunt": 52,
+        "shot": 50,
+        "fire": 20,
+        "water": 10,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Tail Hair",
+        "state": null,
+        "slash": 38,
+        "blunt": 35,
+        "shot": 25,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Tail Hair (Wound)",
+        "state": null,
+        "slash": 52,
+        "blunt": 52,
+        "shot": 50,
+        "fire": 20,
+        "water": 10,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      }
+    ],
+    "locations": [
+      "Windward Plains",
+      "Scarlet Forest",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_3",
+    "game": "wilds",
+    "name": "Balahara",
+    "name_ja": null,
+    "species": "Leviathan",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Water"
+    ],
+    "ailments": [
+      "Waterblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 3
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 3
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 50,
+        "blunt": 60,
+        "shot": 45,
+        "fire": 10,
+        "water": 0,
+        "thunder": 20,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 75,
+        "fire": 10,
+        "water": 0,
+        "thunder": 20,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Neck",
+        "state": null,
+        "slash": 50,
+        "blunt": 60,
+        "shot": 45,
+        "fire": 10,
+        "water": 0,
+        "thunder": 20,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Neck (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 55,
+        "fire": 10,
+        "water": 0,
+        "thunder": 20,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 38,
+        "blunt": 40,
+        "shot": 30,
+        "fire": 5,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 55,
+        "fire": 10,
+        "water": 0,
+        "thunder": 20,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg",
+        "state": null,
+        "slash": 42,
+        "blunt": 40,
+        "shot": 25,
+        "fire": 5,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 55,
+        "fire": 10,
+        "water": 0,
+        "thunder": 20,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 35,
+        "blunt": 38,
+        "shot": 25,
+        "fire": 5,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 55,
+        "fire": 10,
+        "water": 0,
+        "thunder": 20,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 55,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 10,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 55,
+        "fire": 10,
+        "water": 0,
+        "thunder": 20,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      }
+    ],
+    "locations": "Windward Plains",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_4",
+    "game": "wilds",
+    "name": "Lala Barina",
+    "name_ja": null,
+    "species": "Temnoceran",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [
+      "Paralysis"
+    ],
+    "weaknesses": [
+      {
+        "element": "Fire",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 1
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 3
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 55,
+        "blunt": 60,
+        "shot": 50,
+        "fire": 20,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 65,
+        "fire": 20,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 40,
+        "blunt": 40,
+        "shot": 30,
+        "fire": 15,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 20,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 50,
+        "fire": 25,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 20,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Tail (Weak Point)",
+        "state": null,
+        "slash": 90,
+        "blunt": 90,
+        "shot": 90,
+        "fire": 25,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Claw",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 40,
+        "fire": 15,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Claw (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 20,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 35,
+        "fire": 15,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 20,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 35,
+        "fire": 15,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 20,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Petals",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 50,
+        "fire": 25,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Petals (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 20,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 1
+      }
+    ],
+    "locations": [
+      "Scarlet Forest",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_5",
+    "game": "wilds",
+    "name": "Rey Dau",
+    "name_ja": null,
+    "species": "Flying Wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Thunder"
+    ],
+    "ailments": [
+      "Thunderblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Ice",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 1
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 1
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 60,
+        "blunt": 65,
+        "shot": 50,
+        "fire": 5,
+        "water": 15,
+        "thunder": 0,
+        "ice": 20,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 75,
+        "shot": 60,
+        "fire": 5,
+        "water": 20,
+        "thunder": 0,
+        "ice": 25,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Head (Weak Point)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 70,
+        "fire": 5,
+        "water": 20,
+        "thunder": 0,
+        "ice": 25,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 30,
+        "blunt": 30,
+        "shot": 25,
+        "fire": 5,
+        "water": 5,
+        "thunder": 0,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 55,
+        "fire": 5,
+        "water": 10,
+        "thunder": 0,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Leg",
+        "state": null,
+        "slash": 37,
+        "blunt": 37,
+        "shot": 33,
+        "fire": 5,
+        "water": 5,
+        "thunder": 0,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Leg (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 55,
+        "fire": 5,
+        "water": 10,
+        "thunder": 0,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 45,
+        "blunt": 40,
+        "shot": 45,
+        "fire": 5,
+        "water": 5,
+        "thunder": 0,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 55,
+        "fire": 5,
+        "water": 10,
+        "thunder": 0,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Wing",
+        "state": null,
+        "slash": 45,
+        "blunt": 50,
+        "shot": 45,
+        "fire": 5,
+        "water": 10,
+        "thunder": 0,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Wing (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 55,
+        "fire": 5,
+        "water": 10,
+        "thunder": 0,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      }
+    ],
+    "locations": "Windward Plains",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_6",
+    "game": "wilds",
+    "name": "Arkveld",
+    "name_ja": null,
+    "species": "Flying Wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Dragon"
+    ],
+    "ailments": [
+      "Dragonblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 45,
+        "blunt": 48,
+        "shot": 45,
+        "fire": 5,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 45,
+        "blunt": 48,
+        "shot": 45,
+        "fire": 5,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 28,
+        "blunt": 30,
+        "shot": 20,
+        "fire": 1,
+        "water": 1,
+        "thunder": 1,
+        "ice": 1,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 62,
+        "shot": 65,
+        "fire": 5,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Leg",
+        "state": null,
+        "slash": 26,
+        "blunt": 25,
+        "shot": 20,
+        "fire": 2,
+        "water": 2,
+        "thunder": 2,
+        "ice": 2,
+        "dragon": 4,
+        "ko": 0
+      },
+      {
+        "part": "Leg (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 62,
+        "shot": 65,
+        "fire": 5,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 45,
+        "blunt": 40,
+        "shot": 42,
+        "fire": 5,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 62,
+        "shot": 65,
+        "fire": 5,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Wing",
+        "state": null,
+        "slash": 42,
+        "blunt": 40,
+        "shot": 38,
+        "fire": 2,
+        "water": 2,
+        "thunder": 2,
+        "ice": 2,
+        "dragon": 4,
+        "ko": 0
+      },
+      {
+        "part": "Wing (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 62,
+        "shot": 65,
+        "fire": 5,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Chainblade",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 45,
+        "fire": 0,
+        "water": 0,
+        "thunder": 0,
+        "ice": 0,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Chainblade (State 1)",
+        "state": null,
+        "slash": 52,
+        "blunt": 52,
+        "shot": 48,
+        "fire": 20,
+        "water": 20,
+        "thunder": 20,
+        "ice": 20,
+        "dragon": 25,
+        "ko": 0
+      },
+      {
+        "part": "Chainblade (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 68,
+        "fire": 30,
+        "water": 30,
+        "thunder": 30,
+        "ice": 30,
+        "dragon": 38,
+        "ko": 1
+      },
+      {
+        "part": "Chainblade (Weak Point)",
+        "state": null,
+        "slash": 52,
+        "blunt": 52,
+        "shot": 48,
+        "fire": 20,
+        "water": 20,
+        "thunder": 20,
+        "ice": 20,
+        "dragon": 25,
+        "ko": 1
+      }
+    ],
+    "locations": [
+      "Windward Plains",
+      "Scarlet Forest",
+      "Oilwell Basin",
+      "Iceshard Cliffs",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_7",
+    "game": "wilds",
+    "name": "Uth Duna",
+    "name_ja": null,
+    "species": "Large Monster",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Water"
+    ],
+    "ailments": [
+      "Waterblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 2
+      },
+      {
+        "element": "Thunder",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 1
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 40,
+        "blunt": 60,
+        "shot": 50,
+        "fire": 10,
+        "water": 0,
+        "thunder": 20,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 88,
+        "blunt": 90,
+        "shot": 88,
+        "fire": 15,
+        "water": 0,
+        "thunder": 25,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Head (Weak Point)",
+        "state": null,
+        "slash": 90,
+        "blunt": 90,
+        "shot": 86,
+        "fire": 15,
+        "water": 0,
+        "thunder": 25,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 50,
+        "blunt": 45,
+        "shot": 35,
+        "fire": 5,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 80,
+        "fire": 15,
+        "water": 0,
+        "thunder": 25,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 55,
+        "fire": 10,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 80,
+        "fire": 15,
+        "water": 0,
+        "thunder": 25,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 55,
+        "blunt": 55,
+        "shot": 45,
+        "fire": 10,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 80,
+        "fire": 15,
+        "water": 0,
+        "thunder": 25,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 40,
+        "fire": 5,
+        "water": 0,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 80,
+        "fire": 15,
+        "water": 0,
+        "thunder": 25,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Veil (?)",
+        "state": null,
+        "slash": 90,
+        "blunt": 60,
+        "shot": 60,
+        "fire": 0,
+        "water": 0,
+        "thunder": 25,
+        "ice": 0,
+        "dragon": 0,
+        "ko": 0
+      }
+    ],
+    "locations": "Scarlet Forest",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_8",
+    "game": "wilds",
+    "name": "Ajarakan",
+    "name_ja": null,
+    "species": "Fanged Beast",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Fire"
+    ],
+    "ailments": [
+      "Fireblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "water",
+        "stars": 3
+      },
+      {
+        "element": "ice",
+        "stars": 2
+      },
+      {
+        "element": "blast",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 40,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Head (State 1)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 45,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 82,
+        "shot": 80,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 20,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 45,
+        "fire": 0,
+        "water": 25,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (State 1)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 0,
+        "water": 25,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 68,
+        "shot": 70,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 20,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg (Weak Point)",
+        "state": null,
+        "slash": 90,
+        "blunt": 90,
+        "shot": 90,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 20,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 25,
+        "blunt": 25,
+        "shot": 20,
+        "fire": 0,
+        "water": 15,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 68,
+        "shot": 70,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 20,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Tail Tip",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Tail Tip (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 68,
+        "shot": 70,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 20,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 40,
+        "blunt": 40,
+        "shot": 35,
+        "fire": 0,
+        "water": 15,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 68,
+        "shot": 70,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 20,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Back",
+        "state": null,
+        "slash": 30,
+        "blunt": 30,
+        "shot": 25,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Back (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 68,
+        "shot": 70,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 20,
+        "dragon": 15,
+        "ko": 1
+      },
+      {
+        "part": "Belly",
+        "state": null,
+        "slash": 30,
+        "blunt": 30,
+        "shot": 25,
+        "fire": 0,
+        "water": 15,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Belly (State 1)",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 0,
+        "water": 15,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Belly (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 68,
+        "shot": 70,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 20,
+        "dragon": 15,
+        "ko": 1
+      }
+    ],
+    "locations": [
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_9",
+    "game": "wilds",
+    "name": "Rompopolo",
+    "name_ja": null,
+    "species": "brute wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": null,
+    "locations": "Oilwell Basin",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_10",
+    "game": "wilds",
+    "name": "Nu Udra",
+    "name_ja": null,
+    "species": "TBD",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 70,
+        "blunt": 75,
+        "shot": 50,
+        "fire": 0,
+        "water": 15,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Head (State 1)",
+        "state": null,
+        "slash": 60,
+        "blunt": 65,
+        "shot": 45,
+        "fire": 0,
+        "water": 18,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Head (State 2)",
+        "state": null,
+        "slash": 65,
+        "blunt": 70,
+        "shot": 48,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 85,
+        "shot": 60,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 1
+      },
+      {
+        "part": "Tentacle",
+        "state": null,
+        "slash": 30,
+        "blunt": 43,
+        "shot": 25,
+        "fire": 0,
+        "water": 15,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Tentacle (State 1)",
+        "state": null,
+        "slash": 25,
+        "blunt": 35,
+        "shot": 20,
+        "fire": 0,
+        "water": 18,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tentacle (State 2)",
+        "state": null,
+        "slash": 35,
+        "blunt": 40,
+        "shot": 30,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Membrane",
+        "state": null,
+        "slash": 30,
+        "blunt": 43,
+        "shot": 25,
+        "fire": 0,
+        "water": 15,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Membrane (State 1)",
+        "state": null,
+        "slash": 25,
+        "blunt": 35,
+        "shot": 20,
+        "fire": 0,
+        "water": 18,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Membrane (State 2)",
+        "state": null,
+        "slash": 35,
+        "blunt": 40,
+        "shot": 30,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Membrane (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 75,
+        "shot": 58,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 50,
+        "blunt": 65,
+        "shot": 43,
+        "fire": 0,
+        "water": 15,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Torso (State 1)",
+        "state": null,
+        "slash": 45,
+        "blunt": 50,
+        "shot": 30,
+        "fire": 0,
+        "water": 18,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Torso (State 2)",
+        "state": null,
+        "slash": 48,
+        "blunt": 53,
+        "shot": 35,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 75,
+        "shot": 58,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 1
+      },
+      {
+        "part": "Arm",
+        "state": null,
+        "slash": 55,
+        "blunt": 48,
+        "shot": 48,
+        "fire": 0,
+        "water": 15,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Arm (State 1)",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 43,
+        "fire": 0,
+        "water": 18,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Arm (State 2)",
+        "state": null,
+        "slash": 48,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Arm (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 75,
+        "shot": 58,
+        "fire": 0,
+        "water": 25,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 1
+      },
+      {
+        "part": "Mouth",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 80,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      }
+    ],
+    "locations": "Oilwell Basin",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_11",
+    "game": "wilds",
+    "name": "Quematrice",
+    "name_ja": null,
+    "species": "brute wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 60,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 75,
+        "blunt": 75,
+        "shot": 75,
+        "fire": 0,
+        "water": 30,
+        "thunder": 15,
+        "ice": 20,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Head (Weak Point)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 70,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 40,
+        "blunt": 40,
+        "shot": 30,
+        "fire": 0,
+        "water": 15,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 65,
+        "fire": 0,
+        "water": 25,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 65,
+        "blunt": 60,
+        "shot": 60,
+        "fire": 0,
+        "water": 25,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 65,
+        "fire": 0,
+        "water": 25,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg",
+        "state": null,
+        "slash": 40,
+        "blunt": 35,
+        "shot": 35,
+        "fire": 0,
+        "water": 15,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 65,
+        "fire": 0,
+        "water": 25,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 40,
+        "blunt": 35,
+        "shot": 35,
+        "fire": 0,
+        "water": 15,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 65,
+        "fire": 0,
+        "water": 25,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      }
+    ],
+    "locations": "Windward Plains",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_12",
+    "game": "wilds",
+    "name": "Congalala",
+    "name_ja": null,
+    "species": "fanged beast",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 65,
+        "blunt": 70,
+        "shot": 60,
+        "fire": 25,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 75,
+        "blunt": 80,
+        "shot": 70,
+        "fire": 25,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 35,
+        "blunt": 35,
+        "shot": 35,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 55,
+        "blunt": 55,
+        "shot": 55,
+        "fire": 25,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Torso (Weak Point)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 90,
+        "fire": 25,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 15,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Wound)",
+        "state": null,
+        "slash": 55,
+        "blunt": 55,
+        "shot": 55,
+        "fire": 25,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 35,
+        "blunt": 35,
+        "shot": 35,
+        "fire": 15,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 55,
+        "blunt": 55,
+        "shot": 55,
+        "fire": 25,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 15,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 55,
+        "blunt": 55,
+        "shot": 55,
+        "fire": 25,
+        "water": 10,
+        "thunder": 10,
+        "ice": 15,
+        "dragon": 5,
+        "ko": 1
+      }
+    ],
+    "locations": "TBD",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_13",
+    "game": "wilds",
+    "name": "Yian Kut-Ku",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 56,
+        "blunt": 75,
+        "shot": 80,
+        "fire": 10,
+        "water": 15,
+        "thunder": 20,
+        "ice": 30,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 66,
+        "blunt": 85,
+        "shot": 90,
+        "fire": 10,
+        "water": 15,
+        "thunder": 20,
+        "ice": 30,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Head (Weak Point)",
+        "state": null,
+        "slash": 70,
+        "blunt": 85,
+        "shot": 90,
+        "fire": 10,
+        "water": 15,
+        "thunder": 20,
+        "ice": 30,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Neck",
+        "state": null,
+        "slash": 42,
+        "blunt": 42,
+        "shot": 45,
+        "fire": 10,
+        "water": 25,
+        "thunder": 30,
+        "ice": 40,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 66,
+        "blunt": 63,
+        "shot": 60,
+        "fire": 5,
+        "water": 15,
+        "thunder": 15,
+        "ice": 20,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 76,
+        "blunt": 73,
+        "shot": 70,
+        "fire": 5,
+        "water": 15,
+        "thunder": 15,
+        "ice": 20,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 60,
+        "blunt": 56,
+        "shot": 50,
+        "fire": 5,
+        "water": 15,
+        "thunder": 15,
+        "ice": 20,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 76,
+        "blunt": 73,
+        "shot": 70,
+        "fire": 5,
+        "water": 15,
+        "thunder": 15,
+        "ice": 20,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Leg",
+        "state": null,
+        "slash": 28,
+        "blunt": 28,
+        "shot": 30,
+        "fire": 5,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Leg (Wound)",
+        "state": null,
+        "slash": 76,
+        "blunt": 73,
+        "shot": 70,
+        "fire": 5,
+        "water": 15,
+        "thunder": 15,
+        "ice": 20,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Wing",
+        "state": null,
+        "slash": 80,
+        "blunt": 42,
+        "shot": 70,
+        "fire": 5,
+        "water": 10,
+        "thunder": 25,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 0
+      },
+      {
+        "part": "Wing (Wound)",
+        "state": null,
+        "slash": 90,
+        "blunt": 52,
+        "shot": 80,
+        "fire": 5,
+        "water": 10,
+        "thunder": 25,
+        "ice": 15,
+        "dragon": 0,
+        "ko": 1
+      }
+    ],
+    "locations": "TBD",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_14",
+    "game": "wilds",
+    "name": "Rathian",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 70,
+        "blunt": 75,
+        "shot": 65,
+        "fire": 0,
+        "water": 15,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 82,
+        "shot": 70,
+        "fire": 0,
+        "water": 15,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 35,
+        "blunt": 30,
+        "shot": 25,
+        "fire": 0,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 0,
+        "water": 10,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 20,
+        "ko": 1
+      },
+      {
+        "part": "Leg",
+        "state": null,
+        "slash": 40,
+        "blunt": 40,
+        "shot": 35,
+        "fire": 0,
+        "water": 0,
+        "thunder": 5,
+        "ice": 0,
+        "dragon": 15,
+        "ko": 0
+      },
+      {
+        "part": "Leg (Wound)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 0,
+        "water": 10,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 20,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 45,
+        "blunt": 40,
+        "shot": 35,
+        "fire": 0,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 0,
+        "water": 10,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 20,
+        "ko": 1
+      },
+      {
+        "part": "Wing",
+        "state": null,
+        "slash": 55,
+        "blunt": 50,
+        "shot": 45,
+        "fire": 0,
+        "water": 10,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 25,
+        "ko": 0
+      },
+      {
+        "part": "Wing (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 66,
+        "shot": 50,
+        "fire": 0,
+        "water": 10,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 25,
+        "ko": 1
+      }
+    ],
+    "locations": "TBD",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_15",
+    "game": "wilds",
+    "name": "Rathalos",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Fire"
+    ],
+    "ailments": [
+      "Fireblight",
+      "Poison"
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 1
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Dragon",
+        "stars": 3
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 65,
+        "blunt": 70,
+        "shot": 60,
+        "fire": 0,
+        "water": 15,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 75,
+        "shot": 65,
+        "fire": 0,
+        "water": 15,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Neck",
+        "state": null,
+        "slash": 35,
+        "blunt": 40,
+        "shot": 30,
+        "fire": 0,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Neck (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 55,
+        "shot": 50,
+        "fire": 0,
+        "water": 15,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 25,
+        "blunt": 25,
+        "shot": 20,
+        "fire": 0,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 55,
+        "shot": 50,
+        "fire": 0,
+        "water": 15,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Wing",
+        "state": null,
+        "slash": 55,
+        "blunt": 50,
+        "shot": 40,
+        "fire": 0,
+        "water": 10,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 25,
+        "ko": 0
+      },
+      {
+        "part": "Wing (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 55,
+        "shot": 50,
+        "fire": 0,
+        "water": 15,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Leg",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 30,
+        "fire": 0,
+        "water": 0,
+        "thunder": 5,
+        "ice": 0,
+        "dragon": 15,
+        "ko": 0
+      },
+      {
+        "part": "Leg (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 55,
+        "shot": 50,
+        "fire": 0,
+        "water": 15,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 45,
+        "blunt": 40,
+        "shot": 35,
+        "fire": 0,
+        "water": 5,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 55,
+        "shot": 50,
+        "fire": 0,
+        "water": 15,
+        "thunder": 20,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 1
+      }
+    ],
+    "locations": [
+      "Scarlet Forest",
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_16",
+    "game": "wilds",
+    "name": "Gypceros",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [
+      "Poison"
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 1
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Fire",
+        "stars": 3
+      },
+      {
+        "element": "Ice",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 45,
+        "blunt": 55,
+        "shot": 45,
+        "fire": 30,
+        "water": 10,
+        "thunder": 0,
+        "ice": 20,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 70,
+        "shot": 55,
+        "fire": 30,
+        "water": 10,
+        "thunder": 0,
+        "ice": 20,
+        "dragon": 10,
+        "ko": 1
+      },
+      {
+        "part": "Head (Weak Point)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 70,
+        "fire": 0,
+        "water": 0,
+        "thunder": 0,
+        "ice": 0,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Neck",
+        "state": null,
+        "slash": 50,
+        "blunt": 25,
+        "shot": 40,
+        "fire": 20,
+        "water": 5,
+        "thunder": 0,
+        "ice": 10,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 45,
+        "blunt": 30,
+        "shot": 20,
+        "fire": 20,
+        "water": 5,
+        "thunder": 0,
+        "ice": 10,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 55,
+        "blunt": 55,
+        "shot": 45,
+        "fire": 10,
+        "water": 10,
+        "thunder": 0,
+        "ice": 10,
+        "dragon": 10,
+        "ko": 1
+      },
+      {
+        "part": "Leg",
+        "state": null,
+        "slash": 25,
+        "blunt": 25,
+        "shot": 30,
+        "fire": 10,
+        "water": 5,
+        "thunder": 0,
+        "ice": 10,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Leg (Wound)",
+        "state": null,
+        "slash": 55,
+        "blunt": 55,
+        "shot": 45,
+        "fire": 10,
+        "water": 10,
+        "thunder": 0,
+        "ice": 10,
+        "dragon": 10,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 70,
+        "blunt": 40,
+        "shot": 80,
+        "fire": 20,
+        "water": 5,
+        "thunder": 0,
+        "ice": 10,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 60,
+        "shot": 90,
+        "fire": 20,
+        "water": 15,
+        "thunder": 0,
+        "ice": 20,
+        "dragon": 10,
+        "ko": 1
+      },
+      {
+        "part": "Wing",
+        "state": null,
+        "slash": 42,
+        "blunt": 30,
+        "shot": 30,
+        "fire": 20,
+        "water": 10,
+        "thunder": 0,
+        "ice": 20,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Wing (Wound)",
+        "state": null,
+        "slash": 55,
+        "blunt": 55,
+        "shot": 45,
+        "fire": 10,
+        "water": 10,
+        "thunder": 0,
+        "ice": 10,
+        "dragon": 10,
+        "ko": 1
+      }
+    ],
+    "locations": [
+      "Windward plains",
+      "Oilwell Basin",
+      "Iceshard Cliffs",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_17",
+    "game": "wilds",
+    "name": "Gravios",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Fire"
+    ],
+    "ailments": [
+      "Fireblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Water",
+        "stars": 3
+      },
+      {
+        "element": "Dragon",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 20,
+        "blunt": 28,
+        "shot": 20,
+        "fire": 0,
+        "water": 15,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 25,
+        "ko": 0
+      },
+      {
+        "part": "Head (Broken)",
+        "state": null,
+        "slash": 25,
+        "blunt": 35,
+        "shot": 25,
+        "fire": 0,
+        "water": 15,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 80,
+        "blunt": 82,
+        "shot": 80,
+        "fire": 0,
+        "water": 35,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 25,
+        "ko": 1
+      },
+      {
+        "part": "Neck",
+        "state": null,
+        "slash": 25,
+        "blunt": 30,
+        "shot": 20,
+        "fire": 0,
+        "water": 30,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Neck (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 70,
+        "fire": 0,
+        "water": 35,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 35,
+        "ko": 1
+      },
+      {
+        "part": "Belly",
+        "state": null,
+        "slash": 25,
+        "blunt": 30,
+        "shot": 30,
+        "fire": 0,
+        "water": 35,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Belly (Broken)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 60,
+        "fire": 15,
+        "water": 45,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 40,
+        "ko": 0
+      },
+      {
+        "part": "Belly (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 70,
+        "fire": 0,
+        "water": 35,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 35,
+        "ko": 1
+      },
+      {
+        "part": "Back",
+        "state": null,
+        "slash": 25,
+        "blunt": 30,
+        "shot": 25,
+        "fire": 0,
+        "water": 25,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 15,
+        "ko": 0
+      },
+      {
+        "part": "Back (Broken)",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 40,
+        "fire": 5,
+        "water": 35,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 15,
+        "ko": 0
+      },
+      {
+        "part": "Back (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 70,
+        "fire": 0,
+        "water": 35,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 35,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 25,
+        "blunt": 30,
+        "shot": 20,
+        "fire": 0,
+        "water": 30,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 70,
+        "fire": 0,
+        "water": 35,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 35,
+        "ko": 1
+      },
+      {
+        "part": "Leg",
+        "state": null,
+        "slash": 20,
+        "blunt": 20,
+        "shot": 20,
+        "fire": 0,
+        "water": 30,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Leg (Broken)",
+        "state": null,
+        "slash": 30,
+        "blunt": 30,
+        "shot": 25,
+        "fire": 0,
+        "water": 30,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Leg (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 70,
+        "fire": 0,
+        "water": 35,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 35,
+        "ko": 1
+      },
+      {
+        "part": "Wing",
+        "state": null,
+        "slash": 20,
+        "blunt": 20,
+        "shot": 20,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 15,
+        "ko": 0
+      },
+      {
+        "part": "Wing (Broken)",
+        "state": null,
+        "slash": 35,
+        "blunt": 35,
+        "shot": 26,
+        "fire": 0,
+        "water": 20,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 15,
+        "ko": 0
+      },
+      {
+        "part": "Wing (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 70,
+        "fire": 0,
+        "water": 35,
+        "thunder": 15,
+        "ice": 15,
+        "dragon": 35,
+        "ko": 1
+      }
+    ],
+    "locations": [
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_18",
+    "game": "wilds",
+    "name": "Zoh Shia",
+    "name_ja": null,
+    "species": "Construct",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Fire",
+      "Thunder"
+    ],
+    "ailments": [
+      "Fireblight",
+      "Thunderblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Dragon",
+        "stars": 3
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 1
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head (Crystalized)",
+        "state": null,
+        "slash": 40,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 15,
+        "ko": 0
+      },
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 65,
+        "blunt": 70,
+        "shot": 65,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 75,
+        "blunt": 80,
+        "shot": 75,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Wingarm (Crystalized)",
+        "state": null,
+        "slash": 40,
+        "blunt": 40,
+        "shot": 10,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 15,
+        "ko": 0
+      },
+      {
+        "part": "Wingarm",
+        "state": null,
+        "slash": 85,
+        "blunt": 85,
+        "shot": 60,
+        "fire": 20,
+        "water": 5,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Wingarm (State 1)",
+        "state": null,
+        "slash": 65,
+        "blunt": 65,
+        "shot": 55,
+        "fire": 5,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Wingarm (Wound)",
+        "state": null,
+        "slash": 95,
+        "blunt": 95,
+        "shot": 70,
+        "fire": 20,
+        "water": 5,
+        "thunder": 5,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Head (Alt)",
+        "state": null,
+        "slash": 60,
+        "blunt": 65,
+        "shot": 60,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Head (Alt Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 75,
+        "shot": 70,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 1
+      },
+      {
+        "part": "Wingarm (Alt)",
+        "state": null,
+        "slash": 80,
+        "blunt": 80,
+        "shot": 55,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Wingarm (Alt State 1)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 50,
+        "fire": 5,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Wingarm (Alt Wound)",
+        "state": null,
+        "slash": 90,
+        "blunt": 90,
+        "shot": 65,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 1
+      },
+      {
+        "part": "Wingarm (Weak Point)",
+        "state": null,
+        "slash": 100,
+        "blunt": 100,
+        "shot": 100,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 1
+      },
+      {
+        "part": "Foreleg",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 15,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (State 1)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Foreleg (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 60,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 25,
+        "blunt": 25,
+        "shot": 25,
+        "fire": 5,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (State 1)",
+        "state": null,
+        "slash": 40,
+        "blunt": 40,
+        "shot": 40,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 60,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Neck",
+        "state": null,
+        "slash": 30,
+        "blunt": 30,
+        "shot": 40,
+        "fire": 5,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Neck (State 1)",
+        "state": null,
+        "slash": 35,
+        "blunt": 35,
+        "shot": 45,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Neck (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 60,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 25,
+        "blunt": 25,
+        "shot": 5,
+        "fire": 5,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Torso (State 1)",
+        "state": null,
+        "slash": 30,
+        "blunt": 30,
+        "shot": 10,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 20,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 60,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 35,
+        "blunt": 35,
+        "shot": 40,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Tail (State 1)",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 45,
+        "fire": 10,
+        "water": 5,
+        "thunder": 5,
+        "ice": 5,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 60,
+        "blunt": 60,
+        "shot": 60,
+        "fire": 15,
+        "water": 5,
+        "thunder": 5,
+        "ice": 10,
+        "dragon": 30,
+        "ko": 1
+      }
+    ],
+    "locations": "Ruins of Wyveria",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_19",
+    "game": "wilds",
+    "name": "Mizutsune",
+    "name_ja": null,
+    "species": "Leviathan",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [
+      "Water"
+    ],
+    "ailments": [
+      "Waterblight",
+      "Bubbleblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 3
+      },
+      {
+        "element": "Dragon",
+        "stars": 3
+      },
+      {
+        "element": "Ice",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": [
+      {
+        "part": "Head",
+        "state": null,
+        "slash": 63,
+        "blunt": 63,
+        "shot": 45,
+        "fire": 5,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 8,
+        "ko": 0
+      },
+      {
+        "part": "Head (State 1)",
+        "state": null,
+        "slash": 68,
+        "blunt": 68,
+        "shot": 48,
+        "fire": 10,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Head (Wound)",
+        "state": null,
+        "slash": 70,
+        "blunt": 70,
+        "shot": 60,
+        "fire": 10,
+        "water": 0,
+        "thunder": 15,
+        "ice": 10,
+        "dragon": 10,
+        "ko": 1
+      },
+      {
+        "part": "Leg",
+        "state": null,
+        "slash": 28,
+        "blunt": 28,
+        "shot": 10,
+        "fire": 5,
+        "water": 0,
+        "thunder": 25,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Leg (State 1)",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 20,
+        "fire": 10,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Leg (Wound)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 10,
+        "water": 0,
+        "thunder": 30,
+        "ice": 20,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Claw",
+        "state": null,
+        "slash": 24,
+        "blunt": 24,
+        "shot": 10,
+        "fire": 5,
+        "water": 0,
+        "thunder": 30,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Claw (Broken)",
+        "state": null,
+        "slash": 28,
+        "blunt": 28,
+        "shot": 10,
+        "fire": 5,
+        "water": 0,
+        "thunder": 25,
+        "ice": 15,
+        "dragon": 30,
+        "ko": 0
+      },
+      {
+        "part": "Claw (State 1)",
+        "state": null,
+        "slash": 45,
+        "blunt": 45,
+        "shot": 20,
+        "fire": 10,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Claw (Wound)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 10,
+        "water": 0,
+        "thunder": 30,
+        "ice": 20,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Hind Leg",
+        "state": null,
+        "slash": 38,
+        "blunt": 38,
+        "shot": 25,
+        "fire": 5,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Hind Leg (Wound)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 10,
+        "water": 0,
+        "thunder": 30,
+        "ice": 20,
+        "dragon": 0,
+        "ko": 1
+      },
+      {
+        "part": "Torso",
+        "state": null,
+        "slash": 25,
+        "blunt": 25,
+        "shot": 20,
+        "fire": 5,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Torso (Wound)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 10,
+        "water": 0,
+        "thunder": 30,
+        "ice": 20,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Tail",
+        "state": null,
+        "slash": 43,
+        "blunt": 33,
+        "shot": 40,
+        "fire": 5,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tail (State 1)",
+        "state": null,
+        "slash": 43,
+        "blunt": 33,
+        "shot": 40,
+        "fire": 5,
+        "water": 0,
+        "thunder": 10,
+        "ice": 5,
+        "dragon": 5,
+        "ko": 0
+      },
+      {
+        "part": "Tail (Wound)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 10,
+        "water": 0,
+        "thunder": 30,
+        "ice": 20,
+        "dragon": 30,
+        "ko": 1
+      },
+      {
+        "part": "Dorsal Fin",
+        "state": null,
+        "slash": 43,
+        "blunt": 43,
+        "shot": 45,
+        "fire": 8,
+        "water": 0,
+        "thunder": 15,
+        "ice": 5,
+        "dragon": 10,
+        "ko": 0
+      },
+      {
+        "part": "Dorsal Fin (Wound)",
+        "state": null,
+        "slash": 50,
+        "blunt": 50,
+        "shot": 50,
+        "fire": 10,
+        "water": 0,
+        "thunder": 30,
+        "ice": 20,
+        "dragon": 30,
+        "ko": 1
+      }
+    ],
+    "locations": [
+      "Scarlet Forest",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  }
+]

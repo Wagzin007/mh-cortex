@@ -1,0 +1,2424 @@
+[
+  {
+    "id": "mhdos_attack_jewel_1",
+    "game": "mhdos",
+    "name": "Attack Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 1
+      },
+      {
+        "skill_name": "14",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_attack_jewel_2",
+    "game": "mhdos",
+    "name": "Attack Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 3
+      },
+      {
+        "skill_name": "14",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_attack_jewel_3",
+    "game": "mhdos",
+    "name": "Attack Jewel 3",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 5
+      },
+      {
+        "skill_name": "14",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_defense_jewel_1",
+    "game": "mhdos",
+    "name": "Defense Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "14",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_defense_jewel_2",
+    "game": "mhdos",
+    "name": "Defense Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "14",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_defense_jewel_3",
+    "game": "mhdos",
+    "name": "Defense Jewel 3",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "14",
+        "points": 5
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_steadfast_jewel_1",
+    "game": "mhdos",
+    "name": "Steadfast Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "61",
+        "points": 1
+      },
+      {
+        "skill_name": "17",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_steadfast_jewel_2",
+    "game": "mhdos",
+    "name": "Steadfast Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "61",
+        "points": 2
+      },
+      {
+        "skill_name": "17",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_steadfast_jewel_3",
+    "game": "mhdos",
+    "name": "Steadfast Jewel 3",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "61",
+        "points": 3
+      },
+      {
+        "skill_name": "17",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_paralysis_jewel_1",
+    "game": "mhdos",
+    "name": "Paralysis Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "38",
+        "points": 1
+      },
+      {
+        "skill_name": "46",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_paralysis_jewel_2",
+    "game": "mhdos",
+    "name": "Paralysis Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "38",
+        "points": 3
+      },
+      {
+        "skill_name": "46",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_pep_jewel_1",
+    "game": "mhdos",
+    "name": "Pep Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "55",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_pep_jewel_2",
+    "game": "mhdos",
+    "name": "Pep Jewel 2",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "55",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_antidote_jewel_1",
+    "game": "mhdos",
+    "name": "Antidote Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "43",
+        "points": 1
+      },
+      {
+        "skill_name": "56",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_antidote_jewel_2",
+    "game": "mhdos",
+    "name": "Antidote Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "43",
+        "points": 3
+      },
+      {
+        "skill_name": "56",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_antibacterial_jewel_1",
+    "game": "mhdos",
+    "name": "Antibacterial Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "3",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_antibacterial_jewel_2",
+    "game": "mhdos",
+    "name": "Antibacterial Jewel 2",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "3",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_steady_jewel",
+    "game": "mhdos",
+    "name": "Steady Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "67",
+        "points": 1
+      },
+      {
+        "skill_name": "55",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_minstrel_s_jewel",
+    "game": "mhdos",
+    "name": "Minstrel's Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "68",
+        "points": 1
+      },
+      {
+        "skill_name": "3",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_snow_resistance_jewel",
+    "game": "mhdos",
+    "name": "Snow Resistance Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "56",
+        "points": 1
+      },
+      {
+        "skill_name": "61",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_ninja_jewel",
+    "game": "mhdos",
+    "name": "Ninja Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "53",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_vitality_jewel_1",
+    "game": "mhdos",
+    "name": "Vitality Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "28",
+        "points": 1
+      },
+      {
+        "skill_name": "17",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_vitality_jewel_2",
+    "game": "mhdos",
+    "name": "Vitality Jewel 2",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "28",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_vitality_jewel_3",
+    "game": "mhdos",
+    "name": "Vitality Jewel 3",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "28",
+        "points": 3
+      },
+      {
+        "skill_name": "14",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_handicraft_jewel",
+    "game": "mhdos",
+    "name": "Handicraft Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "27",
+        "points": 1
+      },
+      {
+        "skill_name": "44",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_handicraft_jewel",
+    "game": "mhdos",
+    "name": "Handicraft Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "27",
+        "points": 1
+      },
+      {
+        "skill_name": "44",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_razor_jewel_1",
+    "game": "mhdos",
+    "name": "Razor Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "54",
+        "points": 1
+      },
+      {
+        "skill_name": "59",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_razor_jewel_2",
+    "game": "mhdos",
+    "name": "Razor Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "54",
+        "points": 3
+      },
+      {
+        "skill_name": "59",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_expert_jewel_1",
+    "game": "mhdos",
+    "name": "Expert Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "20",
+        "points": 1
+      },
+      {
+        "skill_name": "51",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_expert_jewel_2",
+    "game": "mhdos",
+    "name": "Expert Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "20",
+        "points": 3
+      },
+      {
+        "skill_name": "51",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_grinder_jewel",
+    "game": "mhdos",
+    "name": "Grinder Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "58",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_ironwall_jewel",
+    "game": "mhdos",
+    "name": "Ironwall Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "26",
+        "points": 1
+      },
+      {
+        "skill_name": "59",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_guard_jewel_1",
+    "game": "mhdos",
+    "name": "Guard Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "6",
+        "points": 1
+      },
+      {
+        "skill_name": "58",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_guard_jewel_2",
+    "game": "mhdos",
+    "name": "Guard Jewel 2",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "6",
+        "points": 3
+      },
+      {
+        "skill_name": "58",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_throwing_jewel",
+    "game": "mhdos",
+    "name": "Throwing Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "63",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_absorber_jewel_1",
+    "game": "mhdos",
+    "name": "Absorber Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "49",
+        "points": 1
+      },
+      {
+        "skill_name": "30",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_absorber_jewel_2",
+    "game": "mhdos",
+    "name": "Absorber Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "49",
+        "points": 2
+      },
+      {
+        "skill_name": "30",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_forceshot_jewel",
+    "game": "mhdos",
+    "name": "Forceshot Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "37",
+        "points": 1
+      },
+      {
+        "skill_name": "52",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_pierce_jewel",
+    "game": "mhdos",
+    "name": "Pierce Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "42",
+        "points": 1
+      },
+      {
+        "skill_name": "52",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_pellet_jewel",
+    "game": "mhdos",
+    "name": "Pellet Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "40",
+        "points": 1
+      },
+      {
+        "skill_name": "52",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_shot_plus_jewel_1",
+    "game": "mhdos",
+    "name": "Shot Plus Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "36",
+        "points": 1
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_pierce_plus_jewel_1",
+    "game": "mhdos",
+    "name": "Pierce Plus Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "41",
+        "points": 1
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_pellet_plus_jewel_1",
+    "game": "mhdos",
+    "name": "Pellet Plus Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "39",
+        "points": 1
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_crag_plus_jewel_1",
+    "game": "mhdos",
+    "name": "Crag Plus Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "13",
+        "points": 1
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_cluster_plus_jewel_1",
+    "game": "mhdos",
+    "name": "Cluster Plus Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "9",
+        "points": 1
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_shot_plus_jewel_2",
+    "game": "mhdos",
+    "name": "Shot Plus Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "36",
+        "points": 3
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_pierce_plus_jewel_2",
+    "game": "mhdos",
+    "name": "Pierce Plus Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "41",
+        "points": 3
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_pellet_plus_jewel_2",
+    "game": "mhdos",
+    "name": "Pellet Plus Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "39",
+        "points": 3
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_crag_plus_jewel_2",
+    "game": "mhdos",
+    "name": "Crag Plus Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "13",
+        "points": 3
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_cluster_plus_jewel_2",
+    "game": "mhdos",
+    "name": "Cluster Plus Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "9",
+        "points": 3
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_loading_jewel",
+    "game": "mhdos",
+    "name": "Loading Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "33",
+        "points": 1
+      },
+      {
+        "skill_name": "52",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_precision_jewel",
+    "game": "mhdos",
+    "name": "Precision Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "45",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_status_jewel",
+    "game": "mhdos",
+    "name": "Status Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "60",
+        "points": 1
+      },
+      {
+        "skill_name": "50",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_bombardier_jewel",
+    "game": "mhdos",
+    "name": "Bombardier Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_satiation_jewel",
+    "game": "mhdos",
+    "name": "Satiation Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "30",
+        "points": 1
+      },
+      {
+        "skill_name": "29",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_metabolic_jewel",
+    "game": "mhdos",
+    "name": "Metabolic Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "25",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_ravenous_jewel",
+    "game": "mhdos",
+    "name": "Ravenous Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "17",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_bbq_jewel",
+    "game": "mhdos",
+    "name": "BBQ Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "12",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_stamina_jewel",
+    "game": "mhdos",
+    "name": "Stamina Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "59",
+        "points": 1
+      },
+      {
+        "skill_name": "62",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_divine_jewel",
+    "game": "mhdos",
+    "name": "Divine Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "46",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_earplug_jewel_1",
+    "game": "mhdos",
+    "name": "Earplug Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "16",
+        "points": 1
+      },
+      {
+        "skill_name": "46",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_earplug_jewel_2",
+    "game": "mhdos",
+    "name": "Earplug Jewel 2",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "16",
+        "points": 4
+      },
+      {
+        "skill_name": "46",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_heavy_jewel_1",
+    "game": "mhdos",
+    "name": "Heavy Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "72",
+        "points": 1
+      },
+      {
+        "skill_name": "21",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_heavy_jewel_2",
+    "game": "mhdos",
+    "name": "Heavy Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "72",
+        "points": 3
+      },
+      {
+        "skill_name": "21",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_traveller_s_jewel",
+    "game": "mhdos",
+    "name": "Traveller's Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "62",
+        "points": 1
+      },
+      {
+        "skill_name": "59",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_evasion_jewel_1",
+    "game": "mhdos",
+    "name": "Evasion Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "19",
+        "points": 1
+      },
+      {
+        "skill_name": "10",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_evasion_jewel_2",
+    "game": "mhdos",
+    "name": "Evasion Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "19",
+        "points": 2
+      },
+      {
+        "skill_name": "10",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_riskbreaker_jewel",
+    "game": "mhdos",
+    "name": "Riskbreaker Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "44",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_anti_theft_jewel",
+    "game": "mhdos",
+    "name": "Anti-Theft Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_enduring_jewel_1",
+    "game": "mhdos",
+    "name": "Enduring Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "32",
+        "points": 1
+      },
+      {
+        "skill_name": "71",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_enduring_jewel_2",
+    "game": "mhdos",
+    "name": "Enduring Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "32",
+        "points": 2
+      },
+      {
+        "skill_name": "71",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_friendship_jewel_1",
+    "game": "mhdos",
+    "name": "Friendship Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "71",
+        "points": 1
+      },
+      {
+        "skill_name": "61",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_friendship_jewel_2",
+    "game": "mhdos",
+    "name": "Friendship Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "71",
+        "points": 3
+      },
+      {
+        "skill_name": "61",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_transport_jewel_1",
+    "game": "mhdos",
+    "name": "Transport Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "66",
+        "points": 1
+      },
+      {
+        "skill_name": "53",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_transport_jewel_2",
+    "game": "mhdos",
+    "name": "Transport Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "66",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_resistance_jewel_1",
+    "game": "mhdos",
+    "name": "Resistance Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "18",
+        "points": 1
+      },
+      {
+        "skill_name": "55",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_resistance_jewel_2",
+    "game": "mhdos",
+    "name": "Resistance Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "18",
+        "points": 3
+      },
+      {
+        "skill_name": "55",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_resistance_jewel_3",
+    "game": "mhdos",
+    "name": "Resistance Jewel 3",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "18",
+        "points": 5
+      },
+      {
+        "skill_name": "55",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_blaze_jewel_1",
+    "game": "mhdos",
+    "name": "Blaze Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "22",
+        "points": 1
+      },
+      {
+        "skill_name": "69",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_blaze_jewel_2",
+    "game": "mhdos",
+    "name": "Blaze Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "22",
+        "points": 3
+      },
+      {
+        "skill_name": "69",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_blaze_jewel_3",
+    "game": "mhdos",
+    "name": "Blaze Jewel 3",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "22",
+        "points": 5
+      },
+      {
+        "skill_name": "69",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_stream_jewel_1",
+    "game": "mhdos",
+    "name": "Stream Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "69",
+        "points": 1
+      },
+      {
+        "skill_name": "22",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_stream_jewel_2",
+    "game": "mhdos",
+    "name": "Stream Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "69",
+        "points": 3
+      },
+      {
+        "skill_name": "22",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_stream_jewel_3",
+    "game": "mhdos",
+    "name": "Stream Jewel 3",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "69",
+        "points": 5
+      },
+      {
+        "skill_name": "22",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_frost_jewel_1",
+    "game": "mhdos",
+    "name": "Frost Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "31",
+        "points": 1
+      },
+      {
+        "skill_name": "64",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_frost_jewel_2",
+    "game": "mhdos",
+    "name": "Frost Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "31",
+        "points": 3
+      },
+      {
+        "skill_name": "64",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_frost_jewel_3",
+    "game": "mhdos",
+    "name": "Frost Jewel 3",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "31",
+        "points": 5
+      },
+      {
+        "skill_name": "64",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_bolt_jewel_1",
+    "game": "mhdos",
+    "name": "Bolt Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "64",
+        "points": 1
+      },
+      {
+        "skill_name": "15",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_bolt_jewel_2",
+    "game": "mhdos",
+    "name": "Bolt Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "64",
+        "points": 3
+      },
+      {
+        "skill_name": "15",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_bolt_jewel_3",
+    "game": "mhdos",
+    "name": "Bolt Jewel 3",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "64",
+        "points": 5
+      },
+      {
+        "skill_name": "15",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_dragon_jewel_1",
+    "game": "mhdos",
+    "name": "Dragon Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "15",
+        "points": 1
+      },
+      {
+        "skill_name": "31",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_dragon_jewel_2",
+    "game": "mhdos",
+    "name": "Dragon Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "15",
+        "points": 3
+      },
+      {
+        "skill_name": "31",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_dragon_jewel_3",
+    "game": "mhdos",
+    "name": "Dragon Jewel 3",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "15",
+        "points": 5
+      },
+      {
+        "skill_name": "31",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_cold_jewel_1",
+    "game": "mhdos",
+    "name": "Cold Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "29",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_cold_jewel_2",
+    "game": "mhdos",
+    "name": "Cold Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "29",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_hot_jewel_1",
+    "game": "mhdos",
+    "name": "Hot Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "10",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_hot_jewel_2",
+    "game": "mhdos",
+    "name": "Hot Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "10",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_map_jewel",
+    "game": "mhdos",
+    "name": "Map Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "34",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_gathering_jewel_1",
+    "game": "mhdos",
+    "name": "Gathering Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "24",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_gathering_jewel_2",
+    "game": "mhdos",
+    "name": "Gathering Jewel 2",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "24",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_gathering_jewel_3",
+    "game": "mhdos",
+    "name": "Gathering Jewel 3",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "24",
+        "points": 3
+      },
+      {
+        "skill_name": "70",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_snatcher_jewel_1",
+    "game": "mhdos",
+    "name": "Snatcher Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "57",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_snatcher_jewel_2",
+    "game": "mhdos",
+    "name": "Snatcher Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "57",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_blessing_jewel_1",
+    "game": "mhdos",
+    "name": "Blessing Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "70",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_blessing_jewel_2",
+    "game": "mhdos",
+    "name": "Blessing Jewel 2",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "70",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_carver_jewel_1",
+    "game": "mhdos",
+    "name": "Carver Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "8",
+        "points": 1
+      },
+      {
+        "skill_name": "59",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_carver_jewel_2",
+    "game": "mhdos",
+    "name": "Carver Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "8",
+        "points": 3
+      },
+      {
+        "skill_name": "59",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_fate_jewel_1",
+    "game": "mhdos",
+    "name": "Fate Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "21",
+        "points": 1
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_fate_jewel_2",
+    "game": "mhdos",
+    "name": "Fate Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "21",
+        "points": 2
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_fisher_s_jewel",
+    "game": "mhdos",
+    "name": "Fisher's Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "23",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_psychic_jewel_1",
+    "game": "mhdos",
+    "name": "Psychic Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "47",
+        "points": 1
+      },
+      {
+        "skill_name": "53",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_psychic_jewel_2",
+    "game": "mhdos",
+    "name": "Psychic Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "47",
+        "points": 3
+      },
+      {
+        "skill_name": "53",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_psychic_jewel_3",
+    "game": "mhdos",
+    "name": "Psychic Jewel 3",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "47",
+        "points": 5
+      },
+      {
+        "skill_name": "53",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_recovery_jewel_1",
+    "game": "mhdos",
+    "name": "Recovery Jewel 1",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "50",
+        "points": 1
+      },
+      {
+        "skill_name": "43",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_recovery_jewel_2",
+    "game": "mhdos",
+    "name": "Recovery Jewel 2",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "50",
+        "points": 2
+      },
+      {
+        "skill_name": "43",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_medicine_jewel",
+    "game": "mhdos",
+    "name": "Medicine Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "51",
+        "points": 1
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_medicine_jewel",
+    "game": "mhdos",
+    "name": "Medicine Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "51",
+        "points": 1
+      },
+      {
+        "skill_name": "70",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_professor_jewel",
+    "game": "mhdos",
+    "name": "Professor Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "11",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_combination_jewel",
+    "game": "mhdos",
+    "name": "Combination Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "1",
+        "points": 1
+      },
+      {
+        "skill_name": "46",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_alchemical_jewel",
+    "game": "mhdos",
+    "name": "Alchemical Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "0",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_giant_jewel",
+    "game": "mhdos",
+    "name": "Giant Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "35",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  },
+  {
+    "id": "mhdos_cannoneer_s_jewel",
+    "game": "mhdos",
+    "name": "Cannoneer's Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "4",
+        "points": 2
+      },
+      {
+        "skill_name": "59",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": []
+    },
+    "source_file": "mhdos_decorations.json"
+  }
+]

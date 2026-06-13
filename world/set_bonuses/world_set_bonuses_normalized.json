@@ -1,0 +1,1103 @@
+[
+  {
+    "id": "world_bonus_anjanath_power",
+    "game": "world",
+    "name": "Anjanath Power",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Adrenaline",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_legiana_blessing",
+    "game": "world",
+    "name": "Legiana Blessing",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Good Luck",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_odogaron_power",
+    "game": "world",
+    "name": "Odogaron Power",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Punishing Draw",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_rathalos_power",
+    "game": "world",
+    "name": "Rathalos Power",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Critical Element",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_diablos_power",
+    "game": "world",
+    "name": "Diablos Power",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Bludgeoner",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_kirin_blessing",
+    "game": "world",
+    "name": "Kirin Blessing",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 4,
+        "skill_name": "Capture Master",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_anjanath_will",
+    "game": "world",
+    "name": "Anjanath Will",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Adrenaline",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Stamina Cap Up",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_pink_rathian_mastery",
+    "game": "world",
+    "name": "Pink Rathian Mastery",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Poison Duration Up",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_zorah_magdaros_mastery",
+    "game": "world",
+    "name": "Zorah Magdaros Mastery",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Critical Status",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_legiana_favor",
+    "game": "world",
+    "name": "Legiana Favor",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Good Luck",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Bow Charge Plus",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_odogaron_mastery",
+    "game": "world",
+    "name": "Odogaron Mastery",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Punishing Draw",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Protective Polish",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_rathalos_mastery",
+    "game": "world",
+    "name": "Rathalos Mastery",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Critical Element",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Mind's Eye/Ballistics",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_diablos_mastery",
+    "game": "world",
+    "name": "Diablos Mastery",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Bludgeoner",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Non-elemental Boost",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_uragaan_protection",
+    "game": "world",
+    "name": "Uragaan Protection",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Guard Up",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_bazelgeuse_protection",
+    "game": "world",
+    "name": "Bazelgeuse Protection",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Guts",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_nergigante_hunger",
+    "game": "world",
+    "name": "Nergigante Hunger",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Hasten Recovery",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_teostra_technique",
+    "game": "world",
+    "name": "Teostra Technique",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Master's Touch",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_kushala_daora_flight",
+    "game": "world",
+    "name": "Kushala Daora Flight",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Nullify Wind Pressure",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_vaal_hazak_vitality",
+    "game": "world",
+    "name": "Vaal Hazak Vitality",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Super Recovery",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_kirin_favor",
+    "game": "world",
+    "name": "Kirin Favor",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Capture Master",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_xeno_jiiva_divinity",
+    "game": "world",
+    "name": "Xeno'jiiva Divinity",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Razor Sharp/Spare Shot",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_guild_guidance",
+    "game": "world",
+    "name": "Guild Guidance",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 4,
+        "skill_name": "Great Luck",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_commission_guidance",
+    "game": "world",
+    "name": "Commission Guidance",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 4,
+        "skill_name": "Carving Master",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_lunastra_favor",
+    "game": "world",
+    "name": "Lunastra Favor",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Stamina Cap Up",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Mind's Eye/Ballistics",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_astera_blessing",
+    "game": "world",
+    "name": "Astera Blessing",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 5,
+        "skill_name": "Great Luck",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_soul_of_the_dragoon",
+    "game": "world",
+    "name": "Soul of the Dragoon",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Elemental Airborne",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Master's Touch",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_anjanath_dominance",
+    "game": "world",
+    "name": "Anjanath Dominance",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Stamina Cap Up",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_rathian_essence",
+    "game": "world",
+    "name": "Rathian Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Poison Duration Up",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_ancient_divinity",
+    "game": "world",
+    "name": "Ancient Divinity",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Critical Status",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_commission_alchemy",
+    "game": "world",
+    "name": "Commission Alchemy",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Bombardier Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_barioth_hidden_art",
+    "game": "world",
+    "name": "Barioth Hidden Art",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Punishing Draw",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_rathalos_essence",
+    "game": "world",
+    "name": "Rathalos Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Mind's Eye/Ballistics",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_diablos_ambition",
+    "game": "world",
+    "name": "Diablos Ambition",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Slugger Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_legiana_ambition",
+    "game": "world",
+    "name": "Legiana Ambition",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Bow Charge Plus",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_odogaron_essence",
+    "game": "world",
+    "name": "Odogaron Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Protective Polish",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_uragaan_ambition",
+    "game": "world",
+    "name": "Uragaan Ambition",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Guard Up",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_nargacuga_essence",
+    "game": "world",
+    "name": "Nargacuga Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "True Razor Sharp/Spare Shot",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_glavenus_essence",
+    "game": "world",
+    "name": "Glavenus Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Maximum Might Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_brachydios_essence",
+    "game": "world",
+    "name": "Brachydios Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Agitator Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_tigrex_essence",
+    "game": "world",
+    "name": "Tigrex Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Free Meal Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_instructor_s_guidance",
+    "game": "world",
+    "name": "Instructor's Guidance",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Capture Master",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_bazelgeuse_ambition",
+    "game": "world",
+    "name": "Bazelgeuse Ambition",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Guts",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_deviljho_essence",
+    "game": "world",
+    "name": "Deviljho Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Stamina Thief Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_velkhana_divinity",
+    "game": "world",
+    "name": "Velkhana Divinity",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Critical Element",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Frostcraft",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_vaal_soulvein",
+    "game": "world",
+    "name": "Vaal Soulvein",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Super Recovery",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_kirin_divinity",
+    "game": "world",
+    "name": "Kirin Divinity",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Great Luck",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_namielle_divinity",
+    "game": "world",
+    "name": "Namielle Divinity",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Element Acceleration",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "True Element Acceleration",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_guild_pride",
+    "game": "world",
+    "name": "Guild Pride",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Good Luck",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Carving Master",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_shara_ishvalda_divinity",
+    "game": "world",
+    "name": "Shara Ishvalda Divinity",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 4,
+        "skill_name": "Gaia's Veil",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 5,
+        "skill_name": "True Gaia's Veil",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_zorah_magdaros_essence",
+    "game": "world",
+    "name": "Zorah Magdaros Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Artillery Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_zinogre_essence",
+    "game": "world",
+    "name": "Zinogre Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Latent Power Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_gold_rathian_essence",
+    "game": "world",
+    "name": "Gold Rathian Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Divine Blessing Secret",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "True Critical Status",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_silver_rathalos_essence",
+    "game": "world",
+    "name": "Silver Rathalos Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Slinger Ammo Secret",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "True Critical Element",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_lunastra_essence",
+    "game": "world",
+    "name": "Lunastra Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Tool Specialist Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_nergigante_ambition",
+    "game": "world",
+    "name": "Nergigante Ambition",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Hasten Recovery",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_joyful_blessing",
+    "game": "world",
+    "name": "Joyful Blessing",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Joy's Gift",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 5,
+        "skill_name": "Joy's Gratitude",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_appreciation_blessing",
+    "game": "world",
+    "name": "Appreciation Blessing",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Gratitude's Gift",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 5,
+        "skill_name": "Gratitude's Blessing",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_rajang_s_rage",
+    "game": "world",
+    "name": "Rajang's Rage",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Mind's Eye/Ballistics",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Protective Polish",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_rajang_will",
+    "game": "world",
+    "name": "Rajang Will",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Maximum Might Secret",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Heroics Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_safi_jiiva_seal",
+    "game": "world",
+    "name": "Safi'jiiva Seal",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Dragonvein Awakening",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 5,
+        "skill_name": "True Dragonvein Awakening",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_brachydios_will",
+    "game": "world",
+    "name": "Brachydios Will",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Agitator Secret",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Artillery Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_full_bloom_blessing",
+    "game": "world",
+    "name": "Full Bloom Blessing",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Full Bloom's Gift",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 5,
+        "skill_name": "Full Bloom Gratitude",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_alatreon_divinity",
+    "game": "world",
+    "name": "Alatreon Divinity",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Element Conversion",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 3,
+        "skill_name": "All Elemental Resistance",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_kulve_taroth_essence",
+    "game": "world",
+    "name": "Kulve Taroth Essence",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Guts",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Free Meal Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_frostfang_absolute_art",
+    "game": "world",
+    "name": "Frostfang Absolute Art",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 1,
+        "skill_name": "Punishing Draw",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 3,
+        "skill_name": "Slugger Secret",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_new_world",
+    "game": "world",
+    "name": "New World",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Hasten Recovery",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Great Luck",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_fatalis_legend",
+    "game": "world",
+    "name": "Fatalis Legend",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 2,
+        "skill_name": "Inheritance",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 4,
+        "skill_name": "Transcendance",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_fun_fright_blessing",
+    "game": "world",
+    "name": "Fun Fright Blessing",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Fun Fright's Gift",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 5,
+        "skill_name": "Fun Fright's Gratitude",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  },
+  {
+    "id": "world_bonus_sizzling_blessing",
+    "game": "world",
+    "name": "Sizzling Blessing",
+    "name_ja": null,
+    "thresholds": [
+      {
+        "pieces_required": 3,
+        "skill_name": "Sizzling Gift",
+        "skill_id": null
+      },
+      {
+        "pieces_required": 5,
+        "skill_name": "Sizzling Gratitude",
+        "skill_id": null
+      }
+    ],
+    "source_file": "mhworld_armors.json"
+  }
+]
