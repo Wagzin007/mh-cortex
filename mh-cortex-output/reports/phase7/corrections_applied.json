@@ -1,0 +1,69 @@
+{
+  "date": "2026-06-05",
+  "corrections": [
+    {
+      "fix": "FIX-001",
+      "file": "world/monsters/mhworld_monsters_detailed.json",
+      "monster": "Brute Tigrex",
+      "field": "species",
+      "before": "fkying wyvern",
+      "after": "flying wyvern",
+      "status": "APPLIED"
+    },
+    {
+      "fix": "FIX-002",
+      "file": "cross-game/all_monsters.json",
+      "removed": [
+        "Versa Pietru"
+      ],
+      "before_count": 337,
+      "after_count": 336,
+      "status": "APPLIED"
+    },
+    {
+      "fix": "FIX-003",
+      "file": "rise/skills/mhrise_skills.json",
+      "removed": [
+        "Stormsoul"
+      ],
+      "before_count": 112,
+      "after_count": 111,
+      "status": "APPLIED"
+    },
+    {
+      "fix": "FIX-004",
+      "file": "cross-game/all_monsters.json",
+      "monster": "Gastodon",
+      "field": "type",
+      "before": "Leviathan",
+      "after": "herbivore",
+      "status": "APPLIED"
+    },
+    {
+      "fix": "FIX-005",
+      "file": "cross-game/all_monsters.json",
+      "monster": "Scarred Yian Garuga",
+      "field": "type",
+      "before": "Flying Wyvern",
+      "after": "bird wyvern",
+      "status": "APPLIED"
+    },
+    {
+      "fix": "FIX-006",
+      "file": "rise/weapons/mhrise_weapons.json",
+      "field_added": "weapon_type_name",
+      "records_enriched": 1860,
+      "status": "APPLIED"
+    },
+    {
+      "fix": "FIX-007",
+      "file": "cross-game/all_monsters.json",
+      "added": [
+        "Nightshade Paolomu",
+        "Silver Rathian"
+      ],
+      "total_after": 338,
+      "status": "APPLIED"
+    }
+  ]
+}

@@ -1,0 +1,1500 @@
+[
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Attack",
+    "points": "+20",
+    "skill_name": "Attack Up (Small)",
+    "description": "True Raw +20"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Attack",
+    "points": "+15",
+    "skill_name": "Attack Up (Medium)",
+    "description": "True Raw +15"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Attack",
+    "points": "+10",
+    "skill_name": "Attack Up (Large)",
+    "description": "True Raw +10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Attack",
+    "points": "-10",
+    "skill_name": "Attack Down (Small)",
+    "description": "True Raw -5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Attack",
+    "points": "-15",
+    "skill_name": "Attack Down (Medium)",
+    "description": "True Raw -10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Attack",
+    "points": "-20",
+    "skill_name": "Attack Down (Large)",
+    "description": "True Raw -15"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Defense",
+    "points": "+20",
+    "skill_name": "Defense +40",
+    "description": "Defense +40"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Defense",
+    "points": "+15",
+    "skill_name": "Defense +30",
+    "description": "Defense +30"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Defense",
+    "points": "+10",
+    "skill_name": "Defense +20",
+    "description": "Defense +20"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Defense",
+    "points": "-10",
+    "skill_name": "Defense -20",
+    "description": "Defense -20"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Defense",
+    "points": "-15",
+    "skill_name": "Defense -30",
+    "description": "Defense -30"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Defense",
+    "points": "-20",
+    "skill_name": "Defense -40",
+    "description": "Defense -40"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Health",
+    "points": "+20",
+    "skill_name": "Health +50",
+    "description": "Health +50"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Health",
+    "points": "+15",
+    "skill_name": "Health +30",
+    "description": "Health +30"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Health",
+    "points": "+10",
+    "skill_name": "Health +20",
+    "description": "Health +20"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Health",
+    "points": "-10",
+    "skill_name": "Health -10",
+    "description": "Health -10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Health",
+    "points": "-15",
+    "skill_name": "Health -20",
+    "description": "Health -20"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Health",
+    "points": "-20",
+    "skill_name": "Health -30",
+    "description": "Health -30"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "All Resist",
+    "points": "+20",
+    "skill_name": "All Res +10",
+    "description": "All Resistances +10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "All Resist",
+    "points": "+15",
+    "skill_name": "All Res +5",
+    "description": "All Resistances +5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "All Resist",
+    "points": "+10",
+    "skill_name": "All Res +3",
+    "description": "All Resistances +3"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "All Resist",
+    "points": "-10",
+    "skill_name": "All Res -3",
+    "description": "All Resistances -3"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "All Resist",
+    "points": "-15",
+    "skill_name": "All Res -5",
+    "description": "All Resistances -5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "All Resist",
+    "points": "-20",
+    "skill_name": "All Res -10",
+    "description": "All Resistances -10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Fire Res",
+    "points": "+15",
+    "skill_name": "Fire Res +10",
+    "description": "Fire Resistance +10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Fire Res",
+    "points": "+10",
+    "skill_name": "Fire Res +5",
+    "description": "Fire Resistance +5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Fire Res",
+    "points": "-10",
+    "skill_name": "Fire Res -5",
+    "description": "Fire Resistance -5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Fire Res",
+    "points": "-15",
+    "skill_name": "Fire Res -10",
+    "description": "Fire Resistance -10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Water Res",
+    "points": "+15",
+    "skill_name": "Water Res +10",
+    "description": "Water Resistance +10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Water Res",
+    "points": "+10",
+    "skill_name": "Water Res +5",
+    "description": "Water Resistance +5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Water Res",
+    "points": "-10",
+    "skill_name": "Water Res -5",
+    "description": "Water Resistance -5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Water Res",
+    "points": "-15",
+    "skill_name": "Water Res -10",
+    "description": "Water Resistance -10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "ThunderRes",
+    "points": "+15",
+    "skill_name": "Thunder Res +10",
+    "description": "Thunder Resistance +10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "ThunderRes",
+    "points": "+10",
+    "skill_name": "Thunder Res +5",
+    "description": "Thunder Resistance +5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "ThunderRes",
+    "points": "-10",
+    "skill_name": "Thunder Res -5",
+    "description": "Thunder Resistance -5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "ThunderRes",
+    "points": "-15",
+    "skill_name": "Thunder Res -10",
+    "description": "Thunder Resistance -10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Ice Res",
+    "points": "+15",
+    "skill_name": "Ice Res +10",
+    "description": "Ice Resistance +10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Ice Res",
+    "points": "+10",
+    "skill_name": "Ice Res +5",
+    "description": "Ice Resistance +5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Ice Res",
+    "points": "-10",
+    "skill_name": "Ice Res -5",
+    "description": "Ice Resistance -5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Ice Res",
+    "points": "-15",
+    "skill_name": "Ice Res -10",
+    "description": "Ice Resistance -10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Dragon Res",
+    "points": "+15",
+    "skill_name": "Dragon Res +10",
+    "description": "Dragon Resistance +10"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Dragon Res",
+    "points": "+10",
+    "skill_name": "Dragon Res +5",
+    "description": "Dragon Resistance +5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Dragon Res",
+    "points": "-10",
+    "skill_name": "Dragon Res -5",
+    "description": "Dragon Resistance -5"
+  },
+  {
+    "skill_type": "Stat bonus skills",
+    "skill_point": "Dragon Res",
+    "points": "-15",
+    "skill_name": "Dragon Res -10",
+    "description": "Dragon Resistance -10"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Faint",
+    "points": "+15",
+    "skill_name": "Faint Negated",
+    "description": "Prevents the Hunter from being Stunned"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Faint",
+    "points": "+10",
+    "skill_name": "Faint Prob Halved",
+    "description": "Reduces Stun buildup on the Hunter by half"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Faint",
+    "points": "-10",
+    "skill_name": "Faint Duration(x2)",
+    "description": "Doubles duration of Stun on the Hunter"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Poison",
+    "points": "+15",
+    "skill_name": "Poison Negated",
+    "description": "Prevents the Hunter from being Poisoned"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Poison",
+    "points": "+10",
+    "skill_name": "Poison Dur Halved",
+    "description": "Halves Poison damage taken"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Poison",
+    "points": "-10",
+    "skill_name": "Poison Dur(x2)",
+    "description": "Doubles Poison damage taken"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Paralysis",
+    "points": "+15",
+    "skill_name": "Paralysis Negated",
+    "description": "Prevents the Hunter from being Paralyzed"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Paralysis",
+    "points": "+10",
+    "skill_name": "Para Duration Halved",
+    "description": "Halves the duration of Paralysis on the Hunter"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Paralysis",
+    "points": "-10",
+    "skill_name": "Para Duration(x2)",
+    "description": "Doubles duration of Paralysis on the Hunter"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Sleep",
+    "points": "+15",
+    "skill_name": "Sleep Negated",
+    "description": "Prevents the Hunter from being put to Sleep"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Sleep",
+    "points": "+10",
+    "skill_name": "Sleep Dur Halved",
+    "description": "Halves the duration of Sleep on the Hunter"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Sleep",
+    "points": "-10",
+    "skill_name": "Sleep Duration(x2)",
+    "description": "Doubles duration of Sleep on the Hunter"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Antiseptic",
+    "points": "+10",
+    "skill_name": "Antiseptic",
+    "description": "Prevents the Hunter from being afflicted with Soiled"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Fatigue",
+    "points": "+10",
+    "skill_name": "Fatigue Cancellation",
+    "description": "Prevents the Hunter from being afflicted with Fatigue"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Snow Res",
+    "points": "+10",
+    "skill_name": "Snow Res",
+    "description": "Prevents the Hunter from being afflicted with Snowman"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Quake Res",
+    "points": "+10",
+    "skill_name": "Quake Resistance",
+    "description": "Protects against Quakes"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "HearProtct",
+    "points": "+15",
+    "skill_name": "High Grade Earplug",
+    "description": "Protects against all Roars(Details)"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "HearProtct",
+    "points": "+10",
+    "skill_name": "Earplug",
+    "description": "Protects against small Roars(Details)"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Wind Press",
+    "points": "+20",
+    "skill_name": "Dragon Wind Breaker",
+    "description": "Protects against all Wind Pressure(Details)"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Wind Press",
+    "points": "+15",
+    "skill_name": "High Wind Res",
+    "description": "Protects against High Wind Pressure(Details)"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Wind Press",
+    "points": "+10",
+    "skill_name": "Low Wind Res",
+    "description": "Protects against Low Wind Pressure(Details)"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "Anti-Theft",
+    "points": "+10",
+    "skill_name": "Steal No Effect",
+    "description": "Prevents items from being stolen"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "ResistSts",
+    "points": "+10",
+    "skill_name": "Self-Defense",
+    "description": "Composite skill: Poison Negated, Paralysis Negated,\n                        Sleep Negated, Faint Negated"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "AntiFirDrg",
+    "points": "+10",
+    "skill_name": "Metallic Protection",
+    "description": "Composite Skill: TerrainDamageNegate, Fire Res +10"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "AntiDaora",
+    "points": "+10",
+    "skill_name": "Frosty Protection",
+    "description": "Composite Skill: Dragon Wind Breaker, Snow Res"
+  },
+  {
+    "skill_type": "Resistance skills",
+    "skill_point": "AntiChamel",
+    "points": "+10",
+    "skill_name": "Fiery Protection",
+    "description": "Composite Skill: Poison Negated, Steal No Effect,\n                        Fatigue Cancellation"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Artisan",
+    "points": "+10",
+    "skill_name": "Sharpness +1",
+    "description": "Increases the weapon's visible sharpness level"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Sharpness",
+    "points": "+10",
+    "skill_name": "Sharp Sword",
+    "description": "Reduces sharpness consumption by half. If the original\n                        cost was already 1, there is a 50% chance no sharpness\n                        will be consumed"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Sharpness",
+    "points": "-10",
+    "skill_name": "Blunt",
+    "description": "Doubles sharpness consumption"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Fencing",
+    "points": "+10",
+    "skill_name": "ESP",
+    "description": "Attacks will not bounce"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "SwdShrpner",
+    "points": "+10",
+    "skill_name": "Sharpening Skl Inc",
+    "description": "Whetstone items sharpen weapons in a single stroke"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "SwdShrpner",
+    "points": "-10",
+    "skill_name": "Sharpening Skl Half",
+    "description": "Halves the sharpness recovery of Whetstone items"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Guard",
+    "points": "+20",
+    "skill_name": "Guard +2",
+    "description": "Further reduces damage, knockback and stamina usage when\n                        blocking"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Guard",
+    "points": "+10",
+    "skill_name": "Guard +1",
+    "description": "Reduces damage, knockback and stamina usage when\n                        blocking"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Guard",
+    "points": "-10",
+    "skill_name": "Guard -1",
+    "description": "Increases damage, knockback and stamina usage when\n                        blocking"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Auto-Guard",
+    "points": "+10",
+    "skill_name": "Auto-Guard",
+    "description": "Automatically blocks attacks if possible"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Sword Draw",
+    "points": "+10",
+    "skill_name": "Art of Unsheathing",
+    "description": "Unsheathe attacks will always hit critically"
+  },
+  {
+    "skill_type": "Blademaster skills",
+    "skill_point": "Edgemaster",
+    "points": "+10",
+    "skill_name": "Stellar Hunter",
+    "description": "Composite Skill: Sharpness +1, Attack Up (Large)"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "NormalS Up",
+    "points": "+10",
+    "skill_name": "NormalS/RapidBow Up",
+    "description": "Multiplies damage dealt by Normal S and Rapid Arrows by\n                        1.1"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "PierceS Up",
+    "points": "+10",
+    "skill_name": "PierceS/PierceBow Up",
+    "description": "Multiplies damage dealt by Pierce S and Pierce Arrows by\n                        1.1"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "PelletS Up",
+    "points": "+10",
+    "skill_name": "PelletS/ScattrBow Up",
+    "description": "Multiplies damage dealt by Pellet S and Spread Arrows by\n                        1.3"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "NormalSAdd",
+    "points": "+10",
+    "skill_name": "Normal S All LV Add",
+    "description": "Enables Bowguns to load Normal S Lv 1~3"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "PierceSAdd",
+    "points": "+15",
+    "skill_name": "Pierce S All LV Add",
+    "description": "Enables Bowguns to load Pierce S Lv 1~3"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "PierceSAdd",
+    "points": "+10",
+    "skill_name": "Pierce S LV1 Add",
+    "description": "Enables Bowguns to load Pierce S Lv 1"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "PelletSAdd",
+    "points": "+15",
+    "skill_name": "Pellet S All LV Add",
+    "description": "Enables Bowguns to load Pellet S Lv 1~3"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "PelletSAdd",
+    "points": "+10",
+    "skill_name": "Pellet S LV 1 Add",
+    "description": "Enables Bowguns to load Pellet S Lv 1"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "CragSAdd",
+    "points": "+15",
+    "skill_name": "Crag S All LV Add",
+    "description": "Enables Bowguns to load Crag S Lv 1~3"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "CragSAdd",
+    "points": "+10",
+    "skill_name": "Crag S LV 1 Add",
+    "description": "Enables Bowguns to load Crag S Lv 1"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "ClustSAdd",
+    "points": "+15",
+    "skill_name": "Clust S All LV Add",
+    "description": "Enables Bowguns to load Clust S Lv 1~3"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "ClustSAdd",
+    "points": "+10",
+    "skill_name": "Clust S LV 1 Add",
+    "description": "Enables Bowguns to load Clust S Lv 1"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Reload",
+    "points": "+20",
+    "skill_name": "Reloading Speed +3",
+    "description": "Improves Reloading Speed by 3 levels"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Reload",
+    "points": "+15",
+    "skill_name": "Reloading Speed +2",
+    "description": "Improves Reloading Speed by 2 levels"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Reload",
+    "points": "+10",
+    "skill_name": "Reloading Speed +1",
+    "description": "Improves Reloading Speed by 1 level"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Reload",
+    "points": "-10",
+    "skill_name": "Reloading Speed -1",
+    "description": "Worsens Reloading Speed by 1 level"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Reload",
+    "points": "-15",
+    "skill_name": "Reloading Speed -2",
+    "description": "Worsens Reloading Speed by 2 levels"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Reload",
+    "points": "-20",
+    "skill_name": "Reloading Speed -3",
+    "description": "Worsens Reloading Speed by 3 levels"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "AutoReload",
+    "points": "+10",
+    "skill_name": "Auto Reload",
+    "description": "Bowgun: Allows one to shoot without reloading until the\n                        ammunition is depleted or changed. Does not work on\n                        Rapid Fired ammo types. Maximizes recoil and makes\n                        recoil lowering skills ineffective.Bow: Coatings\n                        do not have to be loaded to be used."
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Recoil",
+    "points": "+20",
+    "skill_name": "Recoil Reduction +2",
+    "description": "Improves Recoil by 4 levels"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Recoil",
+    "points": "+10",
+    "skill_name": "Recoil Reduction +1",
+    "description": "Improves Recoil by 2 levels"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Precision",
+    "points": "+10",
+    "skill_name": "Shell Deviation Down",
+    "description": "Reduces bullet and arrow deviation"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "Precision",
+    "points": "-10",
+    "skill_name": "Shell Deviation Up",
+    "description": "Increases bullet and arrow deviation"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "PoisonCAdd",
+    "points": "+10",
+    "skill_name": "Poison Coating Add",
+    "description": "Enables Bows to load Poison Coatings"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "ParalyCAdd",
+    "points": "+10",
+    "skill_name": "Paralysis Coat Add",
+    "description": "Enables Bows to load Paralysis Coatings"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "SleepCAdd",
+    "points": "+10",
+    "skill_name": "Sleep Coating Add",
+    "description": "Enables Bows to load Sleep Coatings"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "PowerCAdd",
+    "points": "+10",
+    "skill_name": "Power Coating Add",
+    "description": "Enables Bows to load Power Coatings"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "ClsRngCAdd",
+    "points": "+10",
+    "skill_name": "ClsRngCAdd",
+    "description": "Enables Bows to load Close Range Coatings"
+  },
+  {
+    "skill_type": "Gunner skills",
+    "skill_point": "SteadyHand",
+    "points": "+10",
+    "skill_name": "Straight & True",
+    "description": "Composite Skill: NormalS/RapidBow Up, PierceS/PierceBow\n                        Up, PelletS/ScattrBow Up"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Expert",
+    "points": "+20",
+    "skill_name": "Reckless Abandon +3",
+    "description": "Affinity +30%If the weapon's natural affinity is\n                        not negative, adds a further 5% in case of Blue\n                        Sharpness and 10% in case of White or Purple Sharpness."
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Expert",
+    "points": "+15",
+    "skill_name": "Reckless Abandon +2",
+    "description": "Affinity +20%"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Expert",
+    "points": "+10",
+    "skill_name": "Reckless Abandon +1",
+    "description": "Affinity +10%"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Expert",
+    "points": "-10",
+    "skill_name": "Reckless Abandon -1",
+    "description": "Affinity -5%"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Expert",
+    "points": "-15",
+    "skill_name": "Reckless Abandon -2",
+    "description": "Affinity -10%"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Spc Attack",
+    "points": "+10",
+    "skill_name": "Abnormal Sts Atk Up",
+    "description": "Multiplies Status Ailment values by 1.125."
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "ElementAtk",
+    "points": "+10",
+    "skill_name": "Element Attack Up",
+    "description": "Multiplies Elemental damage by 1.2Does not apply\n                        to the Fire component of Shelling, Wyvern Fire, Crag S\n                        and Clust S damage"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Rec Speed",
+    "points": "+20",
+    "skill_name": "Damage Rec Speed +2",
+    "description": "Quadruples natural recovery speed"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Rec Speed",
+    "points": "+10",
+    "skill_name": "Damage Rec Speed +1",
+    "description": "Doubles natural recovery speed"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Rec Speed",
+    "points": "-10",
+    "skill_name": "Damage Rec Speed -1",
+    "description": "Halves natural recovery speed"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Rec Speed",
+    "points": "-20",
+    "skill_name": "Damage Rec Speed -2",
+    "description": "Quarters natural recovery speed"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Protection",
+    "points": "+10",
+    "skill_name": "Divine Protection",
+    "description": "25% chance of reducing damage taken by 30%"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Protection",
+    "points": "-10",
+    "skill_name": "Demonic Protection",
+    "description": "25% chance of increasing damage taken by 30%"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Guard Up",
+    "points": "+10",
+    "skill_name": "Guard Inc",
+    "description": "Allows certain normally unblockable attacks to be\n                        blocked, such as Gas and Beam attacks."
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Evade",
+    "points": "+15",
+    "skill_name": "Evade +2",
+    "description": "Increases the invincibility period of an evade from 6/30\n                        of a second to 12/30 of a second."
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Evade",
+    "points": "+10",
+    "skill_name": "Evade +1",
+    "description": "Increases the invincibility period of an evade from 6/30\n                        of a second to 10/30 of a second."
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Evade Dist",
+    "points": "+10",
+    "skill_name": "Evade Distance Up",
+    "description": "Increases the distance traveled when dodging by 50%"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Potential",
+    "points": "+15",
+    "skill_name": "Adrenaline +2",
+    "description": "Increases defense by 90 points and Atk by 30% if the\n                        Hunter's HP is below 40% of its maximum"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Potential",
+    "points": "+10",
+    "skill_name": "Adrenaline +1",
+    "description": "Increases defense by 90 points if the Hunter's HP is\n                        below 40% of its maximum"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Potential",
+    "points": "-10",
+    "skill_name": "Worry",
+    "description": "Increases defense by 42 points reduces Atk by 30% if the\n                        Hunter's HP is below 40% of its maximum"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Gunnery",
+    "points": "+15",
+    "skill_name": "Gunnery King",
+    "description": "Increases damage on Ballista, Cannon, Gunlance Shelling\n                        and Wyvern Fire by 20%. Doubles the power of Crag S.\n                        Wyvern Fire cooldown reduced from 120s to 90s"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Gunnery",
+    "points": "+10",
+    "skill_name": "Gunnery Master",
+    "description": "Increases damage on Ballista, Cannon, Gunlance Shelling\n                        and Wyvern Fire by 20%. Increases the power of Crag S by\n                        50%."
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Capacity",
+    "points": "+10",
+    "skill_name": "Capacity Up",
+    "description": "Increases the ammo capacity of Bowguns and Gunlance by\n                        1. Adds a fourth charge level to Bows."
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "ShortCharg",
+    "points": "+10",
+    "skill_name": "Focus",
+    "description": "Speeds up charge time for Greatsword, Hammer and Bow.\n                        Longsword accrues Spirit faster"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "ShortCharg",
+    "points": "-10",
+    "skill_name": "Distracted",
+    "description": "Slows down charge time for Greatsword, Hammer and Bow.\n                        Longsword accrues Spirit slower"
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Guts",
+    "points": "+10",
+    "skill_name": "Guts",
+    "description": "Survives with 1 HP if above 64 HP and receiving an\n                        attack which would otherwise kill. Does not work if\n                        Paralyzed."
+  },
+  {
+    "skill_type": "Combat skills",
+    "skill_point": "Fury",
+    "points": "+10",
+    "skill_name": "Emboldened",
+    "description": "Composite Skill: Adrenaline +2, Guts"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Map",
+    "points": "+10",
+    "skill_name": "Farsight",
+    "description": "Map always available"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Map",
+    "points": "-10",
+    "skill_name": "Map Unavailable",
+    "description": "Map unavailable even with the item"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "PsychicVis",
+    "points": "+15",
+    "skill_name": "Autotracker",
+    "description": "Boss Monsters do not need to be painted to be tracked.\n                        Tracking is more detailed."
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "PsychicVis",
+    "points": "+10",
+    "skill_name": "Detect",
+    "description": "Adds more detail to the tracking of painted Monsters.\n                        2/3 chance of Psychoserum effect at quest start and\n                        every 5 minutes."
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Gathering",
+    "points": "+15",
+    "skill_name": "Gathering +2",
+    "description": "Reduces the chance of premature node exhaustion from\n                        5/32 to 1/32"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Gathering",
+    "points": "+10",
+    "skill_name": "Gathering +1",
+    "description": "Reduces the chance of premature node exhaustion from\n                        5/32 to 3/32"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Gathering",
+    "points": "-10",
+    "skill_name": "Gathering -1",
+    "description": "Increases the chance of premature node exhaustion from\n                        5/32 to 9/32"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Carving",
+    "points": "+20",
+    "skill_name": "Carving Celebrity",
+    "description": "Increases the number of Carves by 1 as well as\n                        preventing flinching while gathering and fishing"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Carving",
+    "points": "+10",
+    "skill_name": "Carving Iron Man",
+    "description": "Prevents flinching from small attacks while gathering\n                        and fishing"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "HiSpdGathr",
+    "points": "+10",
+    "skill_name": "High Speed Gathering",
+    "description": "Carving and Gathering animations speed up"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Backpackng",
+    "points": "+10",
+    "skill_name": "Backpacking Expert",
+    "description": "Increases speed while transporting heavy objects and\n                        slightly increases the distance one can fall without\n                        breaking them"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Whim",
+    "points": "+15",
+    "skill_name": "Divine Whim",
+    "description": "Makes Boomerangs, Pickaxes, Bugnets and Horn items 50%\n                        less likely to break"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Whim",
+    "points": "+10",
+    "skill_name": "Spirit's Whim",
+    "description": "Makes Boomerangs, Pickaxes, Bugnets and Horn items 25%\n                        less likely to break"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Whim",
+    "points": "-10",
+    "skill_name": "Spectre's Whim",
+    "description": "Makes Boomerangs, Pickaxes, Bugnets and Horn items 25%\n                        more likely to break"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Whim",
+    "points": "-15",
+    "skill_name": "Devil's Whim",
+    "description": "Makes Boomerangs, Pickaxes, Bugnets and Horn items 50%\n                        more likely to break"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Fishing",
+    "points": "+10",
+    "skill_name": "Fishing Expert",
+    "description": "Fish will always take the bait in the first bite"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Heat Res",
+    "points": "+15",
+    "skill_name": "Heat Cancel (Hi)",
+    "description": "Prevents health loss from Heat in all locations"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Heat Res",
+    "points": "+10",
+    "skill_name": "Heat Cancel (Lo)",
+    "description": "Prevents health loss from Heat in all locations but the\n                        hottest parts of volcanoes. Reduces health loss to a\n                        third in those areas."
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Heat Res",
+    "points": "-10",
+    "skill_name": "Heat Inc (Lo)",
+    "description": "Increases health loss from heat by half"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Heat Res",
+    "points": "-15",
+    "skill_name": "Heat Inc (Hi)",
+    "description": "Doubles health loss from heat"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Cold Res",
+    "points": "+15",
+    "skill_name": "Cold Elimination(Hi)",
+    "description": "Prevents stamina loss from cold in all areas"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Cold Res",
+    "points": "+10",
+    "skill_name": "Cold Elimination(Lo)",
+    "description": "Prevents stamina loss from cold in all areas but the top\n                        of the Snowy Mountains. Reduces stamina loss from cold\n                        to a third in those areas"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Cold Res",
+    "points": "-10",
+    "skill_name": "Cold Increase (Lo)",
+    "description": "Increases stamina loss from cold by half"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Cold Res",
+    "points": "-15",
+    "skill_name": "Cold Increase (Hi)",
+    "description": "Doubles stamina loss from cold"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Terrain",
+    "points": "+15",
+    "skill_name": "TerrainDamageNegate",
+    "description": "Prevents health loss from stepping on lava or being\n                        around Lunastra's and Teostra's Auras"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Terrain",
+    "points": "+10",
+    "skill_name": "TerrainDamageHalf",
+    "description": "Halves health loss from stepping on lava or being around\n                        Lunastra's and Teostra's Auras"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Terrain",
+    "points": "-10",
+    "skill_name": "TerrainDamageInc(Lo)",
+    "description": "Increases health loss from stepping on lava or being\n                        around Lunastra's and Teostra's Auras by half"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Terrain",
+    "points": "-15",
+    "skill_name": "TerrainDamageInc(Hi)",
+    "description": "Doubles health loss from stepping on lava or being\n                        around Lunastra's and Teostra's Auras"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Stamina",
+    "points": "+10",
+    "skill_name": "Runner",
+    "description": "Halves stamina consumption for all actions which\n                        gradually consume stamina"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Stamina",
+    "points": "-10",
+    "skill_name": "Flat Footed",
+    "description": "Increases stamina consumption for all actions which\n                        gradually consume stamina by 20%"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Constitutn",
+    "points": "+15",
+    "skill_name": "Constitution +2",
+    "description": "Halves stamina usage for dodging and guarding"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Constitutn",
+    "points": "+10",
+    "skill_name": "Constitution +1",
+    "description": "Reduces stamina usage for dodging and guarding by a\n                        third"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Constitutn",
+    "points": "-10",
+    "skill_name": "Constitution -1",
+    "description": "Increases stamina usage for dodging and guarding by 20%"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Constitutn",
+    "points": "-15",
+    "skill_name": "Constitution -2",
+    "description": "Increases stamina usage for dodging and guarding by 35%"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Hunger",
+    "points": "+15",
+    "skill_name": "Hunger Negated",
+    "description": "Stamina does not naturally decrease over time"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Hunger",
+    "points": "+10",
+    "skill_name": "Hunger Halved",
+    "description": "Doubles the time it takes for stamina to naturally\n                        decrease"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Hunger",
+    "points": "-10",
+    "skill_name": "Hunger Increase (Lo)",
+    "description": "Reduces by a quarter the time it takes for stamina to\n                        naturally decrease"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Hunger",
+    "points": "-15",
+    "skill_name": "Hunger Increase (Hi)",
+    "description": "Reduces by half the time it takes for stamina to\n                        naturally decrease"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Sneak",
+    "points": "+10",
+    "skill_name": "Stealth",
+    "description": "Monsters target you more often"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Sneak",
+    "points": "-10",
+    "skill_name": "Taunt",
+    "description": "Monsters target you less often"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Fate",
+    "points": "+15",
+    "skill_name": "Luck Booster",
+    "description": "Chance of adding an extra regular reward slot on quest\n                        rewards increased from 22/32 to 29/32"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Fate",
+    "points": "+10",
+    "skill_name": "Good Luck",
+    "description": "Chance of adding an extra regular reward slot on quest\n                        rewards increased from 22/32 to 26/32"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Fate",
+    "points": "-10",
+    "skill_name": "Bad Luck",
+    "description": "Chance of adding an extra regular reward slot on quest\n                        rewards reduced from 22/32 to 16/32"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Fate",
+    "points": "-20",
+    "skill_name": "Calamity",
+    "description": "Chance of adding an extra regular reward slot on quest\n                        rewards reduced from 22/32 to 8/32"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "SpeedSetup",
+    "points": "+10",
+    "skill_name": "Trap Master",
+    "description": "Increases the setup speed of Traps, Bombs, Lightning\n                        Rods and Meat Baits. Guarantees Trap and Net\n                        combinations will succeed"
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Tranquilzr",
+    "points": "+15",
+    "skill_name": "Tranquilizing Celeb",
+    "description": "Guarantees the third slot and adds a 22/32 chance of a\n                        fourth capture slot."
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Tranquilzr",
+    "points": "+10",
+    "skill_name": "Tranquilizing Whiz",
+    "description": "Guarantees the addition of a third capture reward slot.\n                        Normally the chance is 22/32."
+  },
+  {
+    "skill_type": "Exploration skills",
+    "skill_point": "Perceive",
+    "points": "+10",
+    "skill_name": "Tranquilizing Guru",
+    "description": "Changes a painted monster's marker to yellow when\n                        capturable"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Recovery",
+    "points": "+10",
+    "skill_name": "HealthRecItemsImprvd",
+    "description": "Health recovery items heal 25% more HP"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Recovery",
+    "points": "-10",
+    "skill_name": "HealthRecItemsWeaknd",
+    "description": "Health recovery items heal 25% less HP"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Everlastng",
+    "points": "+10",
+    "skill_name": "Item Usage Improve",
+    "description": "Increases the duration of effects bestowed by items by\n                        half"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Everlastng",
+    "points": "-10",
+    "skill_name": "Item Usage Decline",
+    "description": "Increases the duration of effects bestowed by items by a\n                        third"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Wide Area",
+    "points": "+20",
+    "skill_name": "Wide Area +2",
+    "description": "Other players and Felyne Companions will receive the\n                        effect of Herbs, Potions, Power Seeds, Armor Seeds and\n                        Antidotes used by the player."
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Wide Area",
+    "points": "+10",
+    "skill_name": "Wide Area +1",
+    "description": "Other players and Felyne Companions will receive half of\n                        the effect of Herbs, Potions, Power Seeds and Armor\n                        Seeds used by the player, as well as the full effect of\n                        Antidotes."
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Throw",
+    "points": "+10",
+    "skill_name": "Throwing Skill Up",
+    "description": "Increases the throwing distance of thrown items with the\n                        exception of Boomerang. Boomerang is half as likely to\n                        break."
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "BombStrUp",
+    "points": "+10",
+    "skill_name": "Bomber",
+    "description": "Increases damage for all Bomb items and Lightning Rods\n                        by 50%. Guarantees all Bomb, Lightning Rod, Gunpowder\n                        and Sonic Bomb combines will succeed"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Gluttony",
+    "points": "+15",
+    "skill_name": "Scavenger",
+    "description": "All food and drink items have a chance of adding an\n                        extra 25 stamina when consumed."
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Gluttony",
+    "points": "+10",
+    "skill_name": "Filled Up",
+    "description": "All meat items, including fish steaks, have a chance of\n                        adding an extra 25 stamina upon being consumed."
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Cooking",
+    "points": "+10",
+    "skill_name": "Quick Eating",
+    "description": "Speeds up item consumption animations."
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Cooking",
+    "points": "-10",
+    "skill_name": "Slow Life",
+    "description": "Slows down item consumption animations."
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "BBQ",
+    "points": "+10",
+    "skill_name": "BBQ Celebrity",
+    "description": "Increases the timing window to get a Well-Done Steak"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "BBQ",
+    "points": "-10",
+    "skill_name": "So-Called BBQ King",
+    "description": "Reduces the timing window to get a Well-Done Steak"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Horn",
+    "points": "+10",
+    "skill_name": "Flute Expert",
+    "description": "Flute items are half as likely to break. Hunting Horn\n                        songs duration extended by one minute."
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "MixSucRate",
+    "points": "+20",
+    "skill_name": "Combine Success +45%",
+    "description": "Combination Success rate increases by 45%"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "MixSucRate",
+    "points": "+15",
+    "skill_name": "Combine Success +25%",
+    "description": "Combination success rate increases by 25"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "MixSucRate",
+    "points": "+10",
+    "skill_name": "Combine Success +15%",
+    "description": "Combination success rate increases by 15%"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "MixSucRate",
+    "points": "-10",
+    "skill_name": "Combine Success -5%",
+    "description": "Combination success rate decreases by 5%"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "MixSucRate",
+    "points": "-15",
+    "skill_name": "Combine Success -10%",
+    "description": "Combination success rate decreases by 10%"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "MixSucRate",
+    "points": "-20",
+    "skill_name": "Combine Success -15%",
+    "description": "Combination success rate decreases by 15%"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Shot Mix",
+    "points": "+10",
+    "skill_name": "Bullet Limit",
+    "description": "Guarantees the maximum yield for shot and coating\n                        combinations"
+  },
+  {
+    "skill_type": "Item skills",
+    "skill_point": "Alchemy",
+    "points": "+10",
+    "skill_name": "Alchemy",
+    "description": "Allows access to special combination recipes"
+  },
+  {
+    "skill_type": "Felyne skills",
+    "skill_point": "ComrdGuide",
+    "points": "+15",
+    "skill_name": "ComradGuidance&Trade",
+    "description": "Increases Felyne Comrade experience and skill point gain\n                        by half"
+  },
+  {
+    "skill_type": "Felyne skills",
+    "skill_point": "ComrdGuide",
+    "points": "+10",
+    "skill_name": "Comrade Guidance",
+    "description": "Increases Felyne Comrade experience point gain by half"
+  },
+  {
+    "skill_type": "Felyne skills",
+    "skill_point": "ComradeAtk",
+    "points": "+10",
+    "skill_name": "Comrade Attack Up",
+    "description": "Increases Felyne Comrade's attack by 40"
+  },
+  {
+    "skill_type": "Felyne skills",
+    "skill_point": "ComradeDef",
+    "points": "+10",
+    "skill_name": "Comrade Defense Up",
+    "description": "Increases Felyne Comrade's defense by 60"
+  },
+  {
+    "skill_type": "Torso Inc",
+    "skill_point": "Torso Inc",
+    "points": "-",
+    "skill_name": "-",
+    "description": "Gives the same amount of skill points as the Torso piece"
+  }
+]

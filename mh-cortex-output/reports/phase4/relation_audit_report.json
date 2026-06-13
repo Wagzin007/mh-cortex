@@ -1,0 +1,58 @@
+{
+  "phase": "FASE 4 — Auditoria de Relacionamentos",
+  "date": "2026-06-05",
+  "status": "CONCLUÍDO",
+  "total_conflicts": 2,
+  "findings": [
+    {
+      "id": "R001",
+      "source_file": "mhgu/extras/mhgu_hunting_rewards.json",
+      "target_file": "mhgu/items/mhgu_items.json",
+      "issue": "Falso positivo — campo correto é '_id', não 'id'. Todas as 1.409 referências resolvem corretamente via '_id'.",
+      "severity": "RESOLVED",
+      "count": 0
+    },
+    {
+      "id": "R002",
+      "source_file": "mhgu/items/mhgu_crafting_components.json",
+      "target_file": "mhgu/items/mhgu_items.json",
+      "issue": "Falso positivo — campo correto é '_id'. Todas as 20.664 referências resolvem corretamente via '_id'.",
+      "severity": "RESOLVED",
+      "count": 0
+    },
+    {
+      "id": "R003",
+      "source_file": "cross-game/all_monsters.json",
+      "target_file": "cross-game/monster_icon_name_mapping.json",
+      "issue": "12 monstros em all_monsters.json sem ícone no mapping. Monstros: Crimson Fatalis, Dah'ren Mohran, Dalamadur, Daltyhdon, Dire Miralis, Kestodon, Narwa the Allmother, Old Fatalis, Safi'jiiva, Shah Dalamadur, White Fatalis, Xeno'jiiva.",
+      "severity": "WARNING",
+      "count": 12,
+      "notes": "Alguns são monstros raros/boss finais sem PNG na fonte CrimsonNynja. Outros podem estar mapeados com nome diferente. Requer verificação manual."
+    },
+    {
+      "id": "R004",
+      "source_file": "assets/monster_icons/",
+      "target_file": "cross-game/monster_icon_name_mapping.json",
+      "issue": "387 ícones existem em assets mas não aparecem no mapping (monster_icon_name_mapping só cobre 467 nomes). Os ícones extras incluem variantes, subspecies, e jogos antigos.",
+      "severity": "INFO",
+      "count": 387,
+      "sample": [
+        "MH3U-Agnaktor_Icon.png",
+        "MH3U-Altaroth_Icon.png",
+        "MH3U-Anteka_Icon.png",
+        "MH3U-Aptonoth_Icon.png",
+        "MH3U-Arzuros_Icon.png",
+        "MH3U-Azure_Rathalos_Icon.png",
+        "MH3U-Baggi_Icon.png",
+        "MH3U-Barioth_Icon.png",
+        "MH3U-Barroth_Icon.png",
+        "MH3U-Black_Diablos_Icon.png",
+        "MH3U-Bnahabra_Icon.png",
+        "MH3U-Brachydios_Icon.png",
+        "MH3U-Bullfango_Icon.png",
+        "MH3U-Crimson_Qurupeco_Icon.png",
+        "MH3U-Delex_Icon.png"
+      ]
+    }
+  ]
+}

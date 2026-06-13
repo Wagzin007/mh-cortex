@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-05",
+  "action": "ENRICH + NEW_GAME",
+  "sources_added": [
+    {
+      "repo": "TimH96/mhtri-armor-set-searcher",
+      "url": "https://github.com/TimH96/mhtri-armor-set-searcher",
+      "game": "MH3/Tri",
+      "files_affected": [
+        "mh3tri/armors/mh3tri_armors.json — enriquecido: +rarity, +resistance, +skills_points (568 armaduras)",
+        "mh3tri/skills/mh3tri_skill_effects.json — NOVO: 197 skill effects com tree_id e tree_name",
+        "mh3tri/skills/mh3tri_skill_categories.json — NOVO: categorias de skills"
+      ]
+    },
+    {
+      "repo": "TimH96/mhdos-armor-set-searcher",
+      "original_credit": "platypete / mh2db.atwebpages.com",
+      "url": "https://github.com/TimH96/mhdos-armor-set-searcher",
+      "game": "MH2/MHDos",
+      "status": "NOVO JOGO adicionado ao acervo",
+      "files_created": [
+        "mhdos/armors/mhdos_armors.json — 1102 peças (head/chest/arms/waist/legs)",
+        "mhdos/skills/mhdos_skill_effects.json — 198 skill effects",
+        "mhdos/skills/mhdos_skill_categories.json — categorias de skills",
+        "mhdos/extras/mhdos_decorations.json — 122 decorações",
+        "mhdos/metadata.json"
+      ],
+      "still_missing": [
+        "monsters",
+        "weapons",
+        "items",
+        "quests"
+      ]
+    },
+    {
+      "repo": "mikejsavage/MHP3DB",
+      "url": "https://github.com/mikejsavage/MHP3DB",
+      "game": "MHP3rd",
+      "status": "NOVO JOGO adicionado ao acervo",
+      "files_created": [
+        "mhp3rd/weapons/mhp3rd_weapons.json — 522 weapons (9 tipos melee)",
+        "mhp3rd/armors/mhp3rd_armors.json — 1020 peças",
+        "mhp3rd/items/mhp3rd_items.json — 813 itens",
+        "mhp3rd/monsters/mhp3rd_monsters.json — 60 monstros (com carve data)",
+        "mhp3rd/skills/mhp3rd_skills.json — 100 skill trees",
+        "mhp3rd/extras/mhp3rd_decorations.json — 164 decorações",
+        "mhp3rd/metadata.json"
+      ],
+      "missing": [
+        "quests",
+        "bow",
+        "light_bowgun",
+        "heavy_bowgun",
+        "monster_hitzones"
+      ]
+    },
+    {
+      "repo": "Kolyn090/mhfu-db",
+      "url": "https://github.com/Kolyn090/mhfu-db",
+      "game": "MHFU (MHP2G)",
+      "status": "ENRIQUECIMENTO — dados complementares adicionados",
+      "files_created": [
+        "mhfu/armors/mhfu_armors_kolyn090.json — 2170 peças (fonte alternativa, +89 vs existente, tem skill-points e description)",
+        "mhfu/items/mhfu_items_kolyn090.json — 1259 itens (+340 vs existente, tem description e icon)",
+        "mhfu/items/mhfu_combining_recipes_kolyn090.json — 172 receitas com chance/min/max",
+        "mhfu/extras/mhfu_decorations.json — 192 decorações (NOVO)",
+        "mhfu/extras/mhfu_maps.json — 21 locais com gathering areas (NOVO)",
+        "mhfu/extras/mhfu_awards.json — 48 awards/titles (NOVO)",
+        "mhfu/extras/mhfu_trenya.json — 7 Trenya trading routes (NOVO)",
+        "mhfu/extras/mhfu_veggie_elder.json — 8 locais de troca com Veggie Elder (NOVO)",
+        "mhfu/extras/mhfu_item_notes.json — 139 notas de itens comestíveis (NOVO)"
+      ]
+    },
+    {
+      "repo": "maliciousbanjo/mh3-data (npm mh3-data@2.0.1)",
+      "url": "https://github.com/maliciousbanjo/mh3-data",
+      "game": "MH3/Tri",
+      "method": "npm install + ESM patch extraction (pacote tinha bug de resolução de diretório)",
+      "files_updated": [
+        "mh3tri/armors/mh3tri_armors.json — 568 armors enriquecidos +8 campos (hunter_type, defense_max, resistances, skillPoints completos)",
+        "mh3tri/quests/mh3tri_quests.json — NOVO: 152 quests (98 City + 54 Village, 1★–6★, com type/targets/contract/time)",
+        "mh3tri/items/mh3tri_items.json — NOVO: 585 itens",
+        "mh3tri/skills/mh3tri_skills_maliciousbanjo.json — 83 skill trees (fonte alternativa)"
+      ],
+      "note": "Quests ~10 → 152. Items 0 → 585. Grande salto de cobertura para MH3/Tri."
+    },
+    {
+      "repo": "maliciousbanjo/mh3-data (npm — weapons extraídas via ESM patch)",
+      "game": "MH3/Tri",
+      "files_updated": [
+        "mh3tri/weapons/mh3tri_weapons.json — 327 weapons reais (era 12 esqueletos)",
+        "  cobertura: Great Sword(71), Lance(65), Hammer(62), SnS(68), Long Sword(26), Switch Axe(35)",
+        "  ausentes: Bow, LBG, HBG (não coletados pela fonte)"
+      ]
+    },
+    {
+      "repo": "itytophile/monster-hunter-rise-armors",
+      "url": "https://github.com/itytophile/monster-hunter-rise-armors",
+      "game": "MHRise",
+      "format": "RON (Rust Object Notation) → convertido para JSON",
+      "files_created": [
+        "rise/armors/mhrise_armors_itytophile.json — 587 peças (head/chest/arms/waist/legs)",
+        "  campos: name, part, skills{nome:pts}, slots[], rarity, defense, elemental res, gender",
+        "  nota: fonte alternativa ao mhrise_armors.json existente (626 peças, schema diferente)"
+      ]
+    }
+  ]
+}

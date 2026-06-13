@@ -1,0 +1,6382 @@
+[
+  {
+    "id": "mhfu_attack_jewel",
+    "game": "mhfu",
+    "name": "Attack Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Attack",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Power Seed",
+          "amount": 1
+        },
+        {
+          "name": "Kut-Ku Scale",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_fierce_jewel",
+    "game": "mhfu",
+    "name": "Fierce Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Attack",
+        "points": 3
+      },
+      {
+        "skill_name": "Defense",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Fire Wyvern Claw",
+          "amount": 1
+        },
+        {
+          "name": "Demondrug",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_strongest_jewel",
+    "game": "mhfu",
+    "name": "Strongest Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Attack",
+        "points": 5
+      },
+      {
+        "skill_name": "Defense",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "HrdFireWyvernClw",
+          "amount": 4
+        },
+        {
+          "name": "Mega Demondrug",
+          "amount": 3
+        },
+        {
+          "name": "Lthr Pelagus Plt",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_defense_jewel",
+    "game": "mhfu",
+    "name": "Defense Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Defense",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Sm Hermitaur Shl",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_turtle_jewel",
+    "game": "mhfu",
+    "name": "Turtle Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Defense",
+        "points": 3
+      },
+      {
+        "skill_name": "All Resist",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Blk Gravios Shl",
+          "amount": 1
+        },
+        {
+          "name": "Hermitaur Claw",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_turtle_jewel",
+    "game": "mhfu",
+    "name": "Turtle Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Defense",
+        "points": 3
+      },
+      {
+        "skill_name": "All Resist",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "HrdHermitaurClaw",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_steadfast_jewel",
+    "game": "mhfu",
+    "name": "Steadfast Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Faint",
+        "points": 1
+      },
+      {
+        "skill_name": "Paralysis",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Velociprey Fang",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_anti_faint_jewel",
+    "game": "mhfu",
+    "name": "Anti-Faint Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Faint",
+        "points": 3
+      },
+      {
+        "skill_name": "Paralysis",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Velocidrome Claw",
+          "amount": 2
+        },
+        {
+          "name": "Pur Rubbery Hide",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_steadfast_jewel_",
+    "game": "mhfu",
+    "name": "Steadfast Jewel+",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Faint",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "LthrC.BlangoTail",
+          "amount": 1
+        },
+        {
+          "name": "ThkBullfangoPelt",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_paralysis_jewel",
+    "game": "mhfu",
+    "name": "Paralysis Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Paralysis",
+        "points": 1
+      },
+      {
+        "skill_name": "Poison",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Genprey Fang",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_antiparalyzjewel",
+    "game": "mhfu",
+    "name": "AntiParalyzJewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Paralysis",
+        "points": 3
+      },
+      {
+        "skill_name": "Poison",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Paralysis Sac",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_paralysis_jewel_",
+    "game": "mhfu",
+    "name": "Paralysis Jewel+",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Paralysis",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "VespoidQn'sCrown",
+          "amount": 1
+        },
+        {
+          "name": "Thunderbug Jelly",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_pep_jewel",
+    "game": "mhfu",
+    "name": "Pep Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Sleep",
+        "points": 1
+      },
+      {
+        "skill_name": "Water Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Sleep Herb",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_jolt_jewel",
+    "game": "mhfu",
+    "name": "Jolt Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Sleep",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Sleep Sac",
+          "amount": 1
+        },
+        {
+          "name": "Sleepyfish",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_antidote_jewel",
+    "game": "mhfu",
+    "name": "Antidote Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Poison",
+        "points": 1
+      },
+      {
+        "skill_name": "Faint",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Ioprey Fang",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_antivenin_jewel",
+    "game": "mhfu",
+    "name": "Antivenin Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Poison",
+        "points": 3
+      },
+      {
+        "skill_name": "Faint",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Poison Sac",
+          "amount": 2
+        },
+        {
+          "name": "Herbal Medicine",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_antidote_jewel_",
+    "game": "mhfu",
+    "name": "Antidote Jewel+",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Poison",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "DeadlyPoisonSac",
+          "amount": 1
+        },
+        {
+          "name": "SpecRemobraSkin+",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_retroviral_jewel",
+    "game": "mhfu",
+    "name": "Retroviral Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Antiseptic",
+        "points": 1
+      },
+      {
+        "skill_name": "Sneak",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Conga Pelt",
+          "amount": 2
+        },
+        {
+          "name": "Bitterbug",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_antiviral_jewel",
+    "game": "mhfu",
+    "name": "Antiviral Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Antiseptic",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Congalala Pelt",
+          "amount": 2
+        },
+        {
+          "name": "Antiseptic Stone",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_antiviral_jewel",
+    "game": "mhfu",
+    "name": "Antiviral Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Antiseptic",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "HrdCongalalaPlt+",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_tireless_jewel",
+    "game": "mhfu",
+    "name": "Tireless Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Fatigue",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Fire Drgn Webbng",
+          "amount": 1
+        },
+        {
+          "name": "Sunset Herb",
+          "amount": 3
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_tireless_jewel",
+    "game": "mhfu",
+    "name": "Tireless Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Fatigue",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "ThckFireDrgnScl",
+          "amount": 2
+        },
+        {
+          "name": "Energy Drink",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_anchor_jewel",
+    "game": "mhfu",
+    "name": "Anchor Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Quake Res",
+        "points": 1
+      },
+      {
+        "skill_name": "Sleep",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Blangonga Pelt",
+          "amount": 1
+        },
+        {
+          "name": "Power Pill",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_tectonic_jewel",
+    "game": "mhfu",
+    "name": "Tectonic Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Quake Res",
+        "points": 3
+      },
+      {
+        "skill_name": "Sleep",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Gaoren Pincer",
+          "amount": 1
+        },
+        {
+          "name": "Blangonga Tail",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_tectonic_jewel",
+    "game": "mhfu",
+    "name": "Tectonic Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Quake Res",
+        "points": 3
+      },
+      {
+        "skill_name": "Sleep",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Hard Gaoren Claw",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_snowblower_jewel",
+    "game": "mhfu",
+    "name": "Snowblower Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Snow Res",
+        "points": 1
+      },
+      {
+        "skill_name": "Terrain",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Giaprey Scale",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_snowplow_jewel",
+    "game": "mhfu",
+    "name": "Snowplow Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Snow Res",
+        "points": 3
+      },
+      {
+        "skill_name": "Terrain",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Blangonga Fang",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_snowblowerjewel_",
+    "game": "mhfu",
+    "name": "SnowblowerJewel+",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Snow Res",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "LeathrBlangoTail",
+          "amount": 1
+        },
+        {
+          "name": "Giaprey Scale+",
+          "amount": 3
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_tip_toe_jewel",
+    "game": "mhfu",
+    "name": "Tip Toe Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Sneak",
+        "points": 1
+      },
+      {
+        "skill_name": "Map",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Sharp Claw",
+          "amount": 1
+        },
+        {
+          "name": "Ivy",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_ninja_jewel",
+    "game": "mhfu",
+    "name": "Ninja Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Sneak",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Chameleos Hide",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_strength_jewel",
+    "game": "mhfu",
+    "name": "Strength Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Health",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Bulldrome Hide",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_artisan_jewel",
+    "game": "mhfu",
+    "name": "Artisan Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Artisan",
+        "points": 1
+      },
+      {
+        "skill_name": "Potential",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Monoblos Heart",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_artisan_jewel",
+    "game": "mhfu",
+    "name": "Artisan Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Artisan",
+        "points": 1
+      },
+      {
+        "skill_name": "Potential",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Ceanataur Claw+",
+          "amount": 1
+        },
+        {
+          "name": "Lao-ShanCarapace",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_master_jewel",
+    "game": "mhfu",
+    "name": "Master Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Artisan",
+        "points": 4
+      },
+      {
+        "skill_name": "Potential",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Akantor Claw",
+          "amount": 1
+        },
+        {
+          "name": "Daora Sharp Claw",
+          "amount": 2
+        },
+        {
+          "name": "Basarios Wing",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_fencer_jewel",
+    "game": "mhfu",
+    "name": "Fencer Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Fencing",
+        "points": 1
+      },
+      {
+        "skill_name": "Recovery",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Rathalos Plate",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_fencer_jewel",
+    "game": "mhfu",
+    "name": "Fencer Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Fencing",
+        "points": 1
+      },
+      {
+        "skill_name": "Recovery",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Azure LaoS Shell",
+          "amount": 2
+        },
+        {
+          "name": "Slvr Rthlos Tail",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_swordsman_jewel",
+    "game": "mhfu",
+    "name": "Swordsman Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Fencing",
+        "points": 4
+      },
+      {
+        "skill_name": "Recovery",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Slvr Rthlos Wing",
+          "amount": 1
+        },
+        {
+          "name": "Fatalis Eye",
+          "amount": 1
+        },
+        {
+          "name": "Majestic Horn",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_razor_jewel",
+    "game": "mhfu",
+    "name": "Razor Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Sharpness",
+        "points": 1
+      },
+      {
+        "skill_name": "Defense",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Ceanataur Pincer",
+          "amount": 1
+        },
+        {
+          "name": "Sharpened Beak",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_cutter_jewel",
+    "game": "mhfu",
+    "name": "Cutter Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Sharpness",
+        "points": 4
+      },
+      {
+        "skill_name": "Defense",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Gravios BrainStm",
+          "amount": 1
+        },
+        {
+          "name": "Black Blos Tail",
+          "amount": 2
+        },
+        {
+          "name": "Garuga Wing",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_sword_draw_jewel",
+    "game": "mhfu",
+    "name": "Sword Draw Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Sword Draw",
+        "points": 1
+      },
+      {
+        "skill_name": "Expert",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "MonoblosCarapace",
+          "amount": 2
+        },
+        {
+          "name": "Rathalos Wing",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_sword_draw_jewel",
+    "game": "mhfu",
+    "name": "Sword Draw Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Sword Draw",
+        "points": 1
+      },
+      {
+        "skill_name": "Expert",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "StrRathalosWing",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_unsheathingjewel",
+    "game": "mhfu",
+    "name": "UnsheathingJewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Sword Draw",
+        "points": 3
+      },
+      {
+        "skill_name": "Expert",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "HrdCeanataurClaw",
+          "amount": 3
+        },
+        {
+          "name": "Rathalos Ruby",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_shortchargejewel",
+    "game": "mhfu",
+    "name": "ShortChargeJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ShortCharg",
+        "points": 1
+      },
+      {
+        "skill_name": "Constitutn",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Daora Horn",
+          "amount": 1
+        },
+        {
+          "name": "ElderDragonBlood",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_shortchargejewel",
+    "game": "mhfu",
+    "name": "ShortChargeJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ShortCharg",
+        "points": 1
+      },
+      {
+        "skill_name": "Constitutn",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Rajang Horn",
+          "amount": 1
+        },
+        {
+          "name": "DaoraDragonScal+",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_rapidchargejewel",
+    "game": "mhfu",
+    "name": "RapidChargeJewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "ShortCharg",
+        "points": 4
+      },
+      {
+        "skill_name": "Constitutn",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "GoldRajangPelt+",
+          "amount": 2
+        },
+        {
+          "name": "ThckDaoraDrgnScl",
+          "amount": 3
+        },
+        {
+          "name": "HvyLavasiothFang",
+          "amount": 4
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_expert_jewel",
+    "game": "mhfu",
+    "name": "Expert Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Expert",
+        "points": 1
+      },
+      {
+        "skill_name": "Health",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Blue Kut-Ku Shl",
+          "amount": 1
+        },
+        {
+          "name": "Anteka Antlers",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_celebrity_jewel",
+    "game": "mhfu",
+    "name": "Celebrity Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Expert",
+        "points": 3
+      },
+      {
+        "skill_name": "Health",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Teostra Shell",
+          "amount": 1
+        },
+        {
+          "name": "Twisted Horn",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_celebrity_jewel",
+    "game": "mhfu",
+    "name": "Celebrity Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Expert",
+        "points": 3
+      },
+      {
+        "skill_name": "Health",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Teostra Horn+",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_hermit_jewel",
+    "game": "mhfu",
+    "name": "Hermit Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Expert",
+        "points": 5
+      },
+      {
+        "skill_name": "Health",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Fire Dragon Pwdr",
+          "amount": 2
+        },
+        {
+          "name": "Splendid Beak",
+          "amount": 1
+        },
+        {
+          "name": "Giadrome Skull",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_grinder_jewel",
+    "game": "mhfu",
+    "name": "Grinder Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "SwdShrpner",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Earth Crystal",
+          "amount": 1
+        },
+        {
+          "name": "Giadrome Claw",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_stone_wall_jewel",
+    "game": "mhfu",
+    "name": "Stone Wall Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Guard",
+        "points": 1
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Basarios Shell",
+          "amount": 1
+        },
+        {
+          "name": "Hermitaur Shell",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_ironcurtainjewel",
+    "game": "mhfu",
+    "name": "IronCurtainJewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Guard",
+        "points": 3
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Gaoren Spine",
+          "amount": 1
+        },
+        {
+          "name": "Gravios Skl Shl",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_ironcurtainjewel",
+    "game": "mhfu",
+    "name": "IronCurtainJewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Guard",
+        "points": 3
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Gravios Carapace",
+          "amount": 1
+        },
+        {
+          "name": "Gaoren Claw",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_hard_wall_jewel",
+    "game": "mhfu",
+    "name": "Hard Wall Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Guard Up",
+        "points": 1
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Blk Gravios Shl",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_strongwall_jewel",
+    "game": "mhfu",
+    "name": "StrongWall Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Guard Up",
+        "points": 4
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Blk Gravios Cpc",
+          "amount": 1
+        },
+        {
+          "name": "Hermitaur Claw+",
+          "amount": 4
+        },
+        {
+          "name": "Lunastra Shell",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_wall_jewel",
+    "game": "mhfu",
+    "name": "Wall Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Guard Up",
+        "points": 3
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "PlumD.HermitrClw",
+          "amount": 2
+        },
+        {
+          "name": "HvyGraviosShell",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_hvnlyshieldjewel",
+    "game": "mhfu",
+    "name": "HvnlyShieldJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Auto-Guard",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Bullfango Pelt",
+          "amount": 1
+        },
+        {
+          "name": "Sm Hermitaur Shl",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_hardball_jewel",
+    "game": "mhfu",
+    "name": "Hardball Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Throw",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Blango Pelt",
+          "amount": 2
+        },
+        {
+          "name": "Conga Pelt",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_early_bird_jewel",
+    "game": "mhfu",
+    "name": "Early Bird Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Reload",
+        "points": 1
+      },
+      {
+        "skill_name": "Hunger",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Sm Ceanataur Shl",
+          "amount": 1
+        },
+        {
+          "name": "Kelbi Hide",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_high_speed_jewel",
+    "game": "mhfu",
+    "name": "High Speed Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Reload",
+        "points": 3
+      },
+      {
+        "skill_name": "Hunger",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Kirin Hide",
+          "amount": 1
+        },
+        {
+          "name": "Lao-Shan's Horn",
+          "amount": 1
+        },
+        {
+          "name": "TwstBlkBlosHrn",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_high_speed_jewel",
+    "game": "mhfu",
+    "name": "High Speed Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Reload",
+        "points": 3
+      },
+      {
+        "skill_name": "Hunger",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Azure LaoS Horn",
+          "amount": 1
+        },
+        {
+          "name": "Black Blos Cpc",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_cont_fire_jewel",
+    "game": "mhfu",
+    "name": "Cont. Fire Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "AutoReload",
+        "points": 1
+      },
+      {
+        "skill_name": "Protection",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Rathian Plate",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_cont_fire_jewel",
+    "game": "mhfu",
+    "name": "Cont. Fire Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "AutoReload",
+        "points": 1
+      },
+      {
+        "skill_name": "Protection",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Fatalis Scale",
+          "amount": 1
+        },
+        {
+          "name": "Sinister Cloth",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_barrage_jewel",
+    "game": "mhfu",
+    "name": "Barrage Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "AutoReload",
+        "points": 4
+      },
+      {
+        "skill_name": "Protection",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Akantor Spike",
+          "amount": 1
+        },
+        {
+          "name": "FireWyvrn BrnStm",
+          "amount": 1
+        },
+        {
+          "name": "Gendrome Skull",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_recoilless_jewel",
+    "game": "mhfu",
+    "name": "Recoilless Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Recoil",
+        "points": 1
+      },
+      {
+        "skill_name": "Reload",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Gaoren Shell",
+          "amount": 1
+        },
+        {
+          "name": "Blk Gravios Skl",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_recoilless_jewel",
+    "game": "mhfu",
+    "name": "Recoilless Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Recoil",
+        "points": 1
+      },
+      {
+        "skill_name": "Reload",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "PlumD.HermitrClw",
+          "amount": 1
+        },
+        {
+          "name": "Gaoren Carapace",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_shockless_jewel",
+    "game": "mhfu",
+    "name": "Shockless Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Recoil",
+        "points": 4
+      },
+      {
+        "skill_name": "Reload",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Gaoren Thoracic",
+          "amount": 2
+        },
+        {
+          "name": "Wyvern Stone",
+          "amount": 1
+        },
+        {
+          "name": "Lao-Shan's Claw",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_strongshot_jewel",
+    "game": "mhfu",
+    "name": "StrongShot Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "NormalS Up",
+        "points": 1
+      },
+      {
+        "skill_name": "Reload",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Congalala Claw",
+          "amount": 1
+        },
+        {
+          "name": "Rumblefish",
+          "amount": 5
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_strongshotjewel_",
+    "game": "mhfu",
+    "name": "StrongShotJewel+",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "NormalS Up",
+        "points": 4
+      },
+      {
+        "skill_name": "Reload",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "HvyC.BlangoFang",
+          "amount": 3
+        },
+        {
+          "name": "Blk Rajang Pelt+",
+          "amount": 4
+        },
+        {
+          "name": "Fire Drgn Jwl",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_pierce_jewel",
+    "game": "mhfu",
+    "name": "Pierce Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "PierceS Up",
+        "points": 1
+      },
+      {
+        "skill_name": "Reload",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Ceanataur Claw",
+          "amount": 1
+        },
+        {
+          "name": "Pin Tuna",
+          "amount": 3
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_pierce_jewel_",
+    "game": "mhfu",
+    "name": "Pierce Jewel+",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "PierceS Up",
+        "points": 4
+      },
+      {
+        "skill_name": "Reload",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "TerraCeanatrClaw",
+          "amount": 3
+        },
+        {
+          "name": "LthrSlvrRthlsTal",
+          "amount": 2
+        },
+        {
+          "name": "Daora Jewel",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_pellet_jewel",
+    "game": "mhfu",
+    "name": "Pellet Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "PelletS Up",
+        "points": 1
+      },
+      {
+        "skill_name": "Reload",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Piscine Fang",
+          "amount": 3
+        },
+        {
+          "name": "Wyvern Fang",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_pellet_jewel_",
+    "game": "mhfu",
+    "name": "Pellet Jewel+",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "PelletS Up",
+        "points": 4
+      },
+      {
+        "skill_name": "Reload",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "HrdE.CongaClaw",
+          "amount": 3
+        },
+        {
+          "name": "Azure LaoS Claw",
+          "amount": 3
+        },
+        {
+          "name": "Chameleos Jewel",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_shot_bonus_jewel",
+    "game": "mhfu",
+    "name": "Shot Bonus Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "NormalSAdd",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Lao-Shan's Scale",
+          "amount": 1
+        },
+        {
+          "name": "Normal S Lv3",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_piercebonusjewel",
+    "game": "mhfu",
+    "name": "PierceBonusJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "PierceSAdd",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Garuga Scale",
+          "amount": 1
+        },
+        {
+          "name": "Pierce S Lv3",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_pelletbonusjewel",
+    "game": "mhfu",
+    "name": "PelletBonusJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "PelletSAdd",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Cephalos Fin",
+          "amount": 1
+        },
+        {
+          "name": "Pellet S Lv3",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_crag_bonus_jewel",
+    "game": "mhfu",
+    "name": "Crag Bonus Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Crag S Add",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Basarios Shell",
+          "amount": 1
+        },
+        {
+          "name": "Crag S Lv3",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_scattrbonusjewel",
+    "game": "mhfu",
+    "name": "ScattrBonusJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ClustS Add",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Gravios Shell",
+          "amount": 1
+        },
+        {
+          "name": "Clust S Lv3",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_power_coat_jewel",
+    "game": "mhfu",
+    "name": "Power Coat Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "PowerCAdd",
+        "points": 1
+      },
+      {
+        "skill_name": "ShortCharg",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Congalala Pelt+",
+          "amount": 1
+        },
+        {
+          "name": "Dark Piece",
+          "amount": 1
+        },
+        {
+          "name": "Power Coating",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_powercaddjewel",
+    "game": "mhfu",
+    "name": "PowerCAddJewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "PowerCAdd",
+        "points": 3
+      },
+      {
+        "skill_name": "ShortCharg",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "E.CongalalaPelt+",
+          "amount": 3
+        },
+        {
+          "name": "Dark Stone",
+          "amount": 2
+        },
+        {
+          "name": "Power Coating",
+          "amount": 50
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_combo_coat_jewel",
+    "game": "mhfu",
+    "name": "Combo Coat Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ClsRngCAdd",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "DaoraDragonScale",
+          "amount": 1
+        },
+        {
+          "name": "Garuga Mane",
+          "amount": 1
+        },
+        {
+          "name": "CloseRngCoating",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_poisoncoatjewel",
+    "game": "mhfu",
+    "name": "PoisonCoatJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "PoisonCAdd",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Rubbery Hide",
+          "amount": 1
+        },
+        {
+          "name": "Poison Sac",
+          "amount": 1
+        },
+        {
+          "name": "Poison Coating",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_paralyscoatjewel",
+    "game": "mhfu",
+    "name": "ParalysCoatJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ParalyCAdd",
+        "points": 1
+      },
+      {
+        "skill_name": "ShortCharg",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Gendrome Hide",
+          "amount": 1
+        },
+        {
+          "name": "Vespoid Wing",
+          "amount": 1
+        },
+        {
+          "name": "ParalysisCoating",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_paralysiscaddjwl",
+    "game": "mhfu",
+    "name": "ParalysisCAddJwl",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "ParalyCAdd",
+        "points": 3
+      },
+      {
+        "skill_name": "ShortCharg",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Gendrome Tail",
+          "amount": 2
+        },
+        {
+          "name": "Vespoid Abdomen",
+          "amount": 1
+        },
+        {
+          "name": "ParalysisCoating",
+          "amount": 20
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_sleep_coat_jewel",
+    "game": "mhfu",
+    "name": "Sleep Coat Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "SleepCAdd",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Plesioth Fin",
+          "amount": 1
+        },
+        {
+          "name": "Sleep Sac",
+          "amount": 1
+        },
+        {
+          "name": "Sleep Coating",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_ammo_box_jewel",
+    "game": "mhfu",
+    "name": "Ammo Box Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Capacity",
+        "points": 1
+      },
+      {
+        "skill_name": "Reload",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Rathian Spike",
+          "amount": 1
+        },
+        {
+          "name": "Remobra Skull",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_ammo_box_jewel",
+    "game": "mhfu",
+    "name": "Ammo Box Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Capacity",
+        "points": 1
+      },
+      {
+        "skill_name": "Reload",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Akantor Scale",
+          "amount": 1
+        },
+        {
+          "name": "Dragonwood+",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_magazine_jewel",
+    "game": "mhfu",
+    "name": "Magazine Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Capacity",
+        "points": 4
+      },
+      {
+        "skill_name": "Reload",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Fatalis Horn",
+          "amount": 1
+        },
+        {
+          "name": "Rathian Spike+",
+          "amount": 1
+        },
+        {
+          "name": "Thunderbug Juice",
+          "amount": 5
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_sniper_jewel",
+    "game": "mhfu",
+    "name": "Sniper Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Precision",
+        "points": 1
+      },
+      {
+        "skill_name": "AutoReload",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Anteka Antlers",
+          "amount": 1
+        },
+        {
+          "name": "Sharp Claw",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_sharpshootrjewel",
+    "game": "mhfu",
+    "name": "SharpshootrJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Precision",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Kelbi Horn",
+          "amount": 1
+        },
+        {
+          "name": "Killer Beetle",
+          "amount": 1
+        },
+        {
+          "name": "Pin Tuna",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_specialatk_jewel",
+    "game": "mhfu",
+    "name": "SpecialAtk Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Spc Attack",
+        "points": 1
+      },
+      {
+        "skill_name": "Rec Speed",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Chameleos Claw",
+          "amount": 1
+        },
+        {
+          "name": "Chaos Mushroom",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_specialatkjewel_",
+    "game": "mhfu",
+    "name": "SpecialAtkJewel+",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Spc Attack",
+        "points": 3
+      },
+      {
+        "skill_name": "Rec Speed",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Lg Pelagus Fang",
+          "amount": 3
+        },
+        {
+          "name": "LethrGarugaTail",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_element_jewel",
+    "game": "mhfu",
+    "name": "Element Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ElementAtk",
+        "points": 1
+      },
+      {
+        "skill_name": "Rec Speed",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Kirin Horn",
+          "amount": 1
+        },
+        {
+          "name": "Firestone",
+          "amount": 1
+        },
+        {
+          "name": "Ice Crystal",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_element_jewel_",
+    "game": "mhfu",
+    "name": "Element Jewel+",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "ElementAtk",
+        "points": 4
+      },
+      {
+        "skill_name": "Rec Speed",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "LthrKirinThndrTl",
+          "amount": 2
+        },
+        {
+          "name": "HvyBlangongaFang",
+          "amount": 4
+        },
+        {
+          "name": "Big Wyvern Stone",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_bombardier_jewel",
+    "game": "mhfu",
+    "name": "Bombardier Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "BombStrUp",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Flame Sac",
+          "amount": 1
+        },
+        {
+          "name": "FlynMealPassReg",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_trapmasterjewel",
+    "game": "mhfu",
+    "name": "TrapMasterJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "SpeedSetup",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "ShakalakaTreasre",
+          "amount": 1
+        },
+        {
+          "name": "Shock Trap",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_pickyeater_jewel",
+    "game": "mhfu",
+    "name": "PickyEater Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Hunger",
+        "points": 1
+      },
+      {
+        "skill_name": "Cooking",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Cephalos Scale",
+          "amount": 1
+        },
+        {
+          "name": "Well-Done Steak",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_fasting_jewel",
+    "game": "mhfu",
+    "name": "Fasting Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Hunger",
+        "points": 3
+      },
+      {
+        "skill_name": "Cooking",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Grn Plesioth Fin",
+          "amount": 1
+        },
+        {
+          "name": "Cephalos Scale",
+          "amount": 1
+        },
+        {
+          "name": "Gourmet Steak",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_no_food_jewel",
+    "game": "mhfu",
+    "name": "No Food Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Hunger",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "ThckGrnPlesioScl",
+          "amount": 1
+        },
+        {
+          "name": "Coral Cphlos Fin",
+          "amount": 1
+        },
+        {
+          "name": "Power Juice",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_fatso_jewel",
+    "game": "mhfu",
+    "name": "Fatso Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Gluttony",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Congalala Fang",
+          "amount": 1
+        },
+        {
+          "name": "Glutton Tuna",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_quickeaterjewel",
+    "game": "mhfu",
+    "name": "QuickEaterJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Cooking",
+        "points": 1
+      },
+      {
+        "skill_name": "Recovery",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Tigrex Fang",
+          "amount": 1
+        },
+        {
+          "name": "Mosswine Hide",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_fast_food_jewel",
+    "game": "mhfu",
+    "name": "Fast Food Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Cooking",
+        "points": 2
+      },
+      {
+        "skill_name": "Recovery",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Tigrex Fang+",
+          "amount": 1
+        },
+        {
+          "name": "Conga Pelt+",
+          "amount": 2
+        },
+        {
+          "name": "Iodrome Skull",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_scarfing_jewel",
+    "game": "mhfu",
+    "name": "Scarfing Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Cooking",
+        "points": 4
+      },
+      {
+        "skill_name": "Recovery",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "YamaTsukamiHide",
+          "amount": 3
+        },
+        {
+          "name": "Vibrant Comb",
+          "amount": 2
+        },
+        {
+          "name": "Tigrex Skull Shl",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_bbq_jewel",
+    "game": "mhfu",
+    "name": "BBQ Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "BBQ",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "FlynMealPassReg",
+          "amount": 1
+        },
+        {
+          "name": "Burnt Meat",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_marathon_jewel",
+    "game": "mhfu",
+    "name": "Marathon Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Stamina",
+        "points": 1
+      },
+      {
+        "skill_name": "Hunger",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Firestone",
+          "amount": 1
+        },
+        {
+          "name": "Mega Juice",
+          "amount": 1
+        },
+        {
+          "name": "Gourmet Steak",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_sprinter_jewel",
+    "game": "mhfu",
+    "name": "Sprinter Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Stamina",
+        "points": 4
+      },
+      {
+        "skill_name": "Hunger",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Firecell Stone",
+          "amount": 3
+        },
+        {
+          "name": "Plesioth Fin+",
+          "amount": 1
+        },
+        {
+          "name": "Gypceros Head",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_sprinter_jewel",
+    "game": "mhfu",
+    "name": "Sprinter Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Stamina",
+        "points": 4
+      },
+      {
+        "skill_name": "Hunger",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "SpecPlesiothFin+",
+          "amount": 1
+        },
+        {
+          "name": "HardGypcerosHead",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_constitutnjewel",
+    "game": "mhfu",
+    "name": "ConstitutnJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Constitutn",
+        "points": 1
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "FlynMealPassPlus",
+          "amount": 1
+        },
+        {
+          "name": "Sharpened Beak",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_health_jewel",
+    "game": "mhfu",
+    "name": "Health Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Constitutn",
+        "points": 3
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Black Narga Pelt",
+          "amount": 3
+        },
+        {
+          "name": "Hypno Beak",
+          "amount": 1
+        },
+        {
+          "name": "Pawprint Stamp",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_health_jewel",
+    "game": "mhfu",
+    "name": "Health Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Constitutn",
+        "points": 3
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "BlackNargaPelt+",
+          "amount": 1
+        },
+        {
+          "name": "Hypno Fang",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_protection_jewel",
+    "game": "mhfu",
+    "name": "Protection Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Protection",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Commendation",
+          "amount": 1
+        },
+        {
+          "name": "Black Pearl",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_divineprotectjwl",
+    "game": "mhfu",
+    "name": "DivineProtectJwl",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Protection",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "UkanlosUnderscl",
+          "amount": 1
+        },
+        {
+          "name": "Commendation S",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_earplug_jewel",
+    "game": "mhfu",
+    "name": "Earplug Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "HearProtct",
+        "points": 1
+      },
+      {
+        "skill_name": "Protection",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Garuga Ear",
+          "amount": 1
+        },
+        {
+          "name": "Hornetaur Head",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_earplug_jewel",
+    "game": "mhfu",
+    "name": "Earplug Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "HearProtct",
+        "points": 1
+      },
+      {
+        "skill_name": "Protection",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Long Garuga Ear",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_silencer_jewel",
+    "game": "mhfu",
+    "name": "Silencer Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "HearProtct",
+        "points": 4
+      },
+      {
+        "skill_name": "Protection",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Azure Rthlos Cpc",
+          "amount": 1
+        },
+        {
+          "name": "Tigrex Skull Shl",
+          "amount": 1
+        },
+        {
+          "name": "Monster Broth",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_silencer_jewel",
+    "game": "mhfu",
+    "name": "Silencer Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "HearProtct",
+        "points": 4
+      },
+      {
+        "skill_name": "Protection",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "HvyAzurRthlsShl",
+          "amount": 1
+        },
+        {
+          "name": "LthrChameleoTail",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_paperweightjewel",
+    "game": "mhfu",
+    "name": "PaperweightJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "WindPress",
+        "points": 1
+      },
+      {
+        "skill_name": "Fate",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Diablos Shell",
+          "amount": 1
+        },
+        {
+          "name": "Iron Ore",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_heavymetal_jewel",
+    "game": "mhfu",
+    "name": "HeavyMetal Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "WindPress",
+        "points": 3
+      },
+      {
+        "skill_name": "Fate",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Chameleos Hide+",
+          "amount": 1
+        },
+        {
+          "name": "Diablos Carapace",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_solid_rock_jewel",
+    "game": "mhfu",
+    "name": "Solid Rock Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "WindPress",
+        "points": 5
+      },
+      {
+        "skill_name": "Fate",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "SpecChameleHide+",
+          "amount": 2
+        },
+        {
+          "name": "HvyDiablosSpine",
+          "amount": 1
+        },
+        {
+          "name": "Purecrystal",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_melt_proof_jewel",
+    "game": "mhfu",
+    "name": "Melt-Proof Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Terrain",
+        "points": 1
+      },
+      {
+        "skill_name": "Faint",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Basarios Shell",
+          "amount": 1
+        },
+        {
+          "name": "Armor Pill",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_anti_thaw_jewel",
+    "game": "mhfu",
+    "name": "Anti-Thaw Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Terrain",
+        "points": 3
+      },
+      {
+        "skill_name": "Faint",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "DaoraDragonScale",
+          "amount": 3
+        },
+        {
+          "name": "Daora Tail",
+          "amount": 1
+        },
+        {
+          "name": "Gourmet Fish+",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_anti_thaw_jewel",
+    "game": "mhfu",
+    "name": "Anti-Thaw Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Terrain",
+        "points": 3
+      },
+      {
+        "skill_name": "Faint",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Daora Carapace",
+          "amount": 2
+        },
+        {
+          "name": "Basarios Carpace",
+          "amount": 1
+        },
+        {
+          "name": "Immunizer",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_evade_jewel",
+    "game": "mhfu",
+    "name": "Evade Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Evade",
+        "points": 1
+      },
+      {
+        "skill_name": "Cold Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Sm Lobstershell",
+          "amount": 1
+        },
+        {
+          "name": "Hercudrome",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_evade_jewel",
+    "game": "mhfu",
+    "name": "Evade Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Evade",
+        "points": 1
+      },
+      {
+        "skill_name": "Cold Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Narga Scale+",
+          "amount": 1
+        },
+        {
+          "name": "Great Hornfly",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_dodge_jewel",
+    "game": "mhfu",
+    "name": "Dodge Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Evade",
+        "points": 3
+      },
+      {
+        "skill_name": "Cold Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Lg Lobstershell",
+          "amount": 1
+        },
+        {
+          "name": "Gendrome Tail",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_jumping_jewel",
+    "game": "mhfu",
+    "name": "Jumping Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Evade Dist",
+        "points": 1
+      },
+      {
+        "skill_name": "Attack",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "NargaCuttingWing",
+          "amount": 1
+        },
+        {
+          "name": "Lunastra Spike",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_jumping_jewel",
+    "game": "mhfu",
+    "name": "Jumping Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Evade Dist",
+        "points": 1
+      },
+      {
+        "skill_name": "Attack",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "StrNargaCttngWng",
+          "amount": 1
+        },
+        {
+          "name": "Emperor Cricket",
+          "amount": 5
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_flying_jewel",
+    "game": "mhfu",
+    "name": "Flying Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Evade Dist",
+        "points": 4
+      },
+      {
+        "skill_name": "Attack",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Str Fatalis Wng",
+          "amount": 2
+        },
+        {
+          "name": "Narga Brain Stem",
+          "amount": 1
+        },
+        {
+          "name": "SilverGarugaPelt",
+          "amount": 3
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_danger_jewel",
+    "game": "mhfu",
+    "name": "Danger Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Potential",
+        "points": 1
+      },
+      {
+        "skill_name": "Protection",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Monoblos Spine",
+          "amount": 1
+        },
+        {
+          "name": "Wyvern Skull Shl",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_crisis_jewel",
+    "game": "mhfu",
+    "name": "Crisis Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Potential",
+        "points": 4
+      },
+      {
+        "skill_name": "Protection",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Gold Rajang Pelt",
+          "amount": 1
+        },
+        {
+          "name": "Blood Red Horn",
+          "amount": 1
+        },
+        {
+          "name": "Wht Monoblos Hrn",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_pinch_jewel",
+    "game": "mhfu",
+    "name": "Pinch Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Potential",
+        "points": 3
+      },
+      {
+        "skill_name": "Protection",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Akantor Shell",
+          "amount": 1
+        },
+        {
+          "name": "Top-GrdRedHorn",
+          "amount": 1
+        },
+        {
+          "name": "Blk Rajang Pelt",
+          "amount": 3
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_guts_jewel",
+    "game": "mhfu",
+    "name": "Guts Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Guts",
+        "points": 1
+      },
+      {
+        "skill_name": "MixSucRate",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "PlumD.HermitrShl",
+          "amount": 1
+        },
+        {
+          "name": "RobustWyvernBone",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_more_guts_jewel",
+    "game": "mhfu",
+    "name": "More Guts Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Guts",
+        "points": 3
+      },
+      {
+        "skill_name": "MixSucRate",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "HvyLavasiothShl",
+          "amount": 3
+        },
+        {
+          "name": "Hvy Gaoren Spine",
+          "amount": 1
+        },
+        {
+          "name": "Tailed Frog",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_alarm_jewel",
+    "game": "mhfu",
+    "name": "Alarm Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Anti-Theft",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Felvine",
+          "amount": 2
+        },
+        {
+          "name": "Unknown Skull",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_stayingpwr_jewel",
+    "game": "mhfu",
+    "name": "StayingPwr Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Everlastng",
+        "points": 1
+      },
+      {
+        "skill_name": "Poison",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Grn Plesioth Scl",
+          "amount": 1
+        },
+        {
+          "name": "Vespoid Shell",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_permanence_jewel",
+    "game": "mhfu",
+    "name": "Permanence Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Everlastng",
+        "points": 2
+      },
+      {
+        "skill_name": "Poison",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Grn Plsioth Scl+",
+          "amount": 1
+        },
+        {
+          "name": "Vespoid InnrWng",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_eternal_jewel",
+    "game": "mhfu",
+    "name": "Eternal Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Everlastng",
+        "points": 3
+      },
+      {
+        "skill_name": "Poison",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "SpecGrnPlesioFn+",
+          "amount": 1
+        },
+        {
+          "name": "Vspoid Razorwing",
+          "amount": 1
+        },
+        {
+          "name": "Catalyst",
+          "amount": 3
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_friendship_jewel",
+    "game": "mhfu",
+    "name": "Friendship Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Wide Area",
+        "points": 1
+      },
+      {
+        "skill_name": "Sneak",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Alluring Hide",
+          "amount": 1
+        },
+        {
+          "name": "Cactus Flower",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_beloved_jewel",
+    "game": "mhfu",
+    "name": "Beloved Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Wide Area",
+        "points": 3
+      },
+      {
+        "skill_name": "Sneak",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Alluring Webbing",
+          "amount": 1
+        },
+        {
+          "name": "Lifepowder",
+          "amount": 1
+        },
+        {
+          "name": "Dosbiscus",
+          "amount": 4
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_tenderness_jewel",
+    "game": "mhfu",
+    "name": "Tenderness Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Wide Area",
+        "points": 5
+      },
+      {
+        "skill_name": "Sneak",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "StrAlluringWing",
+          "amount": 3
+        },
+        {
+          "name": "ThckPnkRathnScl",
+          "amount": 4
+        },
+        {
+          "name": "Wyvern Stone",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_backpacker_jewel",
+    "game": "mhfu",
+    "name": "Backpacker Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Backpackng",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Power Extract",
+          "amount": 1
+        },
+        {
+          "name": "Giant Bone",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_impervious_jewel",
+    "game": "mhfu",
+    "name": "Impervious Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "All Resist",
+        "points": 1
+      },
+      {
+        "skill_name": "Everlastng",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Kirin Mane",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_omnipotent_jewel",
+    "game": "mhfu",
+    "name": "Omnipotent Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "All Resist",
+        "points": 3
+      },
+      {
+        "skill_name": "Everlastng",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Kirin Azure Horn",
+          "amount": 1
+        },
+        {
+          "name": "Dragonmoss",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_trueresistjewel",
+    "game": "mhfu",
+    "name": "TrueResistJewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "All Resist",
+        "points": 5
+      },
+      {
+        "skill_name": "Everlastng",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "SpecialKirinHide",
+          "amount": 2
+        },
+        {
+          "name": "AncientDrgnmoss",
+          "amount": 1
+        },
+        {
+          "name": "BlackBeltCoinG",
+          "amount": 3
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_inferno_jewel",
+    "game": "mhfu",
+    "name": "Inferno Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Fire Res",
+        "points": 1
+      },
+      {
+        "skill_name": "Water Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Fire Herb",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_crimson_jewel",
+    "game": "mhfu",
+    "name": "Crimson Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Fire Res",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Flame Sac",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_stream_jewel",
+    "game": "mhfu",
+    "name": "Stream Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Water Res",
+        "points": 1
+      },
+      {
+        "skill_name": "ThunderRes",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Knife Mackerel",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_torrent_jewel",
+    "game": "mhfu",
+    "name": "Torrent Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Water Res",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Plesioth Scale",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_freeze_jewel",
+    "game": "mhfu",
+    "name": "Freeze Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Ice Res",
+        "points": 1
+      },
+      {
+        "skill_name": "Fire Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Ice Crystal",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_glacier_jewel",
+    "game": "mhfu",
+    "name": "Glacier Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Ice Res",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Giadrome Hide",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_lightning_jewel",
+    "game": "mhfu",
+    "name": "Lightning Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ThunderRes",
+        "points": 1
+      },
+      {
+        "skill_name": "Ice Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Thunderbug",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_thunder_jewel",
+    "game": "mhfu",
+    "name": "Thunder Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ThunderRes",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Electro Sac",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_slayer_jewel",
+    "game": "mhfu",
+    "name": "Slayer Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Dragon Res",
+        "points": 1
+      },
+      {
+        "skill_name": "Poison",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Hornetaur Head",
+          "amount": 1
+        },
+        {
+          "name": "Dragon Seed",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_extinction_jewel",
+    "game": "mhfu",
+    "name": "Extinction Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Dragon Res",
+        "points": 3
+      },
+      {
+        "skill_name": "Poison",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "HornetaurInnrWng",
+          "amount": 2
+        },
+        {
+          "name": "Dragon S",
+          "amount": 3
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_dragonslyrjewel",
+    "game": "mhfu",
+    "name": "DragonslyrJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Dragon Res",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Hornet Razorwing",
+          "amount": 3
+        },
+        {
+          "name": "Rajang Tail",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_coolbreeze_jewel",
+    "game": "mhfu",
+    "name": "CoolBreeze Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Heat Res",
+        "points": 1
+      },
+      {
+        "skill_name": "Cold Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Blango Pelt",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_cold_wind_jewel",
+    "game": "mhfu",
+    "name": "Cold Wind Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Heat Res",
+        "points": 3
+      },
+      {
+        "skill_name": "Cold Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Blangonga Whiskr",
+          "amount": 1
+        },
+        {
+          "name": "Ice Crystal",
+          "amount": 4
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_coldbreezejewel",
+    "game": "mhfu",
+    "name": "ColdBreezeJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Heat Res",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "HrdBlangongaPlt+",
+          "amount": 2
+        },
+        {
+          "name": "Giaprey Hide+",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_warmbreeze_jewel",
+    "game": "mhfu",
+    "name": "WarmBreeze Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Cold Res",
+        "points": 1
+      },
+      {
+        "skill_name": "Heat Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Cephalos Scale",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_hot_wind_jewel",
+    "game": "mhfu",
+    "name": "Hot Wind Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Cold Res",
+        "points": 3
+      },
+      {
+        "skill_name": "Heat Res",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Cephalos Fin",
+          "amount": 1
+        },
+        {
+          "name": "Nitroshroom",
+          "amount": 4
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_hotbreezejewel",
+    "game": "mhfu",
+    "name": "HotBreezeJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Cold Res",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "C.BlangongaPelt+",
+          "amount": 2
+        },
+        {
+          "name": "Genprey Hide+",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_map_jewel",
+    "game": "mhfu",
+    "name": "Map Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Map",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Dragonite Ore",
+          "amount": 1
+        },
+        {
+          "name": "Rainbow Ore",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_gathering_jewel",
+    "game": "mhfu",
+    "name": "Gathering Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Gathering",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Dosbiscus",
+          "amount": 1
+        },
+        {
+          "name": "Bughopper",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_grab_n_dashjewel",
+    "game": "mhfu",
+    "name": "Grab'n'DashJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "HiSpdGathr",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Great Hornfly",
+          "amount": 1
+        },
+        {
+          "name": "Power Extract",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_good_luck_jewel",
+    "game": "mhfu",
+    "name": "Good Luck Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Whim",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Exciteshroom",
+          "amount": 2
+        },
+        {
+          "name": "Boomerang",
+          "amount": 1
+        },
+        {
+          "name": "Flute",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_blessing_jewel",
+    "game": "mhfu",
+    "name": "Blessing Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Whim",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Pnk Rathian Shl",
+          "amount": 1
+        },
+        {
+          "name": "Mega Pickaxe",
+          "amount": 1
+        },
+        {
+          "name": "Mega Bugnet",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_hidecutter_jewel",
+    "game": "mhfu",
+    "name": "HideCutter Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Carving",
+        "points": 1
+      },
+      {
+        "skill_name": "Fate",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Daora Claw",
+          "amount": 1
+        },
+        {
+          "name": "ShakalakaTreasre",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_hidecutter_jewel",
+    "game": "mhfu",
+    "name": "HideCutter Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Carving",
+        "points": 1
+      },
+      {
+        "skill_name": "Fate",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Rubbery Hide+",
+          "amount": 1
+        },
+        {
+          "name": "ShakaInheritance",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_carving_jewel",
+    "game": "mhfu",
+    "name": "Carving Jewel",
+    "name_ja": null,
+    "slot_size": 3,
+    "skills": [
+      {
+        "skill_name": "Carving",
+        "points": 4
+      },
+      {
+        "skill_name": "Fate",
+        "points": -2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "UkanlosDiggngClw",
+          "amount": 3
+        },
+        {
+          "name": "ShakalakaTreasr+",
+          "amount": 1
+        },
+        {
+          "name": "Big Wyvern Stone",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_tranq_jewel",
+    "game": "mhfu",
+    "name": "Tranq Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Tranquilzr",
+        "points": 1
+      },
+      {
+        "skill_name": "Fate",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "OrangeHypnoPelt",
+          "amount": 1
+        },
+        {
+          "name": "Piscine Fang",
+          "amount": 1
+        },
+        {
+          "name": "Net",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_knockout_jewel",
+    "game": "mhfu",
+    "name": "Knockout Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Tranquilzr",
+        "points": 3
+      },
+      {
+        "skill_name": "Fate",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "OrangeHypnoPelt+",
+          "amount": 3
+        },
+        {
+          "name": "HvyPiscineFang",
+          "amount": 3
+        },
+        {
+          "name": "Trap Tool",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_fate_jewel",
+    "game": "mhfu",
+    "name": "Fate Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Fate",
+        "points": 1
+      },
+      {
+        "skill_name": "Whim",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Steel Egg",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_destiny_jewel",
+    "game": "mhfu",
+    "name": "Destiny Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Fate",
+        "points": 3
+      },
+      {
+        "skill_name": "Whim",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Golden Egg",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_fisher_jewel",
+    "game": "mhfu",
+    "name": "Fisher Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Fishing",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Cricket",
+          "amount": 1
+        },
+        {
+          "name": "Yambug",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_psychic_jewel",
+    "game": "mhfu",
+    "name": "Psychic Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "PsychicVis",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Kut-Ku Ear",
+          "amount": 1
+        },
+        {
+          "name": "Psychoserum",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_perceive_jewel",
+    "game": "mhfu",
+    "name": "Perceive Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Perceive",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "RainbowTailFeath",
+          "amount": 1
+        },
+        {
+          "name": "Binoculars",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_feel_good_jewel",
+    "game": "mhfu",
+    "name": "Feel Good Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Rec Speed",
+        "points": 1
+      },
+      {
+        "skill_name": "Faint",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Pale Extract",
+          "amount": 1
+        },
+        {
+          "name": "Killer Beetle",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_speedyrecvrjewel",
+    "game": "mhfu",
+    "name": "SpeedyRecvrJewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Rec Speed",
+        "points": 3
+      },
+      {
+        "skill_name": "Faint",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Pale Bone",
+          "amount": 1
+        },
+        {
+          "name": "Lao-Shan's Shell",
+          "amount": 3
+        },
+        {
+          "name": "Lifecrystals",
+          "amount": 10
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_speedyrecvrjewel",
+    "game": "mhfu",
+    "name": "SpeedyRecvrJewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Rec Speed",
+        "points": 3
+      },
+      {
+        "skill_name": "Faint",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Pale Khezu Steak",
+          "amount": 1
+        },
+        {
+          "name": "Lifepowder",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_curing_jewel",
+    "game": "mhfu",
+    "name": "Curing Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Recovery",
+        "points": 1
+      },
+      {
+        "skill_name": "Health",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Flabby Hide",
+          "amount": 1
+        },
+        {
+          "name": "Kelbi Horn",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_cure_all_jewel",
+    "game": "mhfu",
+    "name": "Cure All Jewel",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Recovery",
+        "points": 2
+      },
+      {
+        "skill_name": "Health",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Khezu Hide - Tan",
+          "amount": 1
+        },
+        {
+          "name": "Ancient Potion",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_cure_all_jewel_",
+    "game": "mhfu",
+    "name": "Cure All Jewel+",
+    "name_ja": null,
+    "slot_size": 2,
+    "skills": [
+      {
+        "skill_name": "Recovery",
+        "points": 3
+      },
+      {
+        "skill_name": "Health",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "KhezuHide-Cream",
+          "amount": 3
+        },
+        {
+          "name": "LunastraCarapace",
+          "amount": 2
+        },
+        {
+          "name": "Honey",
+          "amount": 10
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_professor_jewel",
+    "game": "mhfu",
+    "name": "Professor Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "MixSucRate",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Book of Combos 1",
+          "amount": 1
+        },
+        {
+          "name": "Springnight Carp",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_armory_jewel",
+    "game": "mhfu",
+    "name": "Armory Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Shot Mix",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Normal S Lv3",
+          "amount": 3
+        },
+        {
+          "name": "Pellet S Lv3",
+          "amount": 2
+        },
+        {
+          "name": "Clust S Lv3",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_secretarts_jewel",
+    "game": "mhfu",
+    "name": "SecretArts Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Alchemy",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Health Flute",
+          "amount": 1
+        },
+        {
+          "name": "Ancient Potion",
+          "amount": 1
+        },
+        {
+          "name": "Antiseptic Stone",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_small_arms_jewel",
+    "game": "mhfu",
+    "name": "Small Arms Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Gunnery",
+        "points": 1
+      },
+      {
+        "skill_name": "Stamina",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Machalite Ore",
+          "amount": 1
+        },
+        {
+          "name": "Gunpowder",
+          "amount": 2
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_howitzer_jewel",
+    "game": "mhfu",
+    "name": "Howitzer Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Gunnery",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Dragonite Ore",
+          "amount": 2
+        },
+        {
+          "name": "Firestone",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_fife_jewel",
+    "game": "mhfu",
+    "name": "Fife Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "Horn",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Akito Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Congalala Pelt",
+          "amount": 2
+        },
+        {
+          "name": "Flute",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_cat_guide_jewel",
+    "game": "mhfu",
+    "name": "Cat Guide Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ComrdGuide",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "Suiko Jewel",
+          "amount": 1
+        },
+        {
+          "name": "Comrade Ticket",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_cat_guide_jewel",
+    "game": "mhfu",
+    "name": "Cat Guide Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ComrdGuide",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "BattlefieldJewel",
+          "amount": 1
+        },
+        {
+          "name": "Commendation G",
+          "amount": 1
+        },
+        {
+          "name": "Gastronome Tuna",
+          "amount": 1
+        },
+        {
+          "name": "Felvine",
+          "amount": 10
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_cat_attack_jewel",
+    "game": "mhfu",
+    "name": "Cat Attack Jewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ComradeAtk",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Piercing Claw",
+          "amount": 1
+        },
+        {
+          "name": "Commendation G",
+          "amount": 1
+        },
+        {
+          "name": "Mega Demondrug",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  },
+  {
+    "id": "mhfu_catdefensejewel",
+    "game": "mhfu",
+    "name": "CatDefenseJewel",
+    "name_ja": null,
+    "slot_size": 1,
+    "skills": [
+      {
+        "skill_name": "ComradeDef",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "materials": [
+        {
+          "name": "LapisLazuliJewel",
+          "amount": 1
+        },
+        {
+          "name": "Hvy Kut-Ku Shell",
+          "amount": 1
+        },
+        {
+          "name": "Commendation G",
+          "amount": 1
+        },
+        {
+          "name": "Mega Armorskin",
+          "amount": 1
+        }
+      ]
+    },
+    "source_file": "mhfu_decorations.json"
+  }
+]

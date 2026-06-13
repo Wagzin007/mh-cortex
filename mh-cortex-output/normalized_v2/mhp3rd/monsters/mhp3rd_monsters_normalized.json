@@ -1,0 +1,1082 @@
+[
+  {
+    "id": "mhp3rd_felyne",
+    "game": "mhp3rd",
+    "name": "Felyne",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_melynx",
+    "game": "mhp3rd",
+    "name": "Melynx",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_altaroth",
+    "game": "mhp3rd",
+    "name": "Altaroth",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_bnahabra",
+    "game": "mhp3rd",
+    "name": "Bnahabra",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_delex",
+    "game": "mhp3rd",
+    "name": "Delex",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_kelbi",
+    "game": "mhp3rd",
+    "name": "Kelbi",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_aptanoth",
+    "game": "mhp3rd",
+    "name": "Aptanoth",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_rhenoplos",
+    "game": "mhp3rd",
+    "name": "Rhenoplos",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_zuwaroposu",
+    "game": "mhp3rd",
+    "name": "Zuwaroposu",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_anteka",
+    "game": "mhp3rd",
+    "name": "Anteka",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_popo",
+    "game": "mhp3rd",
+    "name": "Popo",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_gagua",
+    "game": "mhp3rd",
+    "name": "Gagua",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_jaggi",
+    "game": "mhp3rd",
+    "name": "Jaggi",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_jaggia",
+    "game": "mhp3rd",
+    "name": "Jaggia",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_great_jaggi",
+    "game": "mhp3rd",
+    "name": "Great Jaggi",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_baggi",
+    "game": "mhp3rd",
+    "name": "Baggi",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_great_baggi",
+    "game": "mhp3rd",
+    "name": "Great Baggi",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_froggi",
+    "game": "mhp3rd",
+    "name": "Froggi",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_great_froggi",
+    "game": "mhp3rd",
+    "name": "Great Froggi",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_qurupeco",
+    "game": "mhp3rd",
+    "name": "Qurupeco",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_red_qurupeco",
+    "game": "mhp3rd",
+    "name": "Red Qurupeco",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_bullfango",
+    "game": "mhp3rd",
+    "name": "Bullfango",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_bulldrome",
+    "game": "mhp3rd",
+    "name": "Bulldrome",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_aoashira",
+    "game": "mhp3rd",
+    "name": "Aoashira",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_urukusu",
+    "game": "mhp3rd",
+    "name": "Urukusu",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_rangurotora",
+    "game": "mhp3rd",
+    "name": "Rangurotora",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_barroth",
+    "game": "mhp3rd",
+    "name": "Barroth",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_ice_barroth",
+    "game": "mhp3rd",
+    "name": "Ice Barroth",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_uragaan",
+    "game": "mhp3rd",
+    "name": "Uragaan",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_steel_uragaan",
+    "game": "mhp3rd",
+    "name": "Steel Uragaan",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_doboruberuku",
+    "game": "mhp3rd",
+    "name": "Doboruberuku",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_deviljho",
+    "game": "mhp3rd",
+    "name": "Deviljho",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_ludroth",
+    "game": "mhp3rd",
+    "name": "Ludroth",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_royal_ludroth",
+    "game": "mhp3rd",
+    "name": "Royal Ludroth",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_purple_royal_ludroth",
+    "game": "mhp3rd",
+    "name": "Purple Royal Ludroth",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_hapurubokka",
+    "game": "mhp3rd",
+    "name": "Hapurubokka",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_uroktor",
+    "game": "mhp3rd",
+    "name": "Uroktor",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_agnaktor",
+    "game": "mhp3rd",
+    "name": "Agnaktor",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_ice_agnaktor",
+    "game": "mhp3rd",
+    "name": "Ice Agnaktor",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_rathian",
+    "game": "mhp3rd",
+    "name": "Rathian",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_gold_rathian",
+    "game": "mhp3rd",
+    "name": "Gold Rathian",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_rathalos",
+    "game": "mhp3rd",
+    "name": "Rathalos",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_silver_rathalos",
+    "game": "mhp3rd",
+    "name": "Silver Rathalos",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_giggi",
+    "game": "mhp3rd",
+    "name": "Giggi",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_gigginox",
+    "game": "mhp3rd",
+    "name": "Gigginox",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_thunder_gigginox",
+    "game": "mhp3rd",
+    "name": "Thunder Gigginox",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_barioth",
+    "game": "mhp3rd",
+    "name": "Barioth",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_sand_barioth",
+    "game": "mhp3rd",
+    "name": "Sand Barioth",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_nargacuga",
+    "game": "mhp3rd",
+    "name": "Nargacuga",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_green_nargacuga",
+    "game": "mhp3rd",
+    "name": "Green Nargacuga",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_diablos",
+    "game": "mhp3rd",
+    "name": "Diablos",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_black_diablos",
+    "game": "mhp3rd",
+    "name": "Black Diablos",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_tigrex",
+    "game": "mhp3rd",
+    "name": "Tigrex",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_black_tigrex",
+    "game": "mhp3rd",
+    "name": "Black Tigrex",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_akantor",
+    "game": "mhp3rd",
+    "name": "Akantor",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_ukanlos",
+    "game": "mhp3rd",
+    "name": "Ukanlos",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_jinouga",
+    "game": "mhp3rd",
+    "name": "Jinouga",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_jhen_mohran",
+    "game": "mhp3rd",
+    "name": "Jhen Mohran",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_amatsumagatsuchi",
+    "game": "mhp3rd",
+    "name": "Amatsumagatsuchi",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  },
+  {
+    "id": "mhp3rd_alatreon",
+    "game": "mhp3rd",
+    "name": "Alatreon",
+    "name_ja": null,
+    "species": "?",
+    "is_large": false,
+    "base_hp": null,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhp3rd"
+    ],
+    "source_file": "mhp3rd_monsters.json"
+  }
+]

@@ -1,0 +1,7354 @@
+[
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Potion",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "7z",
+    "howToGet": "Combine Herb and Blue Mushroom Buy from the Town Merchant or Hunter's Shoppe (66z)"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Mega Potion",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "16z",
+    "howToGet": "Combine Potion and Honey"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Nutrients",
+    "rarity": "2",
+    "bagCapacity": "5",
+    "sellValue": "25z",
+    "howToGet": "Combine Blue Mushroom and Godbug"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Mega Nutrients",
+    "rarity": "3",
+    "bagCapacity": "5",
+    "sellValue": "92z",
+    "howToGet": "Combine Nutrients and Honey"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Antidote",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "6z",
+    "howToGet": "Combine Antidote Herb and Blue Mushroom Buy from the Town Merchant or Hunter's Shoppe (60z)"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Immunizer",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "92z",
+    "howToGet": "Combine Catalyst + Dragon Toadstool"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Power Juice",
+    "rarity": "2",
+    "bagCapacity": "5",
+    "sellValue": "29z",
+    "howToGet": "Combine Catalyst and Rare Steak"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Mega Juice",
+    "rarity": "3",
+    "bagCapacity": "5",
+    "sellValue": "205z",
+    "howToGet": "Combine Well-Done Steak and Power Extract"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Demondrug",
+    "rarity": "4",
+    "bagCapacity": "5",
+    "sellValue": "67z",
+    "howToGet": "Combine Catalyst + Power Seed"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Mega Demondrug",
+    "rarity": "5",
+    "bagCapacity": "5",
+    "sellValue": "283z",
+    "howToGet": "Combine Demondrug and Pale Extract"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Power Pill",
+    "rarity": "1",
+    "bagCapacity": "5",
+    "sellValue": "280z",
+    "howToGet": "Combine Immunizer and Power Seed"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Armorskin",
+    "rarity": "4",
+    "bagCapacity": "5",
+    "sellValue": "58z",
+    "howToGet": "Combine Catalyst and Armor Seed"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Mega Armorskin",
+    "rarity": "5",
+    "bagCapacity": "5",
+    "sellValue": "269z",
+    "howToGet": "Combine Armorskin and Pale Extract"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Armor Pill",
+    "rarity": "1",
+    "bagCapacity": "5",
+    "sellValue": "260z",
+    "howToGet": "Combine Immunizer and Armor Seed"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Cool Drink",
+    "rarity": "1",
+    "bagCapacity": "3",
+    "sellValue": "30z",
+    "howToGet": "Combine Ice Crystal and Bitterbug Buy from the Town Merchant or Hunter's Shoppe (300z)"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Hot Drink",
+    "rarity": "1",
+    "bagCapacity": "3",
+    "sellValue": "25z",
+    "howToGet": "Combine Hot Pepper and Bitterbug Buy from the Town Merchant or Hunter's Shoppe (250z)"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Thawing Agent",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "100z",
+    "howToGet": "Combine Immunizer and Armor Seed"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Herbal Medicine",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "25z",
+    "howToGet": "Combine Cactus Flower and Bitterbug"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Max Potion",
+    "rarity": "3",
+    "bagCapacity": "2",
+    "sellValue": "210z",
+    "howToGet": "Combine Mega Nutrients and Dragon Toadstool"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Ancient Potion",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "345z",
+    "howToGet": "Combine Immunizer ans Kelbi Horn"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Catalyst",
+    "rarity": "3",
+    "bagCapacity": "2",
+    "sellValue": "48z",
+    "howToGet": "Combine Mega Nutrients and Dragon Toadstool"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Energy Drink",
+    "rarity": "2",
+    "bagCapacity": "3",
+    "sellValue": "6z",
+    "howToGet": "Combine Sunset Herb and Honey"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Life Crystals",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "59z",
+    "howToGet": "Combine Godbug and Wyvern Fang"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Lifepowder",
+    "rarity": "4",
+    "bagCapacity": "3",
+    "sellValue": "315z",
+    "howToGet": "Combine Lifecrystals + Wyvern Claw"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Raw Meat",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "5z",
+    "howToGet": "Carve Herbivore like Aptonoth"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Rare Steak",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "3z",
+    "howToGet": "Cook Raw Meat and end too soon"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Well-Done Steak",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "48z",
+    "howToGet": "Cook Raw Meat and end at the right time"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Gourmet Steak",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "64z",
+    "howToGet": "Cook Raw Meat with a Gourmet BBQ Spit and end at the right time Felyne Kitchen Gift"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Burnt Meat",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "1z",
+    "howToGet": "Cook Raw Meat and end too late"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Hot Meat",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "30z",
+    "howToGet": "Combine Well-Done Steak and Hot Pepper"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Cold Meat",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "30z",
+    "howToGet": "Combine Well-Done Steak and Ice Crystal"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Rare Fish",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "2z",
+    "howToGet": "Felyne Kitchen \"BBQ Service\""
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Gourmet Fish",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "40z",
+    "howToGet": "Felyne Kitchen \"BBQ Service\""
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Gourmet Fish+",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "58z",
+    "howToGet": "Felyne Kitchen \"BBQ Service\""
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Burnt Fish",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "1z",
+    "howToGet": "Felyne Kitchen \"BBQ Service\""
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Deodorant",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "8z",
+    "howToGet": "Combine Bomb Material and Sunset Herb"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Spicy Mushroom",
+    "rarity": "3",
+    "bagCapacity": "5",
+    "sellValue": "54z",
+    "howToGet": "Combine Special Mushroom and Hot Pepper (Only during Quests possible)"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Frozen Berry",
+    "rarity": "3",
+    "bagCapacity": "5",
+    "sellValue": "54z",
+    "howToGet": "Combine Tropical Berry and Ice Crystal (Only during Quests possible)"
+  },
+  {
+    "itemType": "Consumable Items",
+    "itemName": "Sushifish",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "45z",
+    "howToGet": "Pokke Farm Forest and Hills"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Book of Combos 1調合書①入門編",
+    "rarity": "4",
+    "bagCapacity": "1",
+    "sellValue": "100z",
+    "howToGet": "Buy from the Town Merchant (1000z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Book of Combos 2調合書②初級編",
+    "rarity": "4",
+    "bagCapacity": "1",
+    "sellValue": "200z",
+    "howToGet": "Buy from the Town Merchant (2000z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Book of Combos 3調合書③中級編",
+    "rarity": "4",
+    "bagCapacity": "1",
+    "sellValue": "500z",
+    "howToGet": "Buy from the Town Merchant (5000z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Book of Combos 4調合書④上級編",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "1000z",
+    "howToGet": "Buy from the Town Merchant (10000z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Book of Combos 5調合書⑤達人編",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "1500z",
+    "howToGet": "Buy from the Town Merchant (15000z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Alchemy Guide",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": "Complete Combination List, then talk to a Merchant"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Organizer Guide",
+    "rarity": "4",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (3000z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Backpacker Guide",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (5000z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Dung",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "1z",
+    "howToGet": "Dung Piles Pokke Farm (Popo)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Wyvern Droppings",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "2z",
+    "howToGet": "Dung Piles"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Cricket",
+    "rarity": "1",
+    "bagCapacity": "5",
+    "sellValue": "1z",
+    "howToGet": "Buy from the Peddling Granny (10z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Worm",
+    "rarity": "1",
+    "bagCapacity": "5",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant (20z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Firefly",
+    "rarity": "2",
+    "bagCapacity": "20",
+    "sellValue": "4z",
+    "howToGet": "Any Bug Thicket (Pokke Farm)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Frog",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "15z",
+    "howToGet": "Jungle, Old Desert, Snowy Mountains"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Tuna Bait",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "4z",
+    "howToGet": "Combine Yambug and Worm"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Arrowana Bait",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "7z",
+    "howToGet": "Combine Cricket and Bughopper"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Goldenfish Bait",
+    "rarity": "4",
+    "bagCapacity": "5",
+    "sellValue": "30z",
+    "howToGet": "Combine Firefly and Snakebee Larva"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Mega Fishing Fly",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "3z",
+    "howToGet": "Bug Thicket Lv. 3 and Lv. 4 (Pokke Farm)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Old Pickaxe",
+    "rarity": "1",
+    "bagCapacity": "3",
+    "sellValue": "6z",
+    "howToGet": "Combine Stone and Bone Buy from the Town Merchant (60z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Pickaxe",
+    "rarity": "1",
+    "bagCapacity": "4",
+    "sellValue": "16z",
+    "howToGet": "Combine Iron Ore and Bone Buy from the Town Merchant or Hunter's Shoppe (160z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Mega Pickaxe",
+    "rarity": "3",
+    "bagCapacity": "5",
+    "sellValue": "24z",
+    "howToGet": "Combine Machalite Ore and Bone"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Expand Pickaxe",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Training School"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Old Bugnet",
+    "rarity": "1",
+    "bagCapacity": "3",
+    "sellValue": "3z",
+    "howToGet": "Combine Net and Mystery Bone Buy from the Town Merchant (30z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Bugnet",
+    "rarity": "1",
+    "bagCapacity": "4",
+    "sellValue": "8z",
+    "howToGet": "Combine Net and Sm Monster Bone BBuy from the Town Merchant or Hunter's Shoppe (80z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Mega Bugnet",
+    "rarity": "3",
+    "bagCapacity": "5",
+    "sellValue": "12z",
+    "howToGet": "Combine Net and Med Monster Bone"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "BBQ Spit",
+    "rarity": "1",
+    "bagCapacity": "1",
+    "sellValue": "56z",
+    "howToGet": "Buy from the Town Merchant (560z)"
+  },
+  {
+    "itemType": "Gathering Tools",
+    "itemName": "Gourmet BBQ Spit",
+    "rarity": "4",
+    "bagCapacity": "1",
+    "sellValue": "500z",
+    "howToGet": "Buy from the Pokke Point Merchant (5000pts)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Psychoserum",
+    "rarity": "3",
+    "bagCapacity": "3",
+    "sellValue": "30z",
+    "howToGet": "Buy from the Peddling Granny (300z) Alchemize Cactus Flower and Thunderbug"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Gunpowder",
+    "rarity": "2",
+    "bagCapacity": "20",
+    "sellValue": "22z",
+    "howToGet": "Combine Fire Herb and Nitroshroom Buy from the Peddling Granny (222z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Tranquilizer",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "15z",
+    "howToGet": "Combine Sleep Herb and Parashroom Buy from the Town Merchant or Hunter's Shoppe (150z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Poisoned Meat",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "19z",
+    "howToGet": "Combine Raw Meat and Toadstool"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Tainted Meat",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "30z",
+    "howToGet": "Combine Raw Meat and Parashroom"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Drugged Meat",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "32z",
+    "howToGet": "Combine Raw Meat and Sleep Herb"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Boomerang",
+    "rarity": "4",
+    "bagCapacity": "5",
+    "sellValue": "15z",
+    "howToGet": "Combine Whetstone and Sm Monster Bone Buy from the Town Merchant or Hunter's Shoppe (150z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Bomb Material",
+    "rarity": "1",
+    "bagCapacity": "30",
+    "sellValue": "15z",
+    "howToGet": "Combine Sap Plant and Stone"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Paintball",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "10z",
+    "howToGet": "Combine Sap Plant and Paintberry"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Flash Bomb",
+    "rarity": "2",
+    "bagCapacity": "5",
+    "sellValue": "57z",
+    "howToGet": "Combine Bomb Material and Flashbug"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Sonic Bomb",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "45z",
+    "howToGet": "Combine Gunpowder and Screamer"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Dung Bomb",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "9z",
+    "howToGet": "Combine Bomb Material and Dung"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Smoke Bomb",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "44z",
+    "howToGet": "Combine Bomb Material and Ivy"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Poison Smoke Bmb",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "60z",
+    "howToGet": "Combine Bomb Material and Toadstool"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Farcaster",
+    "rarity": "3",
+    "bagCapacity": "1",
+    "sellValue": "30z",
+    "howToGet": "Combine Bomb Material and Exciteshroom Buy from the Peddling Granny (300z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Tranq Bomb",
+    "rarity": "4",
+    "bagCapacity": "8",
+    "sellValue": "35z",
+    "howToGet": "Combine Tranquilizer and Bomb Material"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Spiderweb",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "6z",
+    "howToGet": "Forest and Hills (Spiderwebs) Pokke Farm"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Net",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "54z",
+    "howToGet": "Combine Spider Web and Ivy"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Trap Tool",
+    "rarity": "3",
+    "bagCapacity": "2",
+    "sellValue": "20z",
+    "howToGet": "Buy from the Town Merchant (200z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Pitfall Trap",
+    "rarity": "3",
+    "bagCapacity": "1",
+    "sellValue": "46z",
+    "howToGet": "Combine Net and Trap Tool"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Shock Trap",
+    "rarity": "3",
+    "bagCapacity": "1",
+    "sellValue": "160z",
+    "howToGet": "Combine Thunderbug and Trap Tool"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Lightning Rod",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "28z",
+    "howToGet": "Combine Thunderbug and Burst Arrowana"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Small Barrel",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "8z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (80z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Large Barrel",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "21z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (210z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Sm Barrel-Bomb",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "16z",
+    "howToGet": "Combine Small Barrel and Fire Herb Buy from the Town Merchant or Hunter's Shoppe (156z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Sm Barrel-Bomb+",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "52z",
+    "howToGet": "Combine Sm Barrel-Bomb and Monster Broth"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Lg Barrel-Bomb",
+    "rarity": "3",
+    "bagCapacity": "3",
+    "sellValue": "52z",
+    "howToGet": "Combine Gunpowder and Large Barrel Buy from the Town Merchant or Hunter's Shoppe (518z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Lg Barrel-Bomb+",
+    "rarity": "4",
+    "bagCapacity": "3",
+    "sellValue": "80z",
+    "howToGet": "Combine Lg Barrel-Bomb and Scatterfish"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Bounce Bomb",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "18z",
+    "howToGet": "Combine Sm Barrel-Bomb and Vespoid Wing"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Bounce Bomb+",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "68z",
+    "howToGet": "Combine Bounce Bomb and Bomb Arrowana"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Whetstone",
+    "rarity": "1",
+    "bagCapacity": "20",
+    "sellValue": "8z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (80z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Binoculars",
+    "rarity": "1",
+    "bagCapacity": "1",
+    "sellValue": "5z",
+    "howToGet": "Buy from the Town Merchant (50z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Flute",
+    "rarity": "2",
+    "bagCapacity": "1",
+    "sellValue": "48z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (480z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Health Flute",
+    "rarity": "4",
+    "bagCapacity": "1",
+    "sellValue": "550z",
+    "howToGet": "Combine Lifepowder and Flute"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Antidote Flute",
+    "rarity": "4",
+    "bagCapacity": "1",
+    "sellValue": "520z",
+    "howToGet": "Combine Flute and Antiseptic Stone"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Demon Flute",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "1080z",
+    "howToGet": "Combine Mega Demondrug and Med Monster Bone"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Armor Flute",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "986z",
+    "howToGet": "Combine Mega Armor Skin and Med Monster Bone"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Powercharm",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "3600z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (36000z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Powertalon",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "6840z",
+    "howToGet": "Combine Powercharm and Sm Lao-Shan Claw"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Armorcharm",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "2400z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (24000z)"
+  },
+  {
+    "itemType": "Hunting Tools",
+    "itemName": "Armortalon",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "5040z",
+    "howToGet": "Combinw Armorcharm and Sm Lao-Shan Claw"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Huskberry",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (2z)"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Sm Bone Husk",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "3z",
+    "howToGet": "Bone Piles"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Lg Bone Husk",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "z",
+    "howToGet": "Bone Piles"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Normal S Lv1",
+    "rarity": "1",
+    "bagCapacity": "∞",
+    "sellValue": "1z",
+    "howToGet": "{{{How To Get}}}"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Normal S Lv2",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (3z) Combine Huskberry and Needleberry"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Normal S Lv3",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (5z) Combine Huskberry and Rumblefish"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Pierce S Lv1",
+    "rarity": "2",
+    "bagCapacity": "60",
+    "sellValue": "1z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (14z) Combine Huskberry and Velociprey Fang"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Pierce S Lv2",
+    "rarity": "2",
+    "bagCapacity": "60",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (20z) Combine Huskberry and Pin Tuna"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Pierce S Lv3",
+    "rarity": "3",
+    "bagCapacity": "60",
+    "sellValue": "5z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (28z) Combine Sm Bone Husk and Pin Tuna"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Pellet S Lv1",
+    "rarity": "2",
+    "bagCapacity": "60",
+    "sellValue": "1z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (12z) Combine Huskberry and Scatternut"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Pellet S Lv2",
+    "rarity": "2",
+    "bagCapacity": "60",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (18z) Combine Huskberry and Wyvern Fang"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Pellet S Lv3",
+    "rarity": "3",
+    "bagCapacity": "60",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (24z) Combine Sm Bone Husk and Wyvern Fang"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Crag S Lv1",
+    "rarity": "3",
+    "bagCapacity": "9",
+    "sellValue": "4z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (41z) Combine Huskberry and Burst Arrowana"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Crag S Lv2",
+    "rarity": "3",
+    "bagCapacity": "9",
+    "sellValue": "7z",
+    "howToGet": "Combine Sm Bone Husk and Burst Arrowana"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Crag S Lv2",
+    "rarity": "3",
+    "bagCapacity": "9",
+    "sellValue": "7z",
+    "howToGet": "Combine Lg Bone Husk and Bomb Arrowana"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Clust S Lv1",
+    "rarity": "2",
+    "bagCapacity": "3",
+    "sellValue": "4z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (38) Combine Huskberry and Bomberry"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Clust S Lv2",
+    "rarity": "3",
+    "bagCapacity": "3",
+    "sellValue": "6z",
+    "howToGet": "Combine Sm Bone Husk and Wyvern Claw"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Clust S Lv3",
+    "rarity": "3",
+    "bagCapacity": "3",
+    "sellValue": "10z",
+    "howToGet": "Combine Lg Bone Husk and Scatterfish"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Flaming S",
+    "rarity": "3",
+    "bagCapacity": "60",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (20z) Combine Huskberry and Fire Herb"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Water S",
+    "rarity": "3",
+    "bagCapacity": "60",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (20z) Combine Huskberry and Knife Mackerel"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Thunder S",
+    "rarity": "3",
+    "bagCapacity": "60",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (20z) Combine Huskberry and Flashbug"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Freeze S",
+    "rarity": "3",
+    "bagCapacity": "60",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (20z) Combine Huskberry and Ice Crystal"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Dragon S",
+    "rarity": "5",
+    "bagCapacity": "20",
+    "sellValue": "24z",
+    "howToGet": "Combine Lg Bone Husk and Dragon Seed"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Recov S Lv1",
+    "rarity": "1",
+    "bagCapacity": "12",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (8z) Combine Huskberry and Herb"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Recov S Lv2",
+    "rarity": "2",
+    "bagCapacity": "12",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (15z) Combine Huskberry and Potion"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Posion S Lv1",
+    "rarity": "2",
+    "bagCapacity": "12",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (17z) Combine Huskberry and Toadstool"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Posion S Lv2",
+    "rarity": "3",
+    "bagCapacity": "12",
+    "sellValue": "2z",
+    "howToGet": "Combine Sm Bone Husk and Ioprey Fang"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Para S Lv1",
+    "rarity": "3",
+    "bagCapacity": "12",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (26z) Combine Huskberry and Parashroom"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Para S Lv2",
+    "rarity": "4",
+    "bagCapacity": "12",
+    "sellValue": "5z",
+    "howToGet": "Combine Sm Bone Husk and Genprey Fang"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Sleep S Lv1",
+    "rarity": "3",
+    "bagCapacity": "12",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (17z) Combine Huskberry and Sleep Herb"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Sleep S Lv2",
+    "rarity": "4",
+    "bagCapacity": "12",
+    "sellValue": "3z",
+    "howToGet": "Combine Sm Bone Husk and Sleepyfish"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Paint S",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "6z",
+    "howToGet": "Combine Huskberry and Paintberry"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Demon S",
+    "rarity": "3",
+    "bagCapacity": "5",
+    "sellValue": "9z",
+    "howToGet": "Combine Power Seed and Huskberry"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Armor S",
+    "rarity": "3",
+    "bagCapacity": "5",
+    "sellValue": "7z",
+    "howToGet": "Combine Armor Seed and Huskberry"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Tranq S",
+    "rarity": "4",
+    "bagCapacity": "8",
+    "sellValue": "4z",
+    "howToGet": "Combine Sm Bone Husk and Tranquilizer"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Empty Bottle",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (5z) Combine Sm Bone Husk and Whetstone"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Poison Coating",
+    "rarity": "3",
+    "bagCapacity": "20",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (17z) Combine Empty Bottle and Toadstool"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "ParalysisCoating",
+    "rarity": "3",
+    "bagCapacity": "20",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (26z) Combine Empty Bottle and Toadstool"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Sleep Coating",
+    "rarity": "3",
+    "bagCapacity": "20",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (17z) Combine Empty Bottle and Sleep Herb"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Power Coating",
+    "rarity": "2",
+    "bagCapacity": "50",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (32z) Combine Empty Bottle and Nitroshroom"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "CloseRngCoating",
+    "rarity": "3",
+    "bagCapacity": "20",
+    "sellValue": "3z",
+    "howToGet": "Buy from the Town Merchant or Hunter's Shoppe (27z) Combine Empty Bottle and Knife Mackerel"
+  },
+  {
+    "itemType": "Ammunition",
+    "itemName": "Paint Coating",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "6z",
+    "howToGet": "Combine Empty Bottle and Paintberry"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "First-aid Med.",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on Village, Low and Capture Quests"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Ration",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on Village, Low and Capture Quests"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Mini Whetstone",
+    "rarity": "1",
+    "bagCapacity": "20",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on Village, Low and Capture Quests"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Prtbl Shock Trap",
+    "rarity": "3",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on Village, Low and Capture Quests"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Supply Flash Bomb",
+    "rarity": "2",
+    "bagCapacity": "5",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on Village, Low and Capture Quests"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Sply Max Potion",
+    "rarity": "2",
+    "bagCapacity": "3",
+    "sellValue": "0z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Sply Pitfall Trp",
+    "rarity": "3",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Sply Lg Brrl Bmb",
+    "rarity": "3",
+    "bagCapacity": "2",
+    "sellValue": "0z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Map",
+    "rarity": "1",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on most Quests"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Throwing Knife",
+    "rarity": "1",
+    "bagCapacity": "5",
+    "sellValue": "0z",
+    "howToGet": "Supply Box (e.g. Village Azure Rathalos)"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Poison Thrw Knf",
+    "rarity": "1",
+    "bagCapacity": "5",
+    "sellValue": "0z",
+    "howToGet": "Combine Throwing Knife and Toadstool"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Paralyze Thr Knf",
+    "rarity": "1",
+    "bagCapacity": "5",
+    "sellValue": "0z",
+    "howToGet": "Combine Throwing Knife and Stunshroom"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Sleeping Thr Knf",
+    "rarity": "1",
+    "bagCapacity": "5",
+    "sellValue": "0z",
+    "howToGet": "Combine Throwing Knife and Sleep Herb"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Tranq Thrwng Knf",
+    "rarity": "1",
+    "bagCapacity": "5",
+    "sellValue": "0z",
+    "howToGet": "Combine Throwing Knife and Tranquilizer"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Paw Pass Ticket",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on Quests that you can finish anytime or after a set amount of slain Monsters."
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Limited Paw Pass",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Portable Spit",
+    "rarity": "1",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on low Village Quests"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Ballista S",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on Lao Shan Lung Quests and the base Camp"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Cannon S",
+    "rarity": "3",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on Lao Shan Lung Quests and the base Camp"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Anti-Dragon Bomb",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "0z",
+    "howToGet": "Supply Box on Lao Shan Lung Quests"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "White Liver",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "100z",
+    "howToGet": "Carve Anteka and Kelbi"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Popo Tongue",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "45z",
+    "howToGet": "Carve Popo"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Secret Pouch",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "100z",
+    "howToGet": "Shiny Drop of Melynx"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Piscine Liver",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "90z",
+    "howToGet": "Carve Cephalos and Cephadrome"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "CarapaceonBrains",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "150z",
+    "howToGet": "Carve Hermitaur and Ceanataur"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "CarapaceonBrain+",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "750z",
+    "howToGet": "Carve Hermitaur and Ceanataur"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Wyvern Tears",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "500z",
+    "howToGet": "Shiny Drop of any big Monster"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Wyvern Sobs",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "2500z",
+    "howToGet": "Shiny Drop of most big Monster"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Territorial Dung",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "500z",
+    "howToGet": "Shiny Drop of Congalala and Emerald Congalala"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "TerritorialDung+",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "2500z",
+    "howToGet": "Shiny Drop of Congalala and Emerald Congalala"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Crab Pearl",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "500z",
+    "howToGet": "Shiny Drop of Daimyo Hermitaur , Plum Daimyo Hermitaur , Shogun Ceanataur and Terra Shogun Ceanataur"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Crab Pearl+",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "2500z",
+    "howToGet": "Shiny Drop of Daimyo Hermitaur , Plum Daimyo Hermitaur , Shogun Ceanataur and Terra Shogun Ceanataur"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Dragon Treasure",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "800z",
+    "howToGet": "Shiny Drop of Elder Dragons"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Anc Drgn Treasre",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "4000z",
+    "howToGet": "Shiny Drop of Elder Dragons"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Decayed Drgn Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "250z",
+    "howToGet": "Gathering Spots (Kushala Skin/Tower)"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Dragon Herb",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Tropical Berry",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "50z",
+    "howToGet": "Gathering Spot Volcano"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Mountain Herbs",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "50z",
+    "howToGet": "Gathering Spot Snowy Mountains"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Special Mushroom",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "50z",
+    "howToGet": "Forest and Hills Mushroom Gathering Spots"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Secret Mushroom",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Beatiful Shell",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "40z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Coal",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "150z",
+    "howToGet": "Volcano Mining Spots"
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Goldstone Piece",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Goldstone Hunk",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "1000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Goldenfish",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "500z",
+    "howToGet": "While on a Hunt. Use Goldenfish Bait for guaranteed encounter."
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Silverfish",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Royal Rhino",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Divine Rhino",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "1000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Wyvern Egg",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Herbivore Egg",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "1000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Carnivore Egg",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "700z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Sootstone Ore",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "1000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Quartz Ore",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "2500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Powderstone",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "3000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Khezu Whelp",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Supply & Account Items",
+    "itemName": "Khz Whlp Ice Crm",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "120z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Honey",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "45z",
+    "howToGet": "Gathering Spot Jungle"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Sunset Herb",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "2z",
+    "howToGet": "Gathering Spot Jungle"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Herb",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "2z",
+    "howToGet": "Buy from the Town Merchant (20z)"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Antidote Herb",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "2z",
+    "howToGet": "Gathering Spot Swamp"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Fire Herb",
+    "rarity": "2",
+    "bagCapacity": "20",
+    "sellValue": "4z",
+    "howToGet": "Gathering Spot Desert, Volcano"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Ivy",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "8z",
+    "howToGet": "Gathering Spot Snwoy Mountains, Jungle, Forest&Hills"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Sleep Herb",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "3z",
+    "howToGet": "Gathering Spot Snowy Mountains"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Sap Plant",
+    "rarity": "1",
+    "bagCapacity": "30",
+    "sellValue": "2z",
+    "howToGet": "Gathering Spot Snowy Mountains"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Felvine",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "1z",
+    "howToGet": "Shiny Drop of Melynx"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Cactus Flower",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "10z",
+    "howToGet": "Gathering Spot Desert"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Hot Pepper",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "4z",
+    "howToGet": "Gathering Spot Desert, Volcano"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Dosbiscus",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "20z",
+    "howToGet": "Pokke Farm; fertilize a Red Seed or Power/Armor Seed"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Giant Corn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "500z",
+    "howToGet": "Pokke Farm; fertilize a Yellow Seed"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Blue Mushroom",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "2z",
+    "howToGet": "Most Mushroom Gathering Spot"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Nitroshroom",
+    "rarity": "2",
+    "bagCapacity": "20",
+    "sellValue": "6z",
+    "howToGet": "Most Mushroom Gathering Spot"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Parashroom",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "15z",
+    "howToGet": "Most Mushroom Gathering Spot"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Toadstool",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "8z",
+    "howToGet": "Most Mushroom Gathering Spot"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Exciteshroom",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "18z",
+    "howToGet": "Most Mushroom Gathering Spot"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Dragon Toadstool",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "40z",
+    "howToGet": "Most Mushroom Gathering Spot"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Spicy Mushshroom",
+    "rarity": "3",
+    "bagCapacity": "10",
+    "sellValue": "54z",
+    "howToGet": "Combine Hot Pepper and Special Mushroom"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Chaos Mushroom",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "40z",
+    "howToGet": "Gather from the Mushroom Tree on Pokke Farm"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Paintberry",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "6z",
+    "howToGet": "Gathering Spot Jungle"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Power Seed",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "28z",
+    "howToGet": "Gathering Spot Desert"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Armor Seed",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "22z",
+    "howToGet": "Gathering Spot Snowy Mountains"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Dragon Seed",
+    "rarity": "2",
+    "bagCapacity": "2",
+    "sellValue": "78z",
+    "howToGet": "Gathering Spot Volcano"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Scatternut",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "4z",
+    "howToGet": "Gathering Spot Forest and Hills"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Needleberry",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Gathering Spot Forest and Hills"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Bomberry",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "12z",
+    "howToGet": "Gathering Spot Volcano"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Frozen Berry",
+    "rarity": "3",
+    "bagCapacity": "5",
+    "sellValue": "54z",
+    "howToGet": "Combine Tropical Berry with Ice Crystal"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Red Seed",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Buy from the Peddling Granny (10z)"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Green Seed",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Buy from the Peddling Granny (10z)"
+  },
+  {
+    "itemType": "Plants, Mushrooms and Seeds",
+    "itemName": "Yellow Seed",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Buy from the Peddling Granny (250z)"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Stone",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Most Mining Spots and some Gathering Spots"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Disk Stone",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "68z",
+    "howToGet": "Low Rank Volcano"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Iron Ore",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "60z",
+    "howToGet": "Low Rank Volcano"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Earth Crystal",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": "Low Rank Swamp"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Machalite Ore",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "160z",
+    "howToGet": "Most Mining Spots"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Dragonite Ore",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "480z",
+    "howToGet": "Low and High Rank Volcano"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Carbalite Ore",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "680z",
+    "howToGet": "High Rank Volcano"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Eltalite Ore",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1280z",
+    "howToGet": "G-Rank Volcano"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Union Ore",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1020z",
+    "howToGet": "High Rank Volcano"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Mellanje Ore",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1920z",
+    "howToGet": "G-Rank Volcano"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Firestone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "860z",
+    "howToGet": "Any Rank Volcano Trenya's Boat 300/500pts to Volcano"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Firecell Stone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1720z",
+    "howToGet": "High Rank Volcano Trenya's Boat 10000pts to Volcano"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Lightcrystal",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1150z",
+    "howToGet": "Low and High Rank Swamp Reward for breaking Gypceros ' head on Low Rank."
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Novacrystal",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2440z",
+    "howToGet": "High Rank Swamp Reward for breaking Gypceros ' head on High Rank."
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Pure Crystal",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7320z",
+    "howToGet": "G-Rank Swamp Reward for breaking Gypceros , Kirin and Fatalis at G-Rank"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Antiseptic Stone",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "183z",
+    "howToGet": "Combine Bitterbug + Earth Crystal"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Ice Crystal",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "60z",
+    "howToGet": "Low Rank Snowy Mountains"
+  },
+  {
+    "itemType": "Minerals",
+    "itemName": "Rainbow Ore",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "960z",
+    "howToGet": "Mining Point+3 & Bomb Mining"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "Armor Stone",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "100z",
+    "howToGet": "Pokke Farm Mining Spots or Bomb Mining Send Trenya to Snowy Mountains for 1000pts Pokke Shop for 1500pts"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "Armor Sphere",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "80z",
+    "howToGet": "Pokke Farm Mining Combine Armor Stone and Machalite Ore or Killer Beetle Pokke Shop for 800pts"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "Armor Sphere+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "300z",
+    "howToGet": "Combine Armor Stone and Dragonite Ore or Hercudrome Pokke Shop for 3000pts"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "Hrd Armor Sphere",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "400z",
+    "howToGet": "Combine Armor Stone and Carbalite Ore or King Scarab Pokke Shop for 4000pts"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "Hvy Armor Sphere",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "600z",
+    "howToGet": "Combine Armor Stone and Purecrystal"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "Ryl Armor Sphere",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "500z",
+    "howToGet": "Combine Armor Stone and Eltalite Ore or Emperor Cricket"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "Tru Armor Sphere",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "300z",
+    "howToGet": "Combine Armor Stone and Mellanje Ore or PhantomButterfly"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "Suiko Jewel",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "50z",
+    "howToGet": "Pokke Shop 800pts"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "Akito Jewel",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "350z",
+    "howToGet": "Pokke Shop 3000pts"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "BattlefieldJewel",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "530z",
+    "howToGet": "Pokke Shop"
+  },
+  {
+    "itemType": "Spheres & Jewels",
+    "itemName": "LapislazuliJewel",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "50z",
+    "howToGet": "Pokke Shop"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Knife Mackerel",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "19z",
+    "howToGet": "Peddling Granny"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Sushifish",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "45z",
+    "howToGet": "Forest & Hills"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Sleepyfish",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "45z",
+    "howToGet": "Most Areas"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Pin Tuna",
+    "rarity": "1",
+    "bagCapacity": "30",
+    "sellValue": "19z",
+    "howToGet": "Most Areas"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Rumblefish",
+    "rarity": "2",
+    "bagCapacity": "30",
+    "sellValue": "4z",
+    "howToGet": "Peddling Granny"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Scatterfish",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "150z",
+    "howToGet": "Peddling Granny"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Burst Arrowana",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "45z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Bomb Arrowana",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "135z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Glutton Tuna",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "13z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Gastronome Tuna",
+    "rarity": "5",
+    "bagCapacity": "5",
+    "sellValue": "23z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Speartuna",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "1000z",
+    "howToGet": "Forest & Hills, Jungle"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Small Goldenfish",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "500z",
+    "howToGet": "Training School"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Ancient Fish",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": "Casting Machine"
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Springnight Carp",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "60z",
+    "howToGet": "Pokke Farm exclusive."
+  },
+  {
+    "itemType": "Fishes",
+    "itemName": "Tailed Frog",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "500z",
+    "howToGet": "Pokke Farm exclusive."
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Insect Husk",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "1z",
+    "howToGet": "Insect Thickets, Spiderwebs and Bee Hives"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Yambug",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "3z",
+    "howToGet": "Any Insect Thickets"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Bughopper",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "6z",
+    "howToGet": "Any Insect Thickets"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Snakebee Larva",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "30z",
+    "howToGet": "Bee Hives"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Godbug",
+    "rarity": "4",
+    "bagCapacity": "10",
+    "sellValue": "210z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Bitterbug",
+    "rarity": "1",
+    "bagCapacity": "10",
+    "sellValue": "2z",
+    "howToGet": "Any Insect Thickets"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Flashbug",
+    "rarity": "2",
+    "bagCapacity": "10",
+    "sellValue": "48z",
+    "howToGet": "Peddling Granny"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Thunderbug",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "350z",
+    "howToGet": "Shiny Drop of Great Thunderbug"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Carpenterbug",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": "SnwyMntains district and pokke farm"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "King Scarab",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "800z",
+    "howToGet": "High-Rank Forest & Hills and Desert"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Emperor Cricket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": "G-Rank most Areas"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Killer Beetle",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "200z",
+    "howToGet": "Jungle"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Hercudrome",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "540z",
+    "howToGet": "Volcano, Tower High-Rank Mountains"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Rare Scarab",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1000z",
+    "howToGet": "G-Rank Volcano and Tower"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Phantom Butterfly",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": "G-Rank Volcano and Tower"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Rainbow Insect",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "640z",
+    "howToGet": "Volcano, G-Rank Desert"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Great Hornfly",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "60z",
+    "howToGet": "Pokke Farm"
+  },
+  {
+    "itemType": "Insects",
+    "itemName": "Great Ladybug",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "60z",
+    "howToGet": "Pokke Farm"
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Screamer",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "15z",
+    "howToGet": "Carve/Reward from Velocidrome , Giadrome , Gendrome and Iodrome"
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Poison Sac",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "96z",
+    "howToGet": "Carve/Reward from Iodrome , Gypceros and Basarios on Low and High Rank."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Toxin Sac",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "192z",
+    "howToGet": "Carve/Reward from Gypceros and Basarios on High-Rank."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "DeadlyPoisonSac",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1920z",
+    "howToGet": "Carve/Reward from Gypceros and Basarios on G-Rank."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Paralysis Sac",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": "Carve/Reward from Gendrome and Basarios ."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Sleep Sac",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "340z",
+    "howToGet": "Carve/Reward from Gravios , Black Gravios and Hypnocatrice"
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Coma Sac",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "680z",
+    "howToGet": "Carve/Reward from Gravios on G-Rank."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Flame Sac",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "240z",
+    "howToGet": "Carve/Reward from Yian Kut-Ku , Blue Yian Kut-Ku , Rathian , Pink Rathian , Rathalos , Azure Rathalos and Gravios on Low Rank."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Inferno Sac",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "480z",
+    "howToGet": "Carve/Reward from Yian Kut-Ku and Blue Yian Kut-Ku on G-Rank Rathian , Rathalos , Gravios , Black Gravios , Teostra and Lunastra on High-Rank."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Blazing Fire Sac",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1920z",
+    "howToGet": "Carve/Reward from Yian Kut-Ku and Blue Yian Kut-Ku , Rathian , Pink Rathian , Gold Rathian , Rathalos , Azure Rathalos , Silver Rathalos , Gravios , Black Gravios on G-Rank."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Electro Sac",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "480z",
+    "howToGet": "Carve/Reward from Khezu , Red Khezu on Low Rank."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Thunder Sac",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "960z",
+    "howToGet": "Carve/Reward from Khezu , Red Khezu on High Rank."
+  },
+  {
+    "itemType": "Monster Sacs",
+    "itemName": "Lightning Sac",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2400z",
+    "howToGet": "Carve/Reward from Khezu , Red Khezu on High Rank."
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Sm Monster Bone",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "10z",
+    "howToGet": "Carve Herbivore (i.e. Aptonoth )"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Med Monster Bone",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "210z",
+    "howToGet": "Carved from Apceros , Yian Kut-Ku , Shogun Ceanataur and Giadrome"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Lg Monster Bone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "440z",
+    "howToGet": "Carved from Plesioth and Daimyo Hermitaur"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Monster Bone+",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "660z",
+    "howToGet": "Carved from Daimyo Hermitaur , Yian Kut-Ku , Blue Yian Kut-Ku , Basarios , Diablos and Tigrey"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Hrd Monster Bone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "880z",
+    "howToGet": "Carved from Daimyo Hermitaur , Basarios , Monoblos , White Monoblos and Black Gravios"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Hvy Monster Bone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1320z",
+    "howToGet": "Carved from Plum Daimyo Hermitaur , Terra Shogun Ceanataur , Diablos"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Eldr Dragon Bone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "880z",
+    "howToGet": "Carved from Shen Gaoren and Elder Dragon except Kirin"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "BigEDragonBone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2200z",
+    "howToGet": "Carved from and Elder Dragon except Kirin"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Mystery Bone",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Bone Piles (i.e. Forest and Hills Area 5)"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Unknown Skull",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": "Forest and Hills Area 5 & 12 on Low Rank"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Master's Skull",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1250z",
+    "howToGet": "Forest and Hills Area 12 on High and G-Rank"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Bone",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "15z",
+    "howToGet": "Bone Piles (i.e. Forest and Hills Area 5)"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "RobustWyvernBone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "800z",
+    "howToGet": "Carved from Giaprey , Velociprey , Gendrome and Ioprey"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Brute Bone",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "20z",
+    "howToGet": "Carved from Popo , Blango , Blangonga , Bullfango , Bulldrome , Conga and Congalala"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Giant Bone",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "150z",
+    "howToGet": "Carved from Bulldrome , Daimyo Hermitaur and Congalala"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Stout Bone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "600z",
+    "howToGet": "Carved from Bulldrome , Rajang , Blango , Copper Blangonga and Blangonga"
+  },
+  {
+    "itemType": "Monster Bones",
+    "itemName": "Massive Bone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": "Carved from Copper Blangonga and Congalala"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wyvern Fang",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "6z",
+    "howToGet": "Quest Reward"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wyvern Claw",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "18z",
+    "howToGet": "Quest Reward"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wyvern Stone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6000z",
+    "howToGet": "Rare Tail and Body Carve of many big Monsters as well as a rare Catch Reward of many big Monsters on High and G-Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Big Wyvern Stone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "12000z",
+    "howToGet": "Rare Tail and Body Carve of many big Monsters as well as a rare Catch Reward of many big Monsters on G-Rank only"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "BigEDragonJewel",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "18000z",
+    "howToGet": "Rare Tail and Body Carve of Elder Dragons on High Rank and G-Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Sharp Claw",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Piercing Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Felyne Fur Ruby",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1000z",
+    "howToGet": "Rare Melynx Shiny Drops on High Rank and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pawprint Stamp",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Melynx and Felyne Shiny Drops on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Mosswine Hide",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "36z",
+    "howToGet": "Mosswine Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Bullfango Pelt",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "40z",
+    "howToGet": "Bullfango Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThkBullfangoPelt",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "600z",
+    "howToGet": "Bullfango Carves on G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Bullfango Head",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "150z",
+    "howToGet": "Bullfango Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Bulldrome Tusk",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "160z",
+    "howToGet": "Bulldrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Bulldrome Hide",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "100z",
+    "howToGet": "Bulldrome Carves on Low Rank and High Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Bulldrome Hide+",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "300z",
+    "howToGet": "Bulldrome Carves on G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kelbi Horn",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "52z",
+    "howToGet": "Kelbi Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kelbi Hide",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "24z",
+    "howToGet": "Kelbi Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Anteka Antlers",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "58z",
+    "howToGet": "Anteka Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Anteka Pelt",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "35z",
+    "howToGet": "Anteka Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "High Qualty Pelt",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "105z",
+    "howToGet": "Kelbi and Anteka Carves on G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Remobra Skin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "180z",
+    "howToGet": "Remobra Carves on Low Rank and High Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Remobra Skin+",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "540z",
+    "howToGet": "Remobra Carves on High Rank and G-Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "SpecRemobraSkin+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1620z",
+    "howToGet": "Remobra Carves on G-Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Striped Skin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "290z",
+    "howToGet": "Remobra Carves on every Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Remobra Skull",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "750z",
+    "howToGet": "Rare Remobra Carves on every Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ShakalakaTreasre",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "360z",
+    "howToGet": "Shakalaka and King Shakalaka Carves on every Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ShakalakaTreasr+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": "Shakalaka and King Shakalaka Carves on High Rank and G-Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ShakaInheritance",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "900z",
+    "howToGet": "King Shakalaka Carves on G-Rank"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giaprey Scale",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "40z",
+    "howToGet": "Giaprey Carves & Giadrome Carves on Low Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giaprey Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": "Giaprey Carves & Giadrome Carves on HIgh and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giaprey Hide",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "28z",
+    "howToGet": "Giaprey Carves on Low and High Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giaprey Hide+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "84z",
+    "howToGet": "Giaprey Carves & Giadrome Carves on High Rank and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giadrome Hide",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "240z",
+    "howToGet": "Giadrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giadrome Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "240z",
+    "howToGet": "Giadrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giadrome Claw+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "550z",
+    "howToGet": "Giadrome Carves on High Rank and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giadrome Skull",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "560z",
+    "howToGet": "Giadrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Velociprey Fang",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "8z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Velociprey Scale",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "40z",
+    "howToGet": "Veloicprey Carves & Velocidrome Carves on Low Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Velociprey Scle+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": "Veloicprey Carves & Velocidrome Carves on High and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Velociprey Hide",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "28z",
+    "howToGet": "Veloicprey Carves on Low and High Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Velociprey Hide+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "84z",
+    "howToGet": "Giaprey Carves & Giadrome Carves on High Rank and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Velocidrome Hide",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "240z",
+    "howToGet": "Velocidrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Velocidrome Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "240z",
+    "howToGet": "Velocidrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Velocidrome Clw+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "550z",
+    "howToGet": "Velocidrome Carves on High Rank and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Velocidrome Head",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "560z",
+    "howToGet": "Velocidrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Genprey Fang",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "8z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Genprey Scale",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "40z",
+    "howToGet": "Genprey Carves & Gendrome Carves on Low Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Genprey Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": "Genprey Carves & Gendrome Carves on High and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Genprey Hide",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "28z",
+    "howToGet": "Genprey Carves on Low and High Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Genprey Hide+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "84z",
+    "howToGet": "Genprey Carves & Gendrome Carves on High Rank and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gendrome Hide",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "240z",
+    "howToGet": "Gendrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gendrome Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "600z",
+    "howToGet": "Gendrome Carves on High Rank and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gendrome Skull",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "560z",
+    "howToGet": "Gendrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ioprey Fang",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "5z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ioprey Scale",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "40z",
+    "howToGet": "Ioprey Carves & Iodrome Carves on Low Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ioprey Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": "Ioprey Carves & Iodrome Carves on High and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ioprey Hide",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "28z",
+    "howToGet": "Ioprey Carves on Low and High Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ioprey Hide+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "168z",
+    "howToGet": "Ioprey Carves & Iodrome Carves on High Rank and G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Iodrome Hide",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "560z",
+    "howToGet": "Iodrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Iodrome Skull",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "560z",
+    "howToGet": "Iodrome Carves on every Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "OrangeHypnoPelt",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "750z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "OrangeHypnoPelt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Top-GrdHypnoClaw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hypno Claw+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hypno Bezoar",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hypno Bezoar+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hypno Beak",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hypno Fang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "RainbowTailFeath",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kut-Ku Scale",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kut-Ku Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "750z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Thick Kut-Ku Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kut-Ku Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "355z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kut-Ku Carapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1035z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hvy Kut-Ku Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3105z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kut-Ku Ear",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1280z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Long Kut-Ku Ear",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2560z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lucky Kut-Ku Ear",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5120z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giant Beak",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Splendid Beak",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kut-Ku Webbing",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Str Kut-Ku Wing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blue Kut-Ku Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "375z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blue Kut-Ku Scl+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1125z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThkBlueKut-KuScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3375z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blue Kut-Ku Shl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blue Kut-Ku Cpc",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1380z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyBlueKut-KuShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4140z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Power Extract",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "56z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rubbery Hide",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "370z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rubbery Hide+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1110z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "SpecRubberyHide+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3330z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gypceros Head",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HardGypcerosHead",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pur Rubbery Hide",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "620z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pur Rubbery Wng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdPuGypcerosWng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Garuga Scale",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "490z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Garuga Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1470z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThickGarugaScale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4410z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Garuga Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Garuga Carpace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hvy Garuga Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Garuga Ear",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Long Garuga Ear",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Sharpened Beak",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rejuvenanted Beak",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Garuga Wing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Str Garuga Wing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Garuga Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LethrGarugaTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Garuga Mane",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "SilverGarugaPelt",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blango Pelt",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "60z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blango Pelt+",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "180z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blangonga Fang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1350z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blangonga Fang+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2150z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyBlangongaFang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6450z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blangonga Pelt",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "570z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blangonga Pelt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1140z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdBlangongaPlt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3420z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blangonga Whiskr",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "820z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lthr Pelagus Plt",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blangonga Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "980z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LeathrBlangoTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5880z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "C.BlangongaPelt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5130z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyC.BlangoFang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9675z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LthrC.BlangoTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8820z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Conga Pelt",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "60z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Conga Pelt+",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "180z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Conga Pelt",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Conga Pelt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdCongalalaPlt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Vibrant Pelt",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Congalala Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "880z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Congalala Claw+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdCongalalaClw+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Congalala Fang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "770z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lg Pelagus Fang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "E.CongalalaPelt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdE.CongaClaw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6750z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Vibrant Comb",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rajang Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hard Rajang Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rajang Fang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6750z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blk Rajang Pelt",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2280z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blk Rajang Pelt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5700z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rajang Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hard Rajang Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rajang Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gold Rajang Pelt",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "GoldRajangPelt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "15000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Piscine Fang",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyPiscineFang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Sm Lobstershell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lg Lobstershell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gt Lobstershell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6540z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Plesioth Scale",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "480z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Plesioth Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1440z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckPlesiothScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4320z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Plesioth Fin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "820z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Plesioth Fin+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1640z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "SpecPlesiothFin+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1640z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Grn Plesioth Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "720z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Grn Plsioth Scl+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2160z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckGrnPlesioScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6480z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Grn Plesioth Fin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1230z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Grn Plesioth Fin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2460z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "SpecGrnPlesioFn+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7380z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Cephalos Scale",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Cephalos Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Cephalos Fin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Cephalos Fin+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1050z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Coral Cphlos Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Coral Cphlos Fin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2750z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckLavasiothScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5940z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyLavasiothShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6625z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyLavasiothFang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4050z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "SpecLavasioFin+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7450z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Black Pearl",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "150z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Giant Blk Pearl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wyvern Skull Shl",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "780z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Sm Hermitaur Shl",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "45z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hermitaur Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hermitaur Carpce",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyHermitaurShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hermitaur Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "975z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hermitaur Claw+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdHermitaurClaw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "PlumD.HermitrShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "PlumD.HermitrClw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8775z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Sm Ceanataur Shl",
+    "rarity": "2",
+    "bagCapacity": "99",
+    "sellValue": "55z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ceanataur Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "720z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ceanataur Carpce",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2160z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyCeanataurShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4320z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ceanataur Leg",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "750z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyCeanataurLeg",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ceanataur Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ceanataur Claw+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdCeanataurClaw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "TerraCeanatrShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6480z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "TerraCeanatrClaw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8820z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fire Wyvern Claw",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdFireWyvernClw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "FireWyvern Fluid",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "FireWyvrn Marrow",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "FireWyvrn BrnStm",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathian Scale",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "490z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathian Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1470z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckRathianScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4410z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathian Plate",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathian Ruby",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9700z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvnlyRathianScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "15000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathian Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathian Carapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyRathianShell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathian Spike",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathian Spike+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathian Thorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9180z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pnk Rathian Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "735z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pnk Rathian Scl+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1960z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckPnkRathnScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5880z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pnk Rathian Shl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "975z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pnk Rathian Cpc",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyPnkRathianShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gld Rathian Scl+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckGldRathnScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gld Rathian Cpc",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyGldRathianShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8775z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "GoldRathianThorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "12000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathalos Scale",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "490z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathalos Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1470z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hrd Rathalos Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4410z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathalos Plate",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathalos Ruby",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9700z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvnlyRathalosScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "15000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathalos Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathalos Carpace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyRathalosShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathalos Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LthrRathalosTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathalos Webbing",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "880z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Rathalos Wing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StrRathalosWing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8925z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Azure Rthlos Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "735z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Azre Rthlos Scl+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1960z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckAzurRthlsScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5880z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Azure Rthlos Shl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "975z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Azure Rthlos Cpc",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyAzurRthlsShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Azur Rthlos Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LthrAzrRthlsTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Azur Rthlos Wing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3825z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Slvr Rthlos Scl+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckSlvrRthlsScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Slvr Rthlos Cpc",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvySlvrRthlsShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8775z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Slvr Rthlos Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LthrSlvrRthlsTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Slvr Rthlos Wing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pale Extract",
+    "rarity": "3",
+    "bagCapacity": "99",
+    "sellValue": "122z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Flabby Hide",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "760z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Khezu Hide - Tan",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1520z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "KhezuHide-Cream",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4560z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pale Bone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2380z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Pale Khezu Steak",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3580z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "KhezuSpecialCut",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "11000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Alluring Hide",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1140z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Alluring Webbing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2280z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StrAlluringWing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6840z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Basarios Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "440z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Basarios Carpace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1320z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyBasariosShell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3960z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Basarios Wing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1420z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StrBasariosWing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "11000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Basarios Tears",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8888z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Scale",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "490z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1470z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThickTigrexScale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4410z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvnlyTigrexScale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "15000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Carapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hvy Tigrex Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LeathrTigrexTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "700z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Claw+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hard Tigrex Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5880z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Fang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Fang+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hvy Tigrex Fang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5040z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Tigrex Skull Shl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Narga Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThickNargaScale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvnlyNargaScale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "14000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Black Narga Pelt",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "BlackNargaPelt+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Nargacuga Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LeathrNargaTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Narga Tail Spike",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyNargaTailSpik",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "NargaCuttingWing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StrNargaCttngWng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Nargacuga Fang+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyNargacugaFang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Narga Brain Stem",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gravios Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "970z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gravios Carapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1880z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyGraviosShell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5640z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvnlyGraviosShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "16000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gravios Skl Shl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2550z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gravios BrainStm",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6260z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blk Gravios Shl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1455z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blk Gravios Cpc",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2910z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyBlkGraviosShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8730z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvnlyBlkGraviShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "16000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blk Gravios Skl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3825z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Twisted Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Majestic Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StoutWarpedHorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Diablos Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Diablos Carapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyDiablosShell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Diablos Spine",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1340z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Diablos Thoracic",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4020z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyDiablosSpine",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7236z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Diablos Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1280z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LthrDiablosTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blos Fang",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "TwstBlkBlosHrn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StoutBlkTwstdHrn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Black Blos Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Black Blos Cpc",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3280z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyBlkBlosShell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8528z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Black Blos Spine",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2010z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blk Blos Thracic",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6030z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyBlkBlosSpine",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9045z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Black Blos Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1920z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LthrBlkBlosTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Monster Fluid",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "500z",
+    "howToGet": "Carved from Vespoid & Hornetaur"
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Monster Broth",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1000z",
+    "howToGet": "Carved from Vespoid and Hornetaur at High-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Monster Essence",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2000z",
+    "howToGet": "Carved from Vespoid and Hornetaur at G-Rank."
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Thunderbug Juice",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Thunderbug Jelly",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Vespoid Abdomen",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "VespoidQn'Crown",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Vespoid Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Vespoid Carapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "240z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Vespoid Wing",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "73z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Vespoid InnrWng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "512z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Vespoid Razorwing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1792z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hornetaur Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "120z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hornetaur Crapce",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "360z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hornetaur Head",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "175z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hornetaur Wing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "73z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HornetaurInnrWng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "512z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hornet Razorwing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1792z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Blood Red Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1520z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "TopGrdRedHorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Monoblos Shell",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "MonoblosCarapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Monoblos Spine",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1340z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "MonoblosThoracic",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4020z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Monoblos Heart",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wht Monoblos Hrn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2280z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Top-GrdPlatHorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5700z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wht Monoblos Shl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "975z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wht Monoblos Cpc",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "19500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wht Monoblos Spn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2010z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "WhtMonoblosThora",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6030z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kirin Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kirin Hide",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kirin Hide+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "SpecialKirinHide",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kirin Mane",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Platinum Mane",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kirin Thndr Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LthrKirinThndrTl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Kirin Azure Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-Shan's Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1920z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-Shan's Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1700z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-Shan's Scale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-Shan Scale+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1950z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-Shan'sThkScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-Shan's Ruby",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "20000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-ShanHvnlyScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "30000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-Shan's Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-ShanCarapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2700z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lao-Shan'sHvyShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Azure LaoS Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Azure LaoS Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3375z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Azure LaoS Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gaoren Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1400z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gaoren Carapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyGaorenShell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvnlyGaorenShell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "20000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gaoren Spine",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gaoren Thoracic",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hvy Gaoren Spine",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gaoren Pincer",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2150z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Gaoren Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hard Gaoren Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "32896000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Daora Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Daora Carapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hvy Daora Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "DaoraDragonScale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "DaoraDragonScal+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckDaoraDrgnScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Daora Webbing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Str Daora Wing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Daora Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2450z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hard Daora Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Daora Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lthr Daora Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Daora Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Daora Sharp Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Daora Jewel",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Chameleos Hide",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Chameleos Hide+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3750z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "SpecChameleHide+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Chameleos Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2680z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Chameleos Spike",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8040z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdChameleosHorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "100500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Chameleos Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ChameleosWebbing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1760z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StrChameleosWing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Chameleos Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LthrChameleoTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Chameleos Jewel",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fire Dragon Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1050z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fire Dragn Scl+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2100z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckFireDrgnScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fire Dragon Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdFireDrgnClaw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fire Drgn Webbng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fire Dragon Pwdr",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fire Drgn Jwl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ElderDragonBlood",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lunastra Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LunastraCarapacel",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lunastra Mane",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lunastra Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lunastra Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Lunastra Spike",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Teostra Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Teostra Carapace",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyTeostraShell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Teostra Mane",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Teostra Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "LthrTeostraTail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Teostra Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Teostra Horn+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HardTeostraHorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Dragonmoss",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Dragonmoss+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2250z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "AncientDrgnmoss",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Dragonwood",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Dragonwood+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "AncientDrgnwood",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7200z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "YamaTsukamiHide",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6320z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "YamaTsukamiHide",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8750z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "YamaTsukamiFluid",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8750z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Dark Piece",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "260z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Dark Stone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "530z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5440z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdFatalisHorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10880z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis Scale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3560z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckFatalisScale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6230z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5580z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hvy Fatalis Shl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9765z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis Eye",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis Evil Eye",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "28000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis Webbing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7860z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Str Fatalis Wng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "11790z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis CrmsnHrn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6528z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdFatlisCrmHorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "13056z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis CrmsnScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4272z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckFatlisCrmScl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7476z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis CrmsnShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5580z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyFatalisCrmShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "97650z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis DevilEye",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "25000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Fatalis CrmsnWng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7860z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StrFatlisCrmWing",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "11790z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wht Fatalis Scl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8852z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "ThckWhtFatlisShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "15491z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wht Fatalis Shl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10230z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyWhtFatalisShl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "17391z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wht Fatalis Wbng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9900z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StrWhtFatalisWng",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "14850z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Wht Fatalis Horn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "12300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HrdWhtFatlisHorn",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "24600z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Akantor Scale",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "4272z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Akantor Shell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5580z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Akantor Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9312z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Akantor Claw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6408z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Akantor Fang",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "9500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Akantor Spike",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10230z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "HvyUkanlosShell",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "8300z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "UkanlosUnderscl",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7500z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Hvy Ukanlos Tail",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "UkanlosDiggngClw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "7800z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "UkanlosShovelJaw",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "13000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "StrongUkanlosFin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "11000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Monster Materials",
+    "itemName": "Ukanlos Stone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "25000z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Barrel Lid",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Garbage",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "1z",
+    "howToGet": "Fail a Combination"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Sinister Cloth",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "480z",
+    "howToGet": "Send Trenya to the Desert, Swamp, Forest and Hills or Volcano (300, 500, 1000pts) Great Forest (500pts)"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Lost Umbrella",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1240z",
+    "howToGet": ""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Commendation",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Quest Reward for Shakalaka , Ashen Lao-Shan Lung , Fatalis , Elder Lv6★ Quests, \"The Final Invitation\" and other Slaying Quests"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Commendation G",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Quest Reward for High-Rank and Nekoht Epic Quests"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Commendation S",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Quest Reward for late G-Rank Quests"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Pokke Ticket",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Reward from the Pokke Elder for various deeds Buy from the Pokke Point Merchant (5000pts)"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Pokke Ticket+",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Reward from the Pokke Elder for various grest deeds, like completing Urgent Quests"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Normal Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Data Import One for each Rare 1-3 Equipment"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Hard Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Data Import One for each Rare 4-5 Equipment"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Plus Class Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Data Import One for each Rare 6-7 Equipment"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "FlynMealPassReg",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Felyne Kitchen Random gift from the Head Chef after you have 2 or more Felynes on Kitchen Duty"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "FlynMealPassPlus",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Felyne Kitchen Random gift from the Head Chef after you have 3 or more Felynes on Kitchen Duty or after each ten meals are prepared by 5 Felynes"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Comrade Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Random gift from a Felyne Comrade given to you by another Player"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "VeggieElderTcket",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Get a total of 10 Friendship levels with a single player (Through Ad Hoc)."
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "VeggieElderTckt+",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Get 20 Friendship levels with another player (Through Ad Hoc), then 30, 40 etc."
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "VegElderTcktBrz",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Get a total of 25 Friendship levels with a single player (through Ad Hoc). Can only be receive one bundle from each player."
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "VegElderTcktSlv",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Get 50 Friendship levels with a single player (Through Ad Hoc) Can only be receive one bundle from each player. Note: Requires a Bronze Guild Card or higher in order to obtain one."
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "VegElderTcktSlv",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Get 50 Friendship levels with a single player (Through Ad Hoc) Can only be receive one bundle from each player. Note: Requires a Silver Guild Card or higher in order to obtain one."
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "VegElderTckGld",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Reach 75 Friendship levels with a single player. (Through Ad Hoc) Can only be receive one bundle from each player. Note: Requires a Gold Guild Card or higher in order to obtain one."
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "VegElderTckSky",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Reach 100 Friendship levels with another player.(Through Ad Hoc) Can only be receive one bundle from each player. Note: Requires a Platinum Guild Card in order to obtain one."
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Wyverian Harp",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "620z",
+    "howToGet": "Give Trenya a total of 10000pts"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Hero of Kkto Bio",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Reward from the Pokke Elder after slaying a Monoblos Data Import Monster Hunter Freedom Savegame to Monster Hunter Freedom 2 and than to Monster Hunter Freedom Unite"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Hero of JumboBio",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Reward from the Peddling Granny after slaying a Lunastra"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Elder Thank You",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Reward from the Pokke Elder after Village Lv6★ and Guild Hall Lv5★ Shen Gaoren Urgent Quests"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Elder Thnk You+",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Reward from the Pokke Elder after Guild Hall Lv8★ Urgent Quest \"The Approaching Gaoren\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Ruststone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "180z",
+    "howToGet": "Mining Spots Volcano"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Flat Ruststone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "180z",
+    "howToGet": "Mining Spots Volcano"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Large Ruststone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "180z",
+    "howToGet": "Mining Spots Volcano"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Small Ruststone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "180z",
+    "howToGet": "Mining Spots Volcano"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Ruststone Rod",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "180z",
+    "howToGet": "Mining Spots Volcano"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Ancient Stone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "360z",
+    "howToGet": "Mining Spots Volcano (G-Rank)"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "AncientFlatStone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "360z",
+    "howToGet": "Mining Spots Volcano (G-Rank)"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Lg Ancient Stone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "360z",
+    "howToGet": "Mining Spots Volcano (G-Rank)"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Sm Ancient Stone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "360z",
+    "howToGet": "Mining Spots Volcano (G-Rank)"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Ancient StoneRod",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "360z",
+    "howToGet": "Mining Spots Volcano (G-Rank)"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Steel Egg",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1000z",
+    "howToGet": "Quest Reward Delivery Quests and Training School"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Silver Egg",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "10000z",
+    "howToGet": "Quest Reward Delivery Quests and Training School"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Golden Egg",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "20000z",
+    "howToGet": "Quest Reward Delivery Quests and Training School"
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Kut-Ku Coin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "100z",
+    "howToGet": "Training School Battle Training \"Yian Kut-Ku Training\" Group Training \"Blue Yian Kut-Ku Exercises\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Congalala Coin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "200z",
+    "howToGet": "Training School Battle Training \"Congalala Training\" Group Training \"Congalala Exercises\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Khezu Coin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "300z",
+    "howToGet": "Training School Battle Training \"Khezu Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Daimyo Coin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "400z",
+    "howToGet": "Training School Battle Training \"Daimyo Hermitau Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Blangonga Coin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "500z",
+    "howToGet": "Training School Battle Training \"Blangonga Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Yian Garuga Coin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "600z",
+    "howToGet": "Training School Battle Training \"Yian Garuga Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Tigrex Coin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "700z",
+    "howToGet": "Training School Battle Training \"Tigrex Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Diablos Coin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "800z",
+    "howToGet": "Training School Battle Training \"Diablos Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Gravios Coin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "900z",
+    "howToGet": "Training School Battle Training \"Gravios Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Kirin Coin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1000z",
+    "howToGet": "Training School Battle Training \"Kirin Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Cephadrome Coin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "300z",
+    "howToGet": "Training School Special Training \"Cephadrome Training\" Group Training \"Cephadrome Exercises\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Plesioth Coin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "500z",
+    "howToGet": "Training School Special Training \"Plesioth Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Shogun Coin",
+    "rarity": "4",
+    "bagCapacity": "99",
+    "sellValue": "700z",
+    "howToGet": "Training School Special Training \"Shogun Ceanataur Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Fire Coin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "900z",
+    "howToGet": "Training School Special Training \"Rathalos Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Rajang Coin",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1100z",
+    "howToGet": "Training School Special Training \"Rajang Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "BlackBeltCoinG",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2000z",
+    "howToGet": "Training School G-Lv Training \"Hypnocatrice Training\", \"Emerald Congalala Training\" and \"Plum Daimyo Hermitaur Training\" Training School Lv4★ \"Challenge Quest 7\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Expert Coin G",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2000z",
+    "howToGet": "Training School G-Lv Training \"Nargacuga Training\" and \"Copper Blangonga\" Training School Lv4★ \"Challenge Quest 7\" and Lv5★ \"Challenge Quest 8\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Warrior Coin G",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "2500z",
+    "howToGet": "Training School G-Lv Training \"Lavasioth Training\" and \"Terra Shogun Ceanataur\" Training School Lv5★ \"Challenge Quest 8\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Legend Coin G",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "5000z",
+    "howToGet": "Training School G-Lv Training \"Rajang Training\" Training School Lv5★ \"Challenge Quest 10\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Blackbelt Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Complete quests at the training school."
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Expert Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Training School Battle Training \"Diablos Training\", \"Gravios Training\" and \"Kirin Training\" Training School Special Training \"Rathalos Training\" and \"Rathalos Training\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Great Stone",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "1000z",
+    "howToGet": "Quest Reward for LVG3★ Event Quest \"High Altitude King\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Hunter's Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Quest Reward for LV6★ Event Quest \"2 Colors of Meow\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Hunter Soul Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Quest Reward for LV6★ Event Quest \"2 Colors of Meow\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Puppet Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Quest Reward for LV6★ Event Quest \"2 Colors of Meow\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "SpecPuppetTicket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Quest Reward for LVG3★ Event Quest \"Hunter's Fiesta!\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Hypno Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Quest Reward for LVG1★ Event Quest \"Super Hypnocatrice Brawl\""
+  },
+  {
+    "itemType": "Unique Materials",
+    "itemName": "Lavasioth Ticket",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Quest Reward for LVG1★ Event Quest \"Surrounded in a Sea of Magma\""
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "10",
+    "sellValue": "50z",
+    "howToGet": "Functions like a Lg Barrel-Bomb and has the same effect as a Lightning Rod. Has a picture of a mascot at the front and is half the size of a Lg Barrel Bomb"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "5",
+    "sellValue": "80z",
+    "howToGet": "Functions similar like a Bounce Bomb but will fall to the ground before the explosion Has a skull with crossed bones at the front and has the size of a Lg Barrel Bomb"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "No Coating",
+    "rarity": "1",
+    "bagCapacity": "∞",
+    "sellValue": "0z",
+    "howToGet": "No use in-Game. May be the Coating that is \"equipped\" if no Coating ist equipped."
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "1",
+    "sellValue": "0z",
+    "howToGet": "No use in-Game. Listed between the Rajang Materials, may be a cut Rajang material or Event reward"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "3000z",
+    "howToGet": "Used to craft the Red Lobster Hammer 1 , the Red Lobster Hammer 2 , the Red Lobster Hammer 3 , the Red Lobster Gun and a red Lobster Armor ( Blademaster / Gunner )"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "6000z",
+    "howToGet": "Used to craft the Red Lobster Blade , the Dummy Lobster"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "Wyvern",
+    "rarity": "1",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "No in-Game effect"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Used to craft the LS Fan 'Gavas' , the Dummy Fan 1 , the Red Lobster Hammer 1 , the Red Lobster Hammer 2 , a red Lobster Armor ( Blademaster / Gunner ), a Rare-5 Plate (Red T-Shirt) and a Rare-5 Leggings (White pink striped)"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Used to craft the LS Fan 'Gavas' , the 10,000 Gavas Great Fan , the Dummy Fan 2 , the Dummy Fan 3 , the Red Lobster Hammer 1 , the Red Lobster Hammer 2 , a Rare-8 Plate (White T-Shirt) and a red Lobster Armor ( Blademaster / Gunner )"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "No in-Game effect"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Used to craft the Dummy Gunlance , a Rare-10 Plate (White T-Shirt) and a Rare-10 Leggings (White grey striped)"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Used to craft the Polytan and the Polytan+"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Used to craft the Polytan+ and the Polytan X"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Used to craft the Dummy Bow"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Used to craft the Pirate J Armor ( Blademaster / Gunner )"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Used to craft the Jolly Roger Saber and the Dummy Heavy Bowgun"
+  },
+  {
+    "itemType": "Cut Content",
+    "itemName": "dummy",
+    "rarity": "5",
+    "bagCapacity": "99",
+    "sellValue": "0z",
+    "howToGet": "Used to craft the Dummy Greatsword and the Dummy Heavy Bowgun"
+  }
+]

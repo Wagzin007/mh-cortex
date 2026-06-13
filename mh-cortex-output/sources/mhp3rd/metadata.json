@@ -1,0 +1,36 @@
+{
+  "game": "Monster Hunter Portable 3rd",
+  "abbreviation": "MHP3rd",
+  "platform": "PSP / PS3 (HD Ver.)",
+  "year": 2010,
+  "source": "mikejsavage/MHP3DB (github.com/mikejsavage/MHP3DB)",
+  "license": "Open source (MIT/unspecified — community project)",
+  "coverage": {
+    "monsters": 60,
+    "weapons": 522,
+    "weapon_types": [
+      "Great Sword",
+      "Long Sword",
+      "Sword and Shield",
+      "Dual Blades",
+      "Hammer",
+      "Hunting Horn",
+      "Lance",
+      "Gunlance",
+      "Switch Axe"
+    ],
+    "armors": 1020,
+    "items": 813,
+    "skills": 100,
+    "decorations": 164
+  },
+  "notes": "Weapons cobrem 9 tipos melee (sem bow/LBG/HBG — não coletados pela fonte). Monstros incluem carves e shinies mas sem hitzones. Items sem combine recipes.",
+  "missing": [
+    "quests",
+    "bow",
+    "light_bowgun",
+    "heavy_bowgun",
+    "monster_hitzones",
+    "combine_recipes"
+  ]
+}

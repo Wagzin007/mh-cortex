@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Village Chief's Glove",
+    "description": "Proof of completing Pokke Beginner Quests. Earned a present from the Chief."
+  },
+  {
+    "name": "Village Chief's Hat",
+    "description": "Proof of completing Pokke intermediate Quests. Shows courage in the brutal cold."
+  },
+  {
+    "name": "Village Chief's Scarf",
+    "description": "Proof of completing Pokke Hard Quests. When worn, it is quite warm."
+  },
+  {
+    "name": "Village Chief's Coat",
+    "description": "Proof of completing all Pokke Quests. Proves one is a first-class hunter."
+  },
+  {
+    "name": "Mane Necklace",
+    "description": "Proof of slaying a Kirin. Retains the beauty of its thousand-year mane."
+  },
+  {
+    "name": "Blood Onyx",
+    "description": "Proof of slaying an Akantor. Its brilliance captivates the soul."
+  },
+  {
+    "name": "King's Crown",
+    "description": "Symbol of continued hunting success against giant monsters."
+  },
+  {
+    "name": "Miniature Crown",
+    "description": "Symbol of continued hunting success against small beasts."
+  },
+  {
+    "name": "Bronze Medal",
+    "description": "Proof of mastering all Gathering Hall ★ and ★★ Quests. No longer a novice."
+  },
+  {
+    "name": "Silver Medal",
+    "description": "Proof of mastering all Gathering Hall 3★ and 5★ Quests. Shows true courage."
+  },
+  {
+    "name": "Gold Medal",
+    "description": "Proof of mastering all Gathering Hall 6★ and 8★ Quests. A true achievement."
+  },
+  {
+    "name": "Black Belt Badge",
+    "description": "Proof of passing all Battle Training at the Training School. This protects you."
+  },
+  {
+    "name": "Expert Badge",
+    "description": "Proof of passing all Special Training at the Training School."
+  },
+  {
+    "name": "Legend Badge",
+    "description": "Proof of passing all Group Training at the Training School. Sign of true power."
+  },
+  {
+    "name": "Rare Species Report",
+    "description": "Record of the incredibly powerful colored monsters. Confirms all rare breeds."
+  },
+  {
+    "name": "Ecology Research Report",
+    "description": "Report created from records of captured monsters. Proves successful captures."
+  },
+  {
+    "name": "Azure Stone",
+    "description": "Pure piece of Machalite Ore. Beautiful, it is proof of Mining Area development."
+  },
+  {
+    "name": "Great Hornfly",
+    "description": "Rare insect found in this area. Proves development of insect gathering area."
+  },
+  {
+    "name": "Springnight Carp",
+    "description": "Splendid pink-scaled fish found during spring. Proves Fishing Pier development."
+  },
+  {
+    "name": "Dosbiscus",
+    "description": "A rare red flower found in an area with deep snow. Proof of Field development."
+  },
+  {
+    "name": "Grateful Letter",
+    "description": "A letter from a Felyne Chef saying, \"Thanks, you are a great master, meow!\""
+  },
+  {
+    "name": "Sage's Bracelet",
+    "description": "Proof of combining proficiency. Feels like you can use anything, anytime."
+  },
+  {
+    "name": "Wyverian Artisan's Hammer",
+    "description": "Dirty, but divine smithing hammer of a famed Wyverian. A weapon collector's seal."
+  },
+  {
+    "name": "Hunter's Progress",
+    "description": "Map recording your hunting trek. Proof of travel to many game areas."
+  },
+  {
+    "name": "Nekoht's Whiskers",
+    "description": "Proof of completing Nekoht 7★ Quests. Try it on, and become a majestic cat!"
+  },
+  {
+    "name": "Nekoht's Bell",
+    "description": "Proof of completing Nekoht 8★ Quests. A mysterious-sounding, handcrafted bell."
+  },
+  {
+    "name": "Nekoht's Coat",
+    "description": "Proof of completing Nekoht 9★ Quests. A classy coat. Guild's crest in lining."
+  },
+  {
+    "name": "Pokke Village Gourd",
+    "description": "Proof of completing all Pokke Urgent Quests. Warm up with a single sip."
+  },
+  {
+    "name": "Orichalcum Shield",
+    "description": "Proof of mastering all Gathering Hall G-Level 1★ Quests. Exemplary hunter."
+  },
+  {
+    "name": "Platinum Shield",
+    "description": "Proof of mastering all Gathering Hall G-Level 2★ Quests. Talk of the town."
+  },
+  {
+    "name": "Gold Shield",
+    "description": "Proof of mastering all Gathering Hall G-Level 3★ Quests. Renowned worldwide."
+  },
+  {
+    "name": "Supreme Hunter's Crest",
+    "description": "Cleared all of the Pokke and Gathering Hall Quests. No one can even come close!"
+  },
+  {
+    "name": "Igneous Ring",
+    "description": "Proof of slaying a Fatalis. Beneath its breathtaking sparkle lurks calamity..."
+  },
+  {
+    "name": "Ring of Fire",
+    "description": "Proof of slaying a Red Fatalis. Its mighty flames brings destruction to all."
+  },
+  {
+    "name": "Power-White Crown",
+    "description": "Proof of slaying a White Fatalis. Its long, flowing white mane reveals its age."
+  },
+  {
+    "name": "Gold Snowshoes",
+    "description": "Proof of successful Rajang hunt. Top-class snowshoes made of its golden hairs."
+  },
+  {
+    "name": "Ukanlos Bead",
+    "description": "Proof of slaying a Ukanlos. It is said to allow its bearer into Heaven."
+  },
+  {
+    "name": "Epic Hunts Armband",
+    "description": "Proof of tough struggles overcome and battles won during arduous Epic Hunts."
+  },
+  {
+    "name": "Warrior's Medal",
+    "description": "Proof of passing all G-Lvl Training at the Training School. What gusto!"
+  },
+  {
+    "name": "Guardian's Award",
+    "description": "Proof of devotion to the Town and Fortress, saving them from many a crisis."
+  },
+  {
+    "name": "Flower Bouquet from the Guild",
+    "description": "Earned an exorbitant number of Guild Points. A bouquet of Dosbiscus in full bloom."
+  },
+  {
+    "name": "Adventurer's Helm",
+    "description": "Proof of collecting all gold-crowned rare treasure. Present form Treshi."
+  },
+  {
+    "name": "Trenya's Flag",
+    "description": "Proof of funding Trenya on an incredible number of the most expensive adventures."
+  },
+  {
+    "name": "The Ultimate Catnip",
+    "description": "Proof of Comrade gratitude for unlocking all Comrade Skills for one of your own."
+  },
+  {
+    "name": "Letter to My Fearless Leader",
+    "description": "A letter from a Felyne Comrade saying, \"Happy to be your partner, meow!\""
+  },
+  {
+    "name": "Member's Card",
+    "description": "Proof of creating numerous numbers of special weapons. Equipment shop's VIP card."
+  },
+  {
+    "name": "Wyverian Artisan's Mitten",
+    "description": "Proof of a collector of armor. Mitt of a highly prolific armor artisan."
+  },
+  {
+    "name": "Hunter's Miracle",
+    "description": "Map recording your hunting trek. Proof of travel to all game areas."
+  }
+]

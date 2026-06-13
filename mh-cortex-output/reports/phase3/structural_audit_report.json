@@ -1,0 +1,42 @@
+{
+  "phase": "FASE 3 — Auditoria Estrutural",
+  "date": "2026-06-05",
+  "status": "CONCLUÍDO",
+  "files_audited": 59,
+  "valid_json": 59,
+  "invalid_json": 0,
+  "empty_files": 1,
+  "encoding_issues": 0,
+  "files_with_duplicate_ids": 2,
+  "files_with_duplicate_keys": 0,
+  "total_issues": 3,
+  "findings": [
+    {
+      "file": "mh3tri/armors/mh3tri_armors.json",
+      "issue_type": "DUPLICATE_IDS",
+      "severity": "INFO",
+      "details": "118 IDs duplicados no campo 'id'. Causa: IDs são numéricos sequenciais por tipo de peça (head=0..N, chest=0..N, arms=0..N, waist=0..N, legs=0..N). Não é corrupção — é design da fonte original. O campo 'type' + 'id' forma a chave composta real.",
+      "affected_records": 118,
+      "action": "NÃO CORRIGIR — registrar como comportamento esperado da fonte. Documentar que a chave primária composta é (type, id).",
+      "auto_correctable": false
+    },
+    {
+      "file": "rise/skills/mhrise_skills.json",
+      "issue_type": "DUPLICATE_IDS",
+      "severity": "WARNING",
+      "details": "Skill 'Stormsoul' (id=1799202469) aparece 2 vezes com registros idênticos. Duplicação real — mesmo id, mesmo nome, mesma descrição, mesmo conteúdo.",
+      "affected_records": 2,
+      "action": "REGISTRADO. Remoção da duplicata requer autorização explícita. A entrada duplicada não acrescenta informação.",
+      "auto_correctable": false
+    },
+    {
+      "file": "mhgu/extras/mhgu_charms.json",
+      "issue_type": "EMPTY_FILE",
+      "severity": "WARNING",
+      "details": "Arquivo contém array vazio []. Dados de charms do MHGU não foram coletados pela fonte gatheringhallstudios/MHGenDatabase.",
+      "affected_records": 0,
+      "action": "REGISTRADO. Lacuna de dado confirmada na FASE 0. Requer fonte alternativa para preenchimento (FASE 7 — Curadoria).",
+      "auto_correctable": false
+    }
+  ]
+}

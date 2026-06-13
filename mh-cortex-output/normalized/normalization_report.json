@@ -1,0 +1,69 @@
+{
+  "total": 64206,
+  "by_game": {
+    "cross-game": {
+      "monsters": 338
+    },
+    "mh3tri": {
+      "skills": 83,
+      "decorations": 131,
+      "monsters": 35,
+      "weapons": 327,
+      "items": 585,
+      "armors": 118,
+      "quests": 152
+    },
+    "mhdos": {
+      "decorations": 122,
+      "armors": 1102
+    },
+    "mhfu": {
+      "skills": 214,
+      "decorations": 192,
+      "weapons": 1500,
+      "items": 919,
+      "armors": 2081,
+      "quests": 408
+    },
+    "mhgu": {
+      "skills": 326,
+      "decorations": 242,
+      "monsters": 129,
+      "weapons": 11372,
+      "items": 21153,
+      "armors": 6638,
+      "quests": 1355
+    },
+    "mhp3rd": {
+      "skills": 100,
+      "decorations": 164,
+      "monsters": 60,
+      "weapons": 522,
+      "items": 813,
+      "armors": 1020
+    },
+    "rise": {
+      "decorations": 101,
+      "skills": 111,
+      "monsters": 70,
+      "weapons": 1860,
+      "items": 1000,
+      "armors": 626
+    },
+    "wilds": {
+      "charms": 163,
+      "decorations": 361,
+      "monsters": 19,
+      "armors": 427
+    },
+    "world": {
+      "skills": 178,
+      "monsters": 90,
+      "weapons": 3544,
+      "items": 1339,
+      "armors": 1595,
+      "quests": 521
+    }
+  },
+  "errors": []
+}

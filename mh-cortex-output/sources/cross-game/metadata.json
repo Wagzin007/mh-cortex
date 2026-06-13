@@ -1,0 +1,5 @@
+{
+  "game": "Cross-game / Multi-game",
+  "abbreviation": "—",
+  "notes": "Arquivos que cobrem múltiplos jogos. all_monsters.json cobre MH3U→Wilds (337 monstros). monsters_gen1-3_with_game_appearances.json cobre gens 1–3 (52 monstros)."
+}

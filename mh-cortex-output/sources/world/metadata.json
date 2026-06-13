@@ -1,0 +1,9 @@
+{
+  "game": "Monster Hunter World + Iceborne",
+  "abbreviation": "MHWorld / MHWI",
+  "platform": "PS4 / Xbox One / PC",
+  "year": 2018,
+  "source": "gatheringhallstudios/MHWorldData + gatheringhallstudios/MHWorldDatabase + Neryss/monster_hunter_db",
+  "license": "MIT",
+  "notes": "Formato multi-tabela (objeto com chaves por tabela relacional). Preservado no formato original da fonte. Quests inclui Iceborne."
+}

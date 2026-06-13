@@ -1,0 +1,1550 @@
+[
+  {
+    "type": "Regular",
+    "number": "001",
+    "item_result": "Potion",
+    "material_a": "Herb",
+    "material_b": "Blue Mushroom",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "002",
+    "item_result": "Mega Potion",
+    "material_a": "Potion",
+    "material_b": "Honey",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "003",
+    "item_result": "Nutrients",
+    "material_a": "Blue Mushroom",
+    "material_b": "Godbug",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "004",
+    "item_result": "Mega Nutrients",
+    "material_a": "Nutrients",
+    "material_b": "Honey",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "005",
+    "item_result": "Antidote",
+    "material_a": "Antidote Herb",
+    "material_b": "Blue Mushroom",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "006",
+    "item_result": "Herbal Medicine",
+    "material_a": "Cactus Flower",
+    "material_b": "Bitterbug",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "007",
+    "item_result": "Max Potion",
+    "material_a": "Mega Nutrients",
+    "material_b": "Dragon Toadstool",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "008",
+    "item_result": "Ancient Potion",
+    "material_a": "Immunizer",
+    "material_b": "Kelbi Horn",
+    "success_rate": "55%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "009",
+    "item_result": "Catalyst",
+    "material_a": "Honey",
+    "material_b": "Bitterbug",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "010",
+    "item_result": "Immunizer",
+    "material_a": "Catalyst",
+    "material_b": "Dragon Toadstool",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "011",
+    "item_result": "Power Juice",
+    "material_a": "Catalyst",
+    "material_b": "Rare Steak",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "012",
+    "item_result": "Mega Juice",
+    "material_a": "Well-Done Steak",
+    "material_b": "Power Extract",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "013",
+    "item_result": "Energy Drink",
+    "material_a": "Honey",
+    "material_b": "Sunset Herb",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "014",
+    "item_result": "Demondrug",
+    "material_a": "Catalyst",
+    "material_b": "Power Seed",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "015",
+    "item_result": "Mega Demondrug",
+    "material_a": "Demondrug",
+    "material_b": "Pale Extract",
+    "success_rate": "55%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "016",
+    "item_result": "Power Pill",
+    "material_a": "Immunizer",
+    "material_b": "Power Seed",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "017",
+    "item_result": "Armorskin",
+    "material_a": "Catalyst",
+    "material_b": "Armor Seed",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "018",
+    "item_result": "Mega Armorskin",
+    "material_a": "Armorskin",
+    "material_b": "Pale Extract",
+    "success_rate": "55%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "019",
+    "item_result": "Armor Pill",
+    "material_a": "Immunizer",
+    "material_b": "Armor Seed",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "020",
+    "item_result": "Hot Drink",
+    "material_a": "Hot Pepper",
+    "material_b": "Bitterbug",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "021",
+    "item_result": "Hot Meat",
+    "material_a": "Well-Done Steak",
+    "material_b": "Hot Pepper",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "022",
+    "item_result": "Cool Drink",
+    "material_a": "Ice Crystal",
+    "material_b": "Bitterbug",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "023",
+    "item_result": "Cool Meat",
+    "material_a": "Well-Done Steak",
+    "material_b": "Ice Crystal",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "024",
+    "item_result": "Spicy Mushroom",
+    "material_a": "Hot Pepper",
+    "material_b": "Special Mushroom",
+    "success_rate": "85%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "025",
+    "item_result": "Frozen Berry",
+    "material_a": "Tropical Berry",
+    "material_b": "Ice Crystal",
+    "success_rate": "85%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "026",
+    "item_result": "Thawing Agent",
+    "material_a": "Fire Herb",
+    "material_b": "Rumblefish",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "027",
+    "item_result": "Poisoned Meat",
+    "material_a": "Raw Meat",
+    "material_b": "Toadstool",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "028",
+    "item_result": "Tainted Meat",
+    "material_a": "Raw Meat",
+    "material_b": "Parashroom",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "029",
+    "item_result": "Drugged Meat",
+    "material_a": "Raw Meat",
+    "material_b": "Sleep Herb",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "030",
+    "item_result": "Bomb Material",
+    "material_a": "Sap Plant",
+    "material_b": "Stone",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "031",
+    "item_result": "Deodorant",
+    "material_a": "Bomb Material",
+    "material_b": "Sunset Herb",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "032",
+    "item_result": "Smoke Bomb",
+    "material_a": "Bomb Material",
+    "material_b": "Ivy",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "033",
+    "item_result": "Poison Smoke Bmb",
+    "material_a": "Bomb Material",
+    "material_b": "Toadstool",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "034",
+    "item_result": "Flash Bomb",
+    "material_a": "Bomb Material",
+    "material_b": "Flashbug",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "035",
+    "item_result": "Dung Bomb",
+    "material_a": "Bomb Material",
+    "material_b": "Dung",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "036",
+    "item_result": "Paintball",
+    "material_a": "Sap Plant",
+    "material_b": "Painberry",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "037",
+    "item_result": "Farcaster",
+    "material_a": "Bomb Material",
+    "material_b": "Exciteshroom",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "038",
+    "item_result": "Gunpowder",
+    "material_a": "Fire Herb",
+    "material_b": "Nitroshroom",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "039",
+    "item_result": "Sm Barrel-Bomb",
+    "material_a": "Small Barrel",
+    "material_b": "Fire Herb",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "040",
+    "item_result": "Sm Barrel-Bomb+",
+    "material_a": "Sm Barrel-Bomb",
+    "material_b": "Burst Arrowana",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "041",
+    "item_result": "Lg Barrel-Bomb",
+    "material_a": "Gunpowder",
+    "material_b": "Large Barrel",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "042",
+    "item_result": "Lg Barrel-Bomb+",
+    "material_a": "Lg Barrel-Bomb",
+    "material_b": "Scatterfish",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "043",
+    "item_result": "Lightning Rod",
+    "material_a": "Burst Arrowana",
+    "material_b": "Thunderbug",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "044",
+    "item_result": "Bounce Bomb",
+    "material_a": "Sm Barrel-Bomb",
+    "material_b": "Vespoid Wing",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "045",
+    "item_result": "Bounce Bomb+",
+    "material_a": "Bounce Bomb",
+    "material_b": "Bomb Arrowana",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "046",
+    "item_result": "Sonic Bomb",
+    "material_a": "Gunpowder",
+    "material_b": "Screamer",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "047",
+    "item_result": "Net",
+    "material_a": "Spiderweb",
+    "material_b": "Ivy",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "048",
+    "item_result": "Pitfall Trap",
+    "material_a": "Net",
+    "material_b": "Trap Tool",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "049",
+    "item_result": "Shock Trap",
+    "material_a": "Trap Tool",
+    "material_b": "Genprey Fang",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "050",
+    "item_result": "Tuna Bait",
+    "material_a": "Worm",
+    "material_b": "Yambug",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "051",
+    "item_result": "Arrowana Bait",
+    "material_a": "Cricket",
+    "material_b": "Bughopper",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "052",
+    "item_result": "Goldenfish Bait",
+    "material_a": "Firefly",
+    "material_b": "Snakebee Larva",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "053",
+    "item_result": "Old Pickaxe",
+    "material_a": "Stone",
+    "material_b": "Bone",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "054",
+    "item_result": "Iron Pickaxe",
+    "material_a": "Iron Ore",
+    "material_b": "Bone",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "055",
+    "item_result": "Mega Pickaxe",
+    "material_a": "Machalite Ore",
+    "material_b": "Bone",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "056",
+    "item_result": "Old Bugnet",
+    "material_a": "Net",
+    "material_b": "Mystery Bone",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "057",
+    "item_result": "Bugnet",
+    "material_a": "Net",
+    "material_b": "Sm Monster Bone",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "058",
+    "item_result": "Mega Bugnet",
+    "material_a": "Net",
+    "material_b": "Med Monster Bone",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "059",
+    "item_result": "Antiseptic Stone",
+    "material_a": "Earth Crystal",
+    "material_b": "Bitterbug",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "060",
+    "item_result": "Lifecrystals",
+    "material_a": "Godbug",
+    "material_b": "Wyvern Fang",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "061",
+    "item_result": "Lifepowder",
+    "material_a": "Lifecrystals",
+    "material_b": "Wyvern Claw",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "062",
+    "item_result": "Health Flute",
+    "material_a": "Lifepowder",
+    "material_b": "Flute",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "063",
+    "item_result": "Antidote FLute",
+    "material_a": "Flute",
+    "material_b": "Antiseptic Stone",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "064",
+    "item_result": "Demon Flute",
+    "material_a": "Mega Demondrug",
+    "material_b": "Med Monster Bone",
+    "success_rate": "55%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "065",
+    "item_result": "Armor Flute",
+    "material_a": "Mega Armorskin",
+    "material_b": "Med Monster Bone",
+    "success_rate": "55%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "066",
+    "item_result": "Poison Thrw Knf",
+    "material_a": "Throwing Knife",
+    "material_b": "Toadstool",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "067",
+    "item_result": "Sleeping Thr Knf",
+    "material_a": "Throwing Knife",
+    "material_b": "Sleep Herb",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "068",
+    "item_result": "Paralyze Thrw Knf",
+    "material_a": "Throwing Knife",
+    "material_b": "Parashroom",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "069",
+    "item_result": "Boomerang",
+    "material_a": "Whetstone",
+    "material_b": "Sm Monster Bone",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "070",
+    "item_result": "Powertalon",
+    "material_a": "Powercharm",
+    "material_b": "Lao-Shan's Claw",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "071",
+    "item_result": "Armortalon",
+    "material_a": "Armorcharm",
+    "material_b": "Lao-Shan's Claw",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "072",
+    "item_result": "Normal S Lvl2",
+    "material_a": "Huskberry",
+    "material_b": "Needleberry",
+    "success_rate": "95%",
+    "result": "2~4"
+  },
+  {
+    "type": "Regular",
+    "number": "073",
+    "item_result": "Normal S Lvl3",
+    "material_a": "Huskberry",
+    "material_b": "Rumblefish",
+    "success_rate": "95%",
+    "result": "2~4"
+  },
+  {
+    "type": "Regular",
+    "number": "074",
+    "item_result": "Pierce S Lvl1",
+    "material_a": "Huskberry",
+    "material_b": "Velociprey Fang",
+    "success_rate": "90%",
+    "result": "1~3"
+  },
+  {
+    "type": "Regular",
+    "number": "075",
+    "item_result": "Pierce S Lvl2",
+    "material_a": "Huskberry",
+    "material_b": "Pin Tuna",
+    "success_rate": "75%",
+    "result": "1~3"
+  },
+  {
+    "type": "Regular",
+    "number": "076",
+    "item_result": "Pierce S Lvl3",
+    "material_a": "Sm Bone Husk",
+    "material_b": "Pin Tuna",
+    "success_rate": "75%",
+    "result": "1~3"
+  },
+  {
+    "type": "Regular",
+    "number": "077",
+    "item_result": "Pallet S Lvl1",
+    "material_a": "Huskberry",
+    "material_b": "Scatternut",
+    "success_rate": "90%",
+    "result": "1~3"
+  },
+  {
+    "type": "Regular",
+    "number": "078",
+    "item_result": "Pallet S Lvl2",
+    "material_a": "Huskberry",
+    "material_b": "Wyvern Fang",
+    "success_rate": "75%",
+    "result": "1~3"
+  },
+  {
+    "type": "Regular",
+    "number": "079",
+    "item_result": "Pallet S Lvl3",
+    "material_a": "Sm Bone Husk",
+    "material_b": "Wyvern Fang",
+    "success_rate": "75%",
+    "result": "1~3"
+  },
+  {
+    "type": "Regular",
+    "number": "080",
+    "item_result": "Crag S Lvl1",
+    "material_a": "Huskberry",
+    "material_b": "Burst Arrowana",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "081",
+    "item_result": "Crag S Lvl2",
+    "material_a": "Sm Bone Husk",
+    "material_b": "Burst Arrowana",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "082",
+    "item_result": "Crag S Lvl3",
+    "material_a": "Lg Bone Husk",
+    "material_b": "Burst Arrowana",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "083",
+    "item_result": "Clust S Lvl1",
+    "material_a": "Huskberry",
+    "material_b": "Bomberry",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "084",
+    "item_result": "Clust S Lvl2",
+    "material_a": "Sm Bone Husk",
+    "material_b": "Wyvern Claw",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "085",
+    "item_result": "Clust S Lvl3",
+    "material_a": "Lg Bone Husk",
+    "material_b": "Scatterfish",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "086",
+    "item_result": "Flaming S",
+    "material_a": "Huskberry",
+    "material_b": "Fire Herb",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "087",
+    "item_result": "Water S",
+    "material_a": "Huskberry",
+    "material_b": "Knife Mackerel",
+    "success_rate": "75%",
+    "result": "1~3"
+  },
+  {
+    "type": "Regular",
+    "number": "088",
+    "item_result": "Thunder S",
+    "material_a": "Huskberry",
+    "material_b": "Flashbug",
+    "success_rate": "75%",
+    "result": "2~4"
+  },
+  {
+    "type": "Regular",
+    "number": "089",
+    "item_result": "Freeze S",
+    "material_a": "Huskberry",
+    "material_b": "Ice Crystal",
+    "success_rate": "75%",
+    "result": "1~3"
+  },
+  {
+    "type": "Regular",
+    "number": "090",
+    "item_result": "Dragon S",
+    "material_a": "Lg Bone Husk",
+    "material_b": "Dragon Seed",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "091",
+    "item_result": "Recov S Lvl1",
+    "material_a": "Huskberry",
+    "material_b": "Herb",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "092",
+    "item_result": "Recov S Lvl2",
+    "material_a": "Potion",
+    "material_b": "Huskberry",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "093",
+    "item_result": "Poison S Lvl1",
+    "material_a": "Huskberry",
+    "material_b": "Toadstool",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "094",
+    "item_result": "Poison S Lvl2",
+    "material_a": "Sm Bone Husk",
+    "material_b": "Ioprey Fang",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "095",
+    "item_result": "Para S Lvl1",
+    "material_a": "Huskberry",
+    "material_b": "Parashroom",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "096",
+    "item_result": "Para S Lvl2",
+    "material_a": "Sm Bone Husk",
+    "material_b": "Genprey Fang",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "097",
+    "item_result": "Sleep S Lvl1",
+    "material_a": "Huskberry",
+    "material_b": "Sleep Herb",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "098",
+    "item_result": "Sleep S Lvl2",
+    "material_a": "Sm Bone Husk",
+    "material_b": "Sleepyfish",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "099",
+    "item_result": "Paint S",
+    "material_a": "Huskberry",
+    "material_b": "Paintberry",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "100",
+    "item_result": "Demon S",
+    "material_a": "Huskberry",
+    "material_b": "Power Seed",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "101",
+    "item_result": "Armor S",
+    "material_a": "Huskberry",
+    "material_b": "Armor Seed",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "102",
+    "item_result": "Empty Bottle",
+    "material_a": "Sm Bone Husk",
+    "material_b": "Whetstone",
+    "success_rate": "85%",
+    "result": "1~2"
+  },
+  {
+    "type": "Regular",
+    "number": "103",
+    "item_result": "Poison Coating",
+    "material_a": "Empty Bottle",
+    "material_b": "Toadstool",
+    "success_rate": "90%",
+    "result": "1~2"
+  },
+  {
+    "type": "Regular",
+    "number": "104",
+    "item_result": "ParalysisCoating",
+    "material_a": "Empty Bottle",
+    "material_b": "Parashroom",
+    "success_rate": "85%",
+    "result": "1~2"
+  },
+  {
+    "type": "Regular",
+    "number": "105",
+    "item_result": "Sleep Coating",
+    "material_a": "Empty Bottle",
+    "material_b": "Sleep Herb",
+    "success_rate": "90%",
+    "result": "1~2"
+  },
+  {
+    "type": "Regular",
+    "number": "106",
+    "item_result": "Power Coating",
+    "material_a": "Empty Bottle",
+    "material_b": "Nitroshroom",
+    "success_rate": "85%",
+    "result": "1~2"
+  },
+  {
+    "type": "Regular",
+    "number": "107",
+    "item_result": "CloseRngCoating",
+    "material_a": "Empty Bottle",
+    "material_b": "Knife Mackerel",
+    "success_rate": "85%",
+    "result": "1~2"
+  },
+  {
+    "type": "Regular",
+    "number": "108",
+    "item_result": "Paint Coating",
+    "material_a": "Empty Bottle",
+    "material_b": "Paintberry",
+    "success_rate": "90%",
+    "result": "1~2"
+  },
+  {
+    "type": "Regular",
+    "number": "109",
+    "item_result": "Tranquilizer",
+    "material_a": "Sleepy Herb",
+    "material_b": "Parashroom",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "110",
+    "item_result": "Tranq Thrwng Knf",
+    "material_a": "Tranquilizer",
+    "material_b": "Throwing Knife",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "111",
+    "item_result": "Tranq Bomb",
+    "material_a": "Tranquilizer",
+    "material_b": "Bomb Material",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "112",
+    "item_result": "Tranq S",
+    "material_a": "Tranquilizer",
+    "material_b": "Sm Bone Husk",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "113",
+    "item_result": "Armor Sphere",
+    "material_a": "Machalite Ore",
+    "material_b": "Armor Stone",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "114",
+    "item_result": "Armor Sphere",
+    "material_a": "Armor Stone",
+    "material_b": "Killer Beetle",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "115",
+    "item_result": "Armor Sphere+",
+    "material_a": "Dragonite Ore",
+    "material_b": "Armor Stone",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "116",
+    "item_result": "Armor Sphere+",
+    "material_a": "Armor Stone",
+    "material_b": "Hercudrome",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "117",
+    "item_result": "Hrd Armor Sphere",
+    "material_a": "Carbalite Ore",
+    "material_b": "Armor Stone",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "118",
+    "item_result": "Hrd Armor Sphere",
+    "material_a": "Armor Stone",
+    "material_b": "King Scarab",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "119",
+    "item_result": "Hvy Armor Sphere",
+    "material_a": "Purecrystal",
+    "material_b": "Armor Stone",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "120",
+    "item_result": "Ryl Armor Sphere",
+    "material_a": "Eltalite Ore",
+    "material_b": "Armor Stone",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "121",
+    "item_result": "Ryl Armor Sphere",
+    "material_a": "Armor Stone",
+    "material_b": "Emperor Cricket",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "122",
+    "item_result": "Tru Armor Sphere",
+    "material_a": "Mellanje Ore",
+    "material_b": "Armor Stone",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "123",
+    "item_result": "Tru Armor Sphere",
+    "material_a": "Armor Stone",
+    "material_b": "PhantomButterfly",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "124",
+    "item_result": "Disk Stone",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Disk Stone",
+    "success_rate": "100%",
+    "result": "5"
+  },
+  {
+    "type": "Regular",
+    "number": "125",
+    "item_result": "Iron Ore",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Iron Ore",
+    "success_rate": "100%",
+    "result": "5"
+  },
+  {
+    "type": "Regular",
+    "number": "126",
+    "item_result": "Earth Crystal",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Earth Crystal",
+    "success_rate": "100%",
+    "result": "3"
+  },
+  {
+    "type": "Regular",
+    "number": "127",
+    "item_result": "Machalite Ore",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Machalite Ore",
+    "success_rate": "100%",
+    "result": "3"
+  },
+  {
+    "type": "Regular",
+    "number": "128",
+    "item_result": "Dragonlite Ore",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Dragonlite Ore",
+    "success_rate": "100%",
+    "result": "3"
+  },
+  {
+    "type": "Regular",
+    "number": "129",
+    "item_result": "Carbalite Ore",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Carbalite Ore",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "130",
+    "item_result": "Eltalite Ore",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Eltalite Ore",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "131",
+    "item_result": "Union Ore",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Union Ore",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "132",
+    "item_result": "Mellanje Ore",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Mellanje Ore",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "133",
+    "item_result": "Firestone",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Firestone",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "134",
+    "item_result": "Firecell Stone",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Firecell Stone",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "135",
+    "item_result": "Lightcrystal",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Lightcrystal",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "136",
+    "item_result": "Novacrystal",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Novacrystal",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "137",
+    "item_result": "Purecrystal",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Purecrystal",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "138",
+    "item_result": "Monster Bone+",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Monster Bone+",
+    "success_rate": "100%",
+    "result": "3"
+  },
+  {
+    "type": "Regular",
+    "number": "139",
+    "item_result": "Hrd Monster Bone",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Hrd Monster Bone",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "140",
+    "item_result": "Hvy Monster Bone",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Hvy Monster Bone+",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "141",
+    "item_result": "Carpenterbug",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Carpenterbug",
+    "success_rate": "100%",
+    "result": "5"
+  },
+  {
+    "type": "Regular",
+    "number": "142",
+    "item_result": "Killer Beetle",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Killer Beetle",
+    "success_rate": "100%",
+    "result": "3"
+  },
+  {
+    "type": "Regular",
+    "number": "143",
+    "item_result": "Hercudrome",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Hercudrome",
+    "success_rate": "100%",
+    "result": "3"
+  },
+  {
+    "type": "Regular",
+    "number": "144",
+    "item_result": "Rare Scarab",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Rare Scarab",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "145",
+    "item_result": "King Scarab",
+    "material_a": "Expand Pickaxe",
+    "material_b": "King Scarab",
+    "success_rate": "100%",
+    "result": "3"
+  },
+  {
+    "type": "Regular",
+    "number": "146",
+    "item_result": "Emperor Cricket",
+    "material_a": "Expand Pickaxe",
+    "material_b": "Emperor Cricket",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "147",
+    "item_result": "PhantomButterfly",
+    "material_a": "Expand Pickaxe",
+    "material_b": "PhantomButterfly",
+    "success_rate": "100%",
+    "result": "2"
+  },
+  {
+    "type": "Regular",
+    "number": "148",
+    "item_result": "Pokke Snowman",
+    "material_a": "Blngo Blzrd Ball",
+    "material_b": "Blngo Flrry Ball",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "149",
+    "item_result": "Felyne Crown",
+    "material_a": "Inferior FlynCrn",
+    "material_b": "Flyn Crwn Frgmnt",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "150",
+    "item_result": "GldFlynJewelSwd",
+    "material_a": "Hndlelss Gld Bld",
+    "material_b": "GldBladelessHndl",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "151",
+    "item_result": "Dynasty Vase",
+    "material_a": "Bttmlss Old Vase",
+    "material_b": "Old Vase Bottom",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "152",
+    "item_result": "Mysterious Mask",
+    "material_a": "Holed Shaka Mask",
+    "material_b": "Shakalaka Stone",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "153",
+    "item_result": "Eldr Drgn Rfrnc",
+    "material_a": "Torn Old Book",
+    "material_b": "Old Book Scrap",
+    "success_rate": "100%",
+    "result": "1"
+  },
+  {
+    "type": "Regular",
+    "number": "154",
+    "item_result": "AncntCatKingStat",
+    "material_a": "TaillessCatStatu",
+    "material_b": "BrokenStoneTail",
+    "success_rate": "100%",
+    "result": "1 "
+  },
+  {
+    "type": "Alchemy",
+    "number": "155",
+    "item_result": "Honey",
+    "material_a": "Firefly",
+    "material_b": "Special Mushroom",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "156",
+    "item_result": "Herb",
+    "material_a": "Sap Plant",
+    "material_b": "Insect Husk",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "157",
+    "item_result": "Fire Herb",
+    "material_a": "Garbage",
+    "material_b": "Hot Pepper",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "158",
+    "item_result": "Blue Mushroom",
+    "material_a": "Antidote Herb",
+    "material_b": "Toadstool",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "159",
+    "item_result": "Raw Meat",
+    "material_a": "Burnt Meat",
+    "material_b": "Insect Husk",
+    "success_rate": "95%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "160",
+    "item_result": "Large Barrel",
+    "material_a": "Ivy",
+    "material_b": "Med Monster Bone",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "161",
+    "item_result": "Small Barrel",
+    "material_a": "Sap Plant",
+    "material_b": "Sm Monster Bone",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "162",
+    "item_result": "Huskberry",
+    "material_a": "Huskberry",
+    "material_b": "Iron Ore",
+    "success_rate": "75%",
+    "result": "5"
+  },
+  {
+    "type": "Alchemy",
+    "number": "163",
+    "item_result": "Needleberry",
+    "material_a": "Needleberry",
+    "material_b": "Earth Crystal",
+    "success_rate": "75%",
+    "result": "5"
+  },
+  {
+    "type": "Alchemy",
+    "number": "164",
+    "item_result": "Sushifish",
+    "material_a": "Antidote Herb",
+    "material_b": "Sleepyfish",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "165",
+    "item_result": "Rare Steak",
+    "material_a": "Thunderbug",
+    "material_b": "Velociprey Hide",
+    "success_rate": "90%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "166",
+    "item_result": "Screamer",
+    "material_a": "Frog",
+    "material_b": "Flute",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "167",
+    "item_result": "Monster Fluid",
+    "material_a": "Ice Crystal",
+    "material_b": "Sleep Sac",
+    "success_rate": "55%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "168",
+    "item_result": "Psychoserum",
+    "material_a": "Cactus Flower",
+    "material_b": "Thunderbug",
+    "success_rate": "75%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "169",
+    "item_result": "Power Extract",
+    "material_a": "Dragon Seed",
+    "material_b": "Piscine Liver",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "170",
+    "item_result": "Power Seed",
+    "material_a": "Bomberry",
+    "material_b": "Velociprey Hide",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "171",
+    "item_result": "Armor Seed",
+    "material_a": "Needleberry",
+    "material_b": "Giaprey Hide",
+    "success_rate": "65%",
+    "result": "1"
+  },
+  {
+    "type": "Alchemy",
+    "number": "172",
+    "item_result": "Rare Fish",
+    "material_a": "Burnt Fish",
+    "material_b": "Sunset Herb",
+    "success_rate": "90%",
+    "result": "1"
+  }
+]

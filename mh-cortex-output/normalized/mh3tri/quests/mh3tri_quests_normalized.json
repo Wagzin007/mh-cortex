@@ -1,0 +1,2596 @@
+[
+  {
+    "id": "mh3tri_10000",
+    "game": "mh3tri",
+    "name": "Harvest 'Shroom",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "141": 14
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10001",
+    "game": "mh3tri",
+    "name": "Sunken Treasures",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "398": 15
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10002",
+    "game": "mh3tri",
+    "name": "The Perfect Panacea",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "310": 5
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10003",
+    "game": "mh3tri",
+    "name": "The Jaggi Menace",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "slay",
+    "targets": {
+      "11": 8
+    },
+    "contract_fee": 150,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10004",
+    "game": "mh3tri",
+    "name": "Help the \"Hunter\"",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "hunt",
+    "targets": {
+      "17": 1
+    },
+    "contract_fee": 200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10005",
+    "game": "mh3tri",
+    "name": "Playing with Fire",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "hunt",
+    "targets": {
+      "21": 1
+    },
+    "contract_fee": 350,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10006",
+    "game": "mh3tri",
+    "name": "The Fisherman's Tale",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "capture",
+    "targets": {
+      "27": 1
+    },
+    "contract_fee": 400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10006",
+    "game": "mh3tri",
+    "name": "Secret of the Crystal Bones",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "364": 14
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10008",
+    "game": "mh3tri",
+    "name": "No Guts, No Glory",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "397": 10
+    },
+    "contract_fee": 150,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10009",
+    "game": "mh3tri",
+    "name": "Jaggi Population Control",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "capture",
+    "targets": {
+      "17": 1
+    },
+    "contract_fee": 200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10010",
+    "game": "mh3tri",
+    "name": "Tracking the Trickster",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "capture",
+    "targets": {
+      "21": 1
+    },
+    "contract_fee": 350,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10011",
+    "game": "mh3tri",
+    "name": "Goldenfish Opportunity",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "203": 6
+    },
+    "contract_fee": 350,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10012",
+    "game": "mh3tri",
+    "name": "No Love for Ludroth",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "slay",
+    "targets": {
+      "13": 10
+    },
+    "contract_fee": 150,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10013",
+    "game": "mh3tri",
+    "name": "The Fisherman's Tale",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "hunt",
+    "targets": {
+      "27": 1
+    },
+    "contract_fee": 400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10050",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Deserted Isle",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10051",
+    "game": "mh3tri",
+    "name": "Bug Hunt",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "slay",
+    "targets": {
+      "5": 15
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10052",
+    "game": "mh3tri",
+    "name": "Wyvern Conservation",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "gather",
+    "targets": {
+      "136": 3
+    },
+    "contract_fee": 600,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10053",
+    "game": "mh3tri",
+    "name": "A Royal Pain",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "capture",
+    "targets": {
+      "22": 1
+    },
+    "contract_fee": 500,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10054",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Sandy Plains",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10055",
+    "game": "mh3tri",
+    "name": "Rhenoplos Rampage!",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "slay",
+    "targets": {
+      "16": 13
+    },
+    "contract_fee": 1500,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10056",
+    "game": "mh3tri",
+    "name": "Poached Herbivore Eggs",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "gather",
+    "targets": {
+      "363": 3
+    },
+    "contract_fee": 400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10057",
+    "game": "mh3tri",
+    "name": "Specimen Collection",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "capture",
+    "targets": {
+      "19": 1
+    },
+    "contract_fee": 500,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10058",
+    "game": "mh3tri",
+    "name": "Flooded Forest Extermination",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "slay",
+    "targets": {
+      "4": 20
+    },
+    "contract_fee": 150,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10059",
+    "game": "mh3tri",
+    "name": "Scene of the Crime",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "hunt",
+    "targets": {
+      "28": 1
+    },
+    "contract_fee": 550,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10060",
+    "game": "mh3tri",
+    "name": "Lady and the Gobul",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "capture",
+    "targets": {
+      "28": 1
+    },
+    "contract_fee": 550,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10061",
+    "game": "mh3tri",
+    "name": "The Merchant's Mission",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "hunt",
+    "targets": {
+      "22": 1
+    },
+    "contract_fee": 500,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10062",
+    "game": "mh3tri",
+    "name": "Blood From a Stone",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "gather",
+    "targets": {
+      "395": 13
+    },
+    "contract_fee": 150,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10063",
+    "game": "mh3tri",
+    "name": "Leader of the Icepack",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "hunt",
+    "targets": {
+      "18": 1
+    },
+    "contract_fee": 250,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10064",
+    "game": "mh3tri",
+    "name": "The Butler's Great Baggi",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "capture",
+    "targets": {
+      "18": 1
+    },
+    "contract_fee": 250,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_14000",
+    "game": "mh3tri",
+    "name": "Leading the Charge",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "hunt",
+    "targets": {
+      "19": 1
+    },
+    "contract_fee": 500,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10100",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Flooded Forest",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10101",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Tundra",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10102",
+    "game": "mh3tri",
+    "name": "We Need a Hero",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "23": 1
+    },
+    "contract_fee": 800,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10103",
+    "game": "mh3tri",
+    "name": "Into the Danger Zone",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "24": 1
+    },
+    "contract_fee": 850,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10104",
+    "game": "mh3tri",
+    "name": "Wanted Alive",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "capture",
+    "targets": {
+      "24": 1
+    },
+    "contract_fee": 850,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10105",
+    "game": "mh3tri",
+    "name": "Rotten Fish",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "capture",
+    "targets": {
+      "29": 1
+    },
+    "contract_fee": 750,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10106",
+    "game": "mh3tri",
+    "name": "The Creeping Venom",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "25": 1
+    },
+    "contract_fee": 600,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10107",
+    "game": "mh3tri",
+    "name": "The Lost Expedition",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "26": 1
+    },
+    "contract_fee": 800,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10108",
+    "game": "mh3tri",
+    "name": "The Bard's Barioth",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "capture",
+    "targets": {
+      "26": 1
+    },
+    "contract_fee": 800,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10109",
+    "game": "mh3tri",
+    "name": "Roll the Uroktor",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "14": 15
+    },
+    "contract_fee": 150,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10110",
+    "game": "mh3tri",
+    "name": "Powder Burns",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "gather",
+    "targets": {
+      "350": 3
+    },
+    "contract_fee": 800,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10111",
+    "game": "mh3tri",
+    "name": "The Volcano's Fury",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "20": 1
+    },
+    "contract_fee": 850,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10112",
+    "game": "mh3tri",
+    "name": "To Catch an Uragaan",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "capture",
+    "targets": {
+      "20": 1
+    },
+    "contract_fee": 850,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10113",
+    "game": "mh3tri",
+    "name": "[Advanced] Double Trouble",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "multihunt",
+    "targets": {
+      "22": 1,
+      "23": 1
+    },
+    "contract_fee": 1550,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10114",
+    "game": "mh3tri",
+    "name": "[Advanced] Fort Gigginox",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "capture",
+    "targets": {
+      "25": 1
+    },
+    "contract_fee": 700,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10115",
+    "game": "mh3tri",
+    "name": "[Advanced] Rathalos Alert",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "capture",
+    "targets": {
+      "23": 1
+    },
+    "contract_fee": 850,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_10116",
+    "game": "mh3tri",
+    "name": "[Advanced] Agnaktor Alert",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "30": 1
+    },
+    "contract_fee": 1100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_14001",
+    "game": "mh3tri",
+    "name": "The Fisherman's Fiend",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "29": 1
+    },
+    "contract_fee": 750,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_14002",
+    "game": "mh3tri",
+    "name": "The Festival of Fear",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "slay",
+    "targets": {
+      "33": 1
+    },
+    "contract_fee": 1500,
+    "time_limit": 30,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_16000",
+    "game": "mh3tri",
+    "name": "The Festival of Fear",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "repel",
+    "targets": {
+      "33": 60
+    },
+    "contract_fee": 750,
+    "time_limit": 30,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15000",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Deserted Isle",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15001",
+    "game": "mh3tri",
+    "name": "Jump a Jaggi",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "17": 1
+    },
+    "contract_fee": 300,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15002",
+    "game": "mh3tri",
+    "name": "Playing with Fire",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "21": 1
+    },
+    "contract_fee": 500,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15003",
+    "game": "mh3tri",
+    "name": "Reel In a Rathian",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "22": 1
+    },
+    "contract_fee": 750,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15004",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Sandy Plains",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15005",
+    "game": "mh3tri",
+    "name": "No Guts, No Glory",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "gather",
+    "targets": {
+      "397": 10
+    },
+    "contract_fee": 200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15006",
+    "game": "mh3tri",
+    "name": "Jumping for Jaggi",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "multihunt",
+    "targets": {
+      "17": 2
+    },
+    "contract_fee": 600,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15007",
+    "game": "mh3tri",
+    "name": "The Mysterious Mimic",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "capture",
+    "targets": {
+      "21": 1
+    },
+    "contract_fee": 500,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15008",
+    "game": "mh3tri",
+    "name": "Ambush the Ambusher",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "capture",
+    "targets": {
+      "22": 1
+    },
+    "contract_fee": 750,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15009",
+    "game": "mh3tri",
+    "name": "Avenging the Fallen Hunter",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "19": 1
+    },
+    "contract_fee": 750,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15010",
+    "game": "mh3tri",
+    "name": "Neopteron Pest Control",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "slay",
+    "targets": {
+      "4": 20
+    },
+    "contract_fee": 200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15011",
+    "game": "mh3tri",
+    "name": "A Ludroth Lickin'",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "slay",
+    "targets": {
+      "13": 10
+    },
+    "contract_fee": 250,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15012",
+    "game": "mh3tri",
+    "name": "Fine Kettle of Fish",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "gather",
+    "targets": {
+      "203": 6
+    },
+    "contract_fee": 400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15013",
+    "game": "mh3tri",
+    "name": "The Fisherman's Tale",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "capture",
+    "targets": {
+      "27": 1
+    },
+    "contract_fee": 600,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15014",
+    "game": "mh3tri",
+    "name": "Grab a Gobul",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "28": 1
+    },
+    "contract_fee": 800,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_935",
+    "game": "mh3tri",
+    "name": "[Advanced] Fearsome Twosome",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "multihunt",
+    "targets": {
+      "27": 2
+    },
+    "contract_fee": 1200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15016",
+    "game": "mh3tri",
+    "name": "[Advanced] Barroth Buster",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "19": 1
+    },
+    "contract_fee": 900,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15017",
+    "game": "mh3tri",
+    "name": "[Advanced] Grab a Gobul",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "28": 1
+    },
+    "contract_fee": 1000,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15018",
+    "game": "mh3tri",
+    "name": "[Advanced] The Jaggia Menace",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "slay",
+    "targets": {
+      "11": 25
+    },
+    "contract_fee": 600,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_16001",
+    "game": "mh3tri",
+    "name": "Rumble in the Great Desert",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "4★",
+    "objective_type": "slay",
+    "targets": {
+      "33": 1
+    },
+    "contract_fee": 3600,
+    "time_limit": 30,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15050",
+    "game": "mh3tri",
+    "name": "Rathalos Research",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "capture",
+    "targets": {
+      "23": 1
+    },
+    "contract_fee": 1200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15051",
+    "game": "mh3tri",
+    "name": "Into the Danger Zone",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "24": 1
+    },
+    "contract_fee": 1300,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15052",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Flooded Forest",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15053",
+    "game": "mh3tri",
+    "name": "Rotten Fish",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "capture",
+    "targets": {
+      "29": 1
+    },
+    "contract_fee": 1100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15054",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Tundra",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15055",
+    "game": "mh3tri",
+    "name": "Leader of the Icepack",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "18": 1
+    },
+    "contract_fee": 400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15056",
+    "game": "mh3tri",
+    "name": "The Creeping Venom",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "25": 1
+    },
+    "contract_fee": 900,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15057",
+    "game": "mh3tri",
+    "name": "Gigginox RX",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "capture",
+    "targets": {
+      "25": 1
+    },
+    "contract_fee": 900,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15058",
+    "game": "mh3tri",
+    "name": "The Lost Expedition",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "26": 1
+    },
+    "contract_fee": 1200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15059",
+    "game": "mh3tri",
+    "name": "Roll the Uroktor",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "slay",
+    "targets": {
+      "14": 20
+    },
+    "contract_fee": 250,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15060",
+    "game": "mh3tri",
+    "name": "Run Down a Rathalos",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "23": 1
+    },
+    "contract_fee": 1200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15061",
+    "game": "mh3tri",
+    "name": "The Thrill of the Hunt",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "20": 1
+    },
+    "contract_fee": 1300,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15062",
+    "game": "mh3tri",
+    "name": "The Molten Monstrosity",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "30": 1
+    },
+    "contract_fee": 1350,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15063",
+    "game": "mh3tri",
+    "name": "Agnaktor Alert",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "capture",
+    "targets": {
+      "30": 1
+    },
+    "contract_fee": 1350,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15064",
+    "game": "mh3tri",
+    "name": "[Advanced] Run Down Rathalos",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "23": 1
+    },
+    "contract_fee": 1400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15065",
+    "game": "mh3tri",
+    "name": "[Advanced] Lick a Lagiacrus",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "29": 1
+    },
+    "contract_fee": 1300,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15066",
+    "game": "mh3tri",
+    "name": "[Advanced] Bump Off Barioth",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "26": 1
+    },
+    "contract_fee": 1400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15067",
+    "game": "mh3tri",
+    "name": "[Advanced] Heroes Wanted",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "multihunt",
+    "targets": {
+      "20": 2
+    },
+    "contract_fee": 3000,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_19000",
+    "game": "mh3tri",
+    "name": "Double Trouble",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "5★",
+    "objective_type": "multihunt",
+    "targets": {
+      "22": 1,
+      "23": 1
+    },
+    "contract_fee": 1950,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15100",
+    "game": "mh3tri",
+    "name": "Deep-six a Deviljho",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "6★",
+    "objective_type": "hunt",
+    "targets": {
+      "32": 1
+    },
+    "contract_fee": 1800,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15101",
+    "game": "mh3tri",
+    "name": "Bedevil a Deviljho",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "6★",
+    "objective_type": "hunt",
+    "targets": {
+      "32": 1
+    },
+    "contract_fee": 1800,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15102",
+    "game": "mh3tri",
+    "name": "Into the Fire",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "6★",
+    "objective_type": "hunt",
+    "targets": {
+      "32": 1
+    },
+    "contract_fee": 1800,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15103",
+    "game": "mh3tri",
+    "name": "Double Trouble",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "22": 1,
+      "23": 1
+    },
+    "contract_fee": 2200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15105",
+    "game": "mh3tri",
+    "name": "The Princess's Pride",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "24": 2
+    },
+    "contract_fee": 2600,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15106",
+    "game": "mh3tri",
+    "name": "A Sea of Dragons",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "28": 1,
+      "29": 1
+    },
+    "contract_fee": 1950,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15107",
+    "game": "mh3tri",
+    "name": "Tragedy on the Tundra",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "26": 2
+    },
+    "contract_fee": 2400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_15108",
+    "game": "mh3tri",
+    "name": "A Burnt Offering",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "20": 1,
+      "30": 1
+    },
+    "contract_fee": 2700,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_19001",
+    "game": "mh3tri",
+    "name": "The Brilliant Darkness",
+    "name_ja": null,
+    "hub": "city",
+    "rank": "High",
+    "stars": "6★",
+    "objective_type": "slay",
+    "targets": {
+      "34": 1
+    },
+    "contract_fee": 3600,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1000",
+    "game": "mh3tri",
+    "name": "Harvest 'Shroom",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "141": 5
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1001",
+    "game": "mh3tri",
+    "name": "Prescription Pick-up",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "310": 2
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1002",
+    "game": "mh3tri",
+    "name": "Goldenfish Opportunity",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "203": 3
+    },
+    "contract_fee": 150,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1003",
+    "game": "mh3tri",
+    "name": "Farm Aid",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "hunt",
+    "targets": {
+      "11": 5
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1004",
+    "game": "mh3tri",
+    "name": "Guts: It's What's for Dinner",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "397": 3
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1005",
+    "game": "mh3tri",
+    "name": "Sunken Treasures",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "1★",
+    "objective_type": "gather",
+    "targets": {
+      "398": 8
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1010",
+    "game": "mh3tri",
+    "name": "Bug Hunt",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "hunt",
+    "targets": {
+      "5": 12
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1011",
+    "game": "mh3tri",
+    "name": "Secret of the Crystal Bones",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "gather",
+    "targets": {
+      "364": 4
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1012",
+    "game": "mh3tri",
+    "name": "No Guts, No Glory",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "gather",
+    "targets": {
+      "397": 3
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1013",
+    "game": "mh3tri",
+    "name": "Big Game Hunting",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "hunt",
+    "targets": {
+      "17": 1
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1014",
+    "game": "mh3tri",
+    "name": "Who's the Boss?",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "capture",
+    "targets": {
+      "17": 1
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_2000",
+    "game": "mh3tri",
+    "name": "No Love for Ludroth",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "2★",
+    "objective_type": "hunt",
+    "targets": {
+      "13": 6
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1020",
+    "game": "mh3tri",
+    "name": "Rhenoplos Rampage!",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "16": 6
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1021",
+    "game": "mh3tri",
+    "name": "Herbivore Egg Hunt!",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "gather",
+    "targets": {
+      "363": 2
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1022",
+    "game": "mh3tri",
+    "name": "Pest Control",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "4": 12
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1023",
+    "game": "mh3tri",
+    "name": "The Deadliest Catch",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "13": 7
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1024",
+    "game": "mh3tri",
+    "name": "Playing with Fire",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "21": 1
+    },
+    "contract_fee": 150,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1025",
+    "game": "mh3tri",
+    "name": "Trapping a Trickster",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "capture",
+    "targets": {
+      "21": 1
+    },
+    "contract_fee": 150,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1026",
+    "game": "mh3tri",
+    "name": "Save Our Boat",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "27": 1
+    },
+    "contract_fee": 200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1027",
+    "game": "mh3tri",
+    "name": "Leading the Charge",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "hunt",
+    "targets": {
+      "19": 1
+    },
+    "contract_fee": 250,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1028",
+    "game": "mh3tri",
+    "name": "A Royal Pain",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "capture",
+    "targets": {
+      "27": 1
+    },
+    "contract_fee": 200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_2001",
+    "game": "mh3tri",
+    "name": "Shakalaka Savior!",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "3★",
+    "objective_type": "escort",
+    "targets": {
+      "10": 8
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1030",
+    "game": "mh3tri",
+    "name": "Lost in Blue",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "slay",
+    "targets": {
+      "12": 20
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1031",
+    "game": "mh3tri",
+    "name": "Leader of the Icepack",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "18": 1
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1032",
+    "game": "mh3tri",
+    "name": "Cold Stones",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "gather",
+    "targets": {
+      "395": 8
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1033",
+    "game": "mh3tri",
+    "name": "Hunter Killer",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "multihunt",
+    "targets": {
+      "17": 1,
+      "19": 1
+    },
+    "contract_fee": 350,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1034",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Sandy Plains",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1035",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Flooded Forest",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1036",
+    "game": "mh3tri",
+    "name": "Dragon Lady",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "22": 1
+    },
+    "contract_fee": 250,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1037",
+    "game": "mh3tri",
+    "name": "The Creeping Venom",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "25": 1
+    },
+    "contract_fee": 300,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1038",
+    "game": "mh3tri",
+    "name": "A Royal Rumble",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "capture",
+    "targets": {
+      "22": 1
+    },
+    "contract_fee": 250,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1039",
+    "game": "mh3tri",
+    "name": "Poached Wyvern Eggs",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "gather",
+    "targets": {
+      "136": 2
+    },
+    "contract_fee": 200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_2002",
+    "game": "mh3tri",
+    "name": "Accident Investigation",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "4★",
+    "objective_type": "hunt",
+    "targets": {
+      "28": 1
+    },
+    "contract_fee": 300,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1040",
+    "game": "mh3tri",
+    "name": "Best the Lava Beasts!",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "slay",
+    "targets": {
+      "14": 7
+    },
+    "contract_fee": 100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1041",
+    "game": "mh3tri",
+    "name": "Heat Exhaustion",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "gather",
+    "targets": {
+      "350": 2
+    },
+    "contract_fee": 250,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1042",
+    "game": "mh3tri",
+    "name": "The Lord of the Seas",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "capture",
+    "targets": {
+      "29": 1
+    },
+    "contract_fee": 400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1043",
+    "game": "mh3tri",
+    "name": "Harvest Tour: Tundra",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "harvest",
+    "targets": {
+      "396": 1
+    },
+    "contract_fee": null,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1044",
+    "game": "mh3tri",
+    "name": "The Wrath of Rathalos",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "23": 1
+    },
+    "contract_fee": 450,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1045",
+    "game": "mh3tri",
+    "name": "A Bard's Tale",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "26": 1
+    },
+    "contract_fee": 450,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1046",
+    "game": "mh3tri",
+    "name": "The Horned Dragon",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "24": 1
+    },
+    "contract_fee": 550,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1047",
+    "game": "mh3tri",
+    "name": "The Omen",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "23": 1
+    },
+    "contract_fee": 450,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1048",
+    "game": "mh3tri",
+    "name": "Denizen of the Molten Deep",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "30": 1
+    },
+    "contract_fee": 600,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1049",
+    "game": "mh3tri",
+    "name": "The Volcano's Fury",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "20": 1
+    },
+    "contract_fee": 550,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1050",
+    "game": "mh3tri",
+    "name": "Uragaan's Trail",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "capture",
+    "targets": {
+      "20": 1
+    },
+    "contract_fee": 550,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_2003",
+    "game": "mh3tri",
+    "name": "Trial of the Sea Dragon",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "repel",
+    "targets": {
+      "29": 50
+    },
+    "contract_fee": 200,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_2004",
+    "game": "mh3tri",
+    "name": "Fell the Lagiacrus!",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "5★",
+    "objective_type": "hunt",
+    "targets": {
+      "29": 1
+    },
+    "contract_fee": 400,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1060",
+    "game": "mh3tri",
+    "name": "Mating Season",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "22": 1,
+      "23": 1
+    },
+    "contract_fee": 750,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1061",
+    "game": "mh3tri",
+    "name": "Four Horns",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "24": 2
+    },
+    "contract_fee": 1100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1062",
+    "game": "mh3tri",
+    "name": "Dangerous Waters",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "27": 1,
+      "28": 1
+    },
+    "contract_fee": 600,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1063",
+    "game": "mh3tri",
+    "name": "White Wind of the Tundra",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "26": 2
+    },
+    "contract_fee": 950,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1064",
+    "game": "mh3tri",
+    "name": "The Death of Sky and Sea",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "23": 1,
+      "29": 1
+    },
+    "contract_fee": 900,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_1065",
+    "game": "mh3tri",
+    "name": "A Burnt Offering",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "6★",
+    "objective_type": "multihunt",
+    "targets": {
+      "20": 1,
+      "30": 1
+    },
+    "contract_fee": 1100,
+    "time_limit": 50,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_2005",
+    "game": "mh3tri",
+    "name": "Save Moga Village!",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "6★",
+    "objective_type": "repel",
+    "targets": {
+      "22": 0
+    },
+    "contract_fee": 600,
+    "time_limit": 35,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  },
+  {
+    "id": "mh3tri_2006",
+    "game": "mh3tri",
+    "name": "The Decisive Battle",
+    "name_ja": null,
+    "hub": "village",
+    "rank": "Low",
+    "stars": "6★",
+    "objective_type": "slay",
+    "targets": {
+      "31": 1
+    },
+    "contract_fee": 1200,
+    "time_limit": 30,
+    "rewards": [],
+    "source_file": "mh3tri_quests.json"
+  }
+]

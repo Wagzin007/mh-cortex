@@ -1,0 +1,787 @@
+[
+  {
+    "id": 1,
+    "name": "Chatacabra",
+    "species": "amphibian",
+    "threat level": 0,
+    "locations": "Windward Plains",
+    "elements": [],
+    "ailments": [],
+    "resistances": [
+      {
+        "element": "Dragon"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 3
+      },
+      {
+        "element": "Ice",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 3
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 3
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 3
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Doshaguma",
+    "species": "Fanged Beast",
+    "threat level": 0,
+    "locations": [
+      "Windward Plains",
+      "Scarlet Forest",
+      "Ruins of Wyveria"
+    ],
+    "elements": [
+      "Blast"
+    ],
+    "ailments": [
+      "Blastblight"
+    ],
+    "resistances": [],
+    "weaknesses": [
+      {
+        "element": "Fire",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Balahara",
+    "species": "Leviathan",
+    "threat level": 0,
+    "locations": "Windward Plains",
+    "elements": [
+      "Water"
+    ],
+    "ailments": [
+      "Waterblight"
+    ],
+    "resistances": [
+      {
+        "element": "Water"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 3
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Lala Barina",
+    "species": "Temnoceran",
+    "threat level": 0,
+    "locations": [
+      "Scarlet Forest",
+      "Ruins of Wyveria"
+    ],
+    "elements": [],
+    "ailments": [
+      "Paralysis"
+    ],
+    "resistances": [
+      {
+        "element": "Water"
+      },
+      {
+        "element": "Dragon"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "Fire",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 1
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 3
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Rey Dau",
+    "species": "Flying Wyvern",
+    "threat level": 0,
+    "locations": "Windward Plains",
+    "elements": [
+      "Thunder"
+    ],
+    "ailments": [
+      "Thunderblight"
+    ],
+    "resistances": [
+      {
+        "element": "Thunder"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "Ice",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 1
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 1
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Arkveld",
+    "species": "Flying Wyvern",
+    "threat level": 0,
+    "locations": [
+      "Windward Plains",
+      "Scarlet Forest",
+      "Oilwell Basin",
+      "Iceshard Cliffs",
+      "Ruins of Wyveria"
+    ],
+    "elements": [
+      "Dragon"
+    ],
+    "ailments": [
+      "Dragonblight"
+    ],
+    "resistances": [],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Uth Duna",
+    "species": "Large Monster",
+    "threat level": 0,
+    "locations": "Scarlet Forest",
+    "elements": [
+      "Water"
+    ],
+    "ailments": [
+      "Waterblight"
+    ],
+    "resistances": [
+      {
+        "element": "Water"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 2
+      },
+      {
+        "element": "Thunder",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 1
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Ajarakan",
+    "species": "Fanged Beast",
+    "threat level": 0,
+    "locations": [
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
+    "elements": [
+      "Fire"
+    ],
+    "ailments": [
+      "Fireblight"
+    ],
+    "resistances": [
+      {
+        "element": "Fire"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "water",
+        "stars": 3
+      },
+      {
+        "element": "ice",
+        "stars": 2
+      },
+      {
+        "element": "blast",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Rompopolo",
+    "species": "brute wyvern",
+    "threat level": 0,
+    "locations": "Oilwell Basin",
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "resistances": [
+      {
+        "element": "TBD"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Nu Udra",
+    "species": "TBD",
+    "threat level": 0,
+    "locations": "Oilwell Basin",
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "resistances": [
+      {
+        "element": "TBD"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Quematrice",
+    "species": "brute wyvern",
+    "threat level": 0,
+    "locations": "Windward Plains",
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "resistances": [
+      {
+        "element": "TBD"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Congalala",
+    "species": "fanged beast",
+    "threat level": 0,
+    "locations": "TBD",
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "resistances": [
+      {
+        "element": "TBD"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Yian Kut-Ku",
+    "species": "bird wyvern",
+    "threat level": 0,
+    "locations": "TBD",
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "resistances": [
+      {
+        "element": "TBD"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Rathian",
+    "species": "flying wyvern",
+    "threat level": 0,
+    "locations": "TBD",
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "resistances": [
+      {
+        "element": "TBD"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Rathalos",
+    "species": "flying wyvern",
+    "threat level": 0,
+    "locations": [
+      "Scarlet Forest",
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
+    "elements": [
+      "Fire"
+    ],
+    "ailments": [
+      "Fireblight",
+      "Poison"
+    ],
+    "resistances": [
+      {
+        "element": "Fire"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 1
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Dragon",
+        "stars": 3
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Gypceros",
+    "species": "bird wyvern",
+    "threat level": 0,
+    "locations": [
+      "Windward plains",
+      "Oilwell Basin",
+      "Iceshard Cliffs",
+      "Ruins of Wyveria"
+    ],
+    "elements": [],
+    "ailments": [
+      "Poison"
+    ],
+    "resistances": [],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 1
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Fire",
+        "stars": 3
+      },
+      {
+        "element": "Ice",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Gravios",
+    "species": "flying wyvern",
+    "threat level": 0,
+    "locations": [
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
+    "elements": [
+      "Fire"
+    ],
+    "ailments": [
+      "Fireblight"
+    ],
+    "resistances": [
+      {
+        "element": "Fire"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Water",
+        "stars": 3
+      },
+      {
+        "element": "Dragon",
+        "stars": 2
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Zoh Shia",
+    "species": "Construct",
+    "threat level": 0,
+    "locations": "Ruins of Wyveria",
+    "elements": [
+      "Fire",
+      "Thunder"
+    ],
+    "ailments": [
+      "Fireblight",
+      "Thunderblight"
+    ],
+    "resistances": [],
+    "weaknesses": [
+      {
+        "element": "Dragon",
+        "stars": 3
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 1
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Mizutsune",
+    "species": "Leviathan",
+    "threat level": 0,
+    "locations": [
+      "Scarlet Forest",
+      "Ruins of Wyveria"
+    ],
+    "elements": [
+      "Water"
+    ],
+    "ailments": [
+      "Waterblight",
+      "Bubbleblight"
+    ],
+    "resistances": [
+      {
+        "element": "Water"
+      },
+      {
+        "element": "Fire"
+      }
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 3
+      },
+      {
+        "element": "Dragon",
+        "stars": 3
+      },
+      {
+        "element": "Ice",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ]
+  }
+]

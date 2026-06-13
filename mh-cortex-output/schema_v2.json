@@ -1,0 +1,47 @@
+{
+  "_meta": {
+    "version": "2.0.0",
+    "project": "MH-Cortex",
+    "status": "FROZEN",
+    "audit_date": "2026-06-07",
+    "note": "Schema congelado pós-auditoria SCHEMA_FREEZE_AUDIT. Todos os campos baseados em dados reais das fontes."
+  },
+  "entities": [
+    "weapon",
+    "armor_piece",
+    "armor_set",
+    "set_bonus",
+    "skill",
+    "monster",
+    "monster_reward",
+    "item",
+    "quest",
+    "quest_reward",
+    "decoration",
+    "charm"
+  ],
+  "damage_coefficients": "schema_canonical.json",
+  "sharpness_multipliers": "schema_canonical.json",
+  "changelog": {
+    "v1.0.0": "Schema inicial",
+    "v2.0.0": [
+      "weapon.damage.elderseal adicionado",
+      "weapon.type_specific schema interno definido por weapon_type",
+      "monster.base_hp adicionado",
+      "monster.hitzones[].ko adicionado",
+      "monster.hitzones[].state adicionado",
+      "armor_piece.set_id adicionado",
+      "armor_piece.defense.augmented_max adicionado",
+      "quest.goal_text adicionado",
+      "quest.flavor_text adicionado",
+      "quest.location_id adicionado",
+      "quest.zenny_reward adicionado",
+      "quest.hrp_reward adicionado",
+      "quest.subquest adicionado {goal_text, zenny_reward, hrp_reward}",
+      "NOVA ENTIDADE: armor_set",
+      "NOVA ENTIDADE: set_bonus",
+      "NOVA ENTIDADE: monster_reward",
+      "NOVA ENTIDADE: quest_reward"
+    ]
+  }
+}

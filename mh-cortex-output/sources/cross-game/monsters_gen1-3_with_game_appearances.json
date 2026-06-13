@@ -1,0 +1,1010 @@
+[
+  {
+    "id": 1,
+    "name": "Felyne",
+    "type": "smallMonster",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom"
+    ],
+    "description": "Small cat-like Lynian creatures that appear in many environments."
+  },
+  {
+    "id": 2,
+    "name": "Velociprey",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite"
+    ],
+    "weakness": [
+      "thunder"
+    ],
+    "resistance": [
+      "water"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Genprey",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite"
+    ],
+    "weakness": [
+      "fire",
+      "thunder"
+    ],
+    "ailments": [
+      "paralysis"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Ioprey",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite"
+    ],
+    "weakness": [
+      "water",
+      "thunder"
+    ],
+    "ailments": [
+      "poison"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Giaprey",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite"
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "ailments": [
+      "iceblight"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Velocidrome",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "thunder"
+    ],
+    "resistance": [
+      "water"
+    ],
+    "description": "Alpha male of the Velociprey pack. Larger and more aggressive than its subordinates."
+  },
+  {
+    "id": 7,
+    "name": "Gendrome",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "fire",
+      "thunder"
+    ],
+    "ailments": [
+      "paralysis"
+    ],
+    "description": "Leader of Genprey packs. Can paralyze hunters with its bite."
+  },
+  {
+    "id": 8,
+    "name": "Iodrome",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "water",
+      "thunder"
+    ],
+    "ailments": [
+      "poison"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Giaprey/Baggi (Giadrome)",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom"
+    ],
+    "weakness": [
+      "fire"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Rathalos",
+    "type": "flyingWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter 4 Ultimate",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World",
+      "Monster Hunter Rise",
+      "Monster Hunter Wilds"
+    ],
+    "weakness": [
+      "dragon",
+      "thunder"
+    ],
+    "resistance": [
+      "fire"
+    ],
+    "description": "The apex predator of the skies. Known as the King of the Skies, it rules from above using its poisoned claws and fire breath.",
+    "elements": [
+      "fire"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Rathian",
+    "type": "flyingWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter 4 Ultimate",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World",
+      "Monster Hunter Rise",
+      "Monster Hunter Wilds"
+    ],
+    "weakness": [
+      "dragon",
+      "thunder"
+    ],
+    "resistance": [
+      "fire"
+    ],
+    "description": "Female counterpart to the Rathalos. Territorial and aggressive, known as the Queen of the Land.",
+    "elements": [
+      "fire"
+    ],
+    "ailments": [
+      "poison"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Monoblos",
+    "type": "flyingWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "water",
+      "thunder"
+    ],
+    "description": "A desert-dwelling wyvern with a single large horn used to charge at prey."
+  },
+  {
+    "id": 13,
+    "name": "Diablos",
+    "type": "flyingWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter 4 Ultimate",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "ice"
+    ],
+    "resistance": [
+      "fire"
+    ],
+    "description": "Extremely territorial flying wyvern living in the desert. The sound of a Sonic Bomb will cause them to surface in a rage."
+  },
+  {
+    "id": 14,
+    "name": "Khezu",
+    "type": "flyingWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "resistance": [
+      "thunder"
+    ],
+    "description": "A pale, eyeless wyvern that inhabits cold caves. Generates electric fields.",
+    "ailments": [
+      "thunderblight"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Basarios",
+    "type": "flyingWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "water",
+      "thunder",
+      "ice"
+    ],
+    "description": "A young Rock Wyvern. Often mistaken for a rock while sleeping underground."
+  },
+  {
+    "id": 16,
+    "name": "Gravios",
+    "type": "flyingWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "water",
+      "dragon"
+    ],
+    "resistance": [
+      "fire"
+    ],
+    "description": "The adult form of Basarios. Its armor-like body can emit sleep gas and fire beams."
+  },
+  {
+    "id": 17,
+    "name": "Gypceros",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "thunder"
+    ],
+    "ailments": [
+      "paralysis",
+      "blindness"
+    ],
+    "description": "A cunning bird wyvern that can flash-blind hunters with its crest and feign death."
+  },
+  {
+    "id": 18,
+    "name": "Yian Kut-Ku",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "water"
+    ],
+    "resistance": [
+      "fire"
+    ],
+    "description": "The first major challenge for new hunters. An aggressive bird wyvern with large ears and fire breath.",
+    "elements": [
+      "fire"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Cephadrome",
+    "type": "piscineWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "thunder",
+      "water"
+    ],
+    "description": "Desert-dwelling fish wyvern that swims through sand. Leader of Cephalos."
+  },
+  {
+    "id": 20,
+    "name": "Plesioth",
+    "type": "piscineWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "thunder"
+    ],
+    "resistance": [
+      "water"
+    ],
+    "description": "Aquatic wyvern known for its notorious hip check attack. Inhabits both water and land."
+  },
+  {
+    "id": 21,
+    "name": "Lao-Shan Lung",
+    "type": "elder",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite"
+    ],
+    "weakness": [
+      "dragon"
+    ],
+    "description": "An enormous elder dragon whose body acts like a walking mountain. Rarely seen but devastating when encountered."
+  },
+  {
+    "id": 22,
+    "name": "Fatalis",
+    "type": "elder",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter World"
+    ],
+    "weakness": [
+      "dragon",
+      "water"
+    ],
+    "description": "The Black Dragon of legend. Said to raze entire castles with its catastrophic fire breath. The ultimate target for hunters.",
+    "elements": [
+      "fire"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Crimson Fatalis",
+    "type": "elder",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom",
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter World"
+    ],
+    "weakness": [
+      "dragon",
+      "water"
+    ],
+    "description": "A Fatalis variant with crimson coloration and even more powerful fire attacks.",
+    "elements": [
+      "fire"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "White Fatalis",
+    "type": "elder",
+    "generation": 1,
+    "games": [
+      "Monster Hunter",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "dragon"
+    ],
+    "description": "The White Dragon. Oldest of the Fatalis variants, capable of calling down lightning storms.",
+    "ailments": [
+      "thunderblight"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Chameleos",
+    "type": "elder",
+    "generation": 1,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "thunder",
+      "fire"
+    ],
+    "ailments": [
+      "poison"
+    ],
+    "description": "An elder dragon that can turn invisible, steal items, and inflict hunters with a variety of ailments."
+  },
+  {
+    "id": 26,
+    "name": "Teostra",
+    "type": "elder",
+    "generation": 1,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "water",
+      "ice"
+    ],
+    "resistance": [
+      "fire"
+    ],
+    "description": "A flame-shrouded elder dragon that can spread explosive powder and trigger massive explosions.",
+    "elements": [
+      "fire",
+      "blast"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Lunastra",
+    "type": "elder",
+    "generation": 1,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter World",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "water",
+      "ice"
+    ],
+    "resistance": [
+      "fire"
+    ],
+    "description": "Female counterpart to Teostra. Can create superheated wind storms and work in tandem with Teostra.",
+    "elements": [
+      "fire"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Kushala Daora",
+    "type": "elder",
+    "generation": 1,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "thunder",
+      "fire"
+    ],
+    "resistance": [
+      "water",
+      "ice"
+    ],
+    "ailments": [
+      "waterblight"
+    ],
+    "description": "An elder dragon encased in metallic plates, capable of controlling wind and creating powerful tempests."
+  },
+  {
+    "id": 29,
+    "name": "Yian Garuga",
+    "type": "birdWyvern",
+    "generation": 1,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "thunder"
+    ],
+    "resistance": [
+      "fire"
+    ],
+    "ailments": [
+      "poison"
+    ],
+    "description": "An extremely aggressive bird wyvern combining the traits of Rathalos and Rathian. Highly resistant to poison.",
+    "elements": [
+      "fire"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Rajang",
+    "type": "fangedBeast",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter 4 Ultimate",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "ice"
+    ],
+    "resistance": [
+      "thunder"
+    ],
+    "description": "A golden-furred beast of immense physical power. The only non-elder dragon that can nullify elder dragon attacks."
+  },
+  {
+    "id": 31,
+    "name": "Shogun Ceanataur",
+    "type": "carapaceon",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "thunder",
+      "fire"
+    ],
+    "description": "A large crustacean that uses Gravios and Dalamadur skulls as shells. Has powerful bladed claws."
+  },
+  {
+    "id": 32,
+    "name": "Daimyo Hermitaur",
+    "type": "carapaceon",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "thunder",
+      "fire"
+    ],
+    "description": "A massive hermit crab that uses Monoblos skulls as shells. Creates powerful water jets."
+  },
+  {
+    "id": 33,
+    "name": "Hypnocatrice",
+    "type": "birdWyvern",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "thunder"
+    ],
+    "ailments": [
+      "sleep"
+    ],
+    "description": "A bird wyvern capable of inducing sleep in its prey."
+  },
+  {
+    "id": 34,
+    "name": "Blangonga",
+    "type": "fangedBeast",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite"
+    ],
+    "weakness": [
+      "fire",
+      "thunder"
+    ],
+    "description": "Alpha Blango. A powerful snowfield ape."
+  },
+  {
+    "id": 35,
+    "name": "Shen Gaoren",
+    "type": "carapaceon",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite"
+    ],
+    "weakness": [
+      "dragon",
+      "thunder"
+    ],
+    "description": "An enormous hermit crab that uses Lao-Shan Lung bones as its shell."
+  },
+  {
+    "id": 36,
+    "name": "Tigrex",
+    "type": "flyingWyvern",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom 2",
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter 4 Ultimate",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "thunder"
+    ],
+    "description": "A primitive wyvern with powerful forelimbs, considered a living fossil. Known for its deafening roar."
+  },
+  {
+    "id": 37,
+    "name": "Nargacuga",
+    "type": "flyingWyvern",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "thunder"
+    ],
+    "resistance": [
+      "water"
+    ],
+    "description": "A swift black wyvern with razor-sharp tail attacks. Extremely agile predator."
+  },
+  {
+    "id": 38,
+    "name": "Akantor",
+    "type": "elder",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter 4 Ultimate",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "dragon"
+    ],
+    "description": "The Black God. An extremely powerful elder dragon with no wings. Capable of creating massive sonic shockwaves."
+  },
+  {
+    "id": 39,
+    "name": "Ukanlos",
+    "type": "elder",
+    "generation": 2,
+    "games": [
+      "Monster Hunter Freedom Unite",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "resistance": [
+      "ice"
+    ],
+    "description": "The White God. Counterpart to Akantor. Controls ice and can freeze the ground solid.",
+    "ailments": [
+      "iceblight"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Zinogre",
+    "type": "fangedWyvern",
+    "generation": 3,
+    "games": [
+      "Monster Hunter Portable 3rd",
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter 4 Ultimate",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "ice"
+    ],
+    "resistance": [
+      "thunder"
+    ],
+    "ailments": [
+      "thunderblight"
+    ],
+    "description": "A fanged wyvern that charges itself with thunder using Thunderbugs. A fan favourite since its debut in Portable 3rd.",
+    "elements": [
+      "thunder"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Brachydios",
+    "type": "brute",
+    "generation": 3,
+    "games": [
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter 4 Ultimate",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter World"
+    ],
+    "weakness": [
+      "ice",
+      "water"
+    ],
+    "ailments": [
+      "blastblight"
+    ],
+    "description": "A brute wyvern coated in explosive slime. Creates powerful explosions with charged punches.",
+    "elements": [
+      "blast"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Mizutsune",
+    "type": "leviathan",
+    "generation": 3,
+    "games": [
+      "Monster Hunter Portable 3rd",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "thunder"
+    ],
+    "resistance": [
+      "water"
+    ],
+    "ailments": [
+      "waterblight",
+      "bubble"
+    ],
+    "description": "An elegant leviathan that coats itself in soap-like bubbles and uses graceful water attacks.",
+    "elements": [
+      "water"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Lagombi",
+    "type": "fangedBeast",
+    "generation": 3,
+    "games": [
+      "Monster Hunter Portable 3rd",
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter Generations Ultimate",
+      "Monster Hunter Rise"
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "resistance": [
+      "ice"
+    ],
+    "description": "A rabbit-like beast that slides across ice at high speed and hurls snowballs at hunters."
+  },
+  {
+    "id": 44,
+    "name": "Duramboros",
+    "type": "brute",
+    "generation": 3,
+    "games": [
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "thunder",
+      "dragon"
+    ],
+    "description": "A massive brute wyvern with a large club-like tail it uses to devastating effect."
+  },
+  {
+    "id": 46,
+    "name": "Ivory Lagiacrus",
+    "type": "leviathan",
+    "generation": 3,
+    "games": [
+      "Monster Hunter 3 Ultimate"
+    ],
+    "weakness": [
+      "fire"
+    ],
+    "ailments": [
+      "thunderblight"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Abyssal Lagiacrus",
+    "type": "leviathan",
+    "generation": 3,
+    "games": [
+      "Monster Hunter 3 Ultimate"
+    ],
+    "weakness": [
+      "dragon"
+    ],
+    "ailments": [
+      "thunderblight"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Stygian Zinogre",
+    "type": "fangedWyvern",
+    "generation": 3,
+    "games": [
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter 4 Ultimate",
+      "Monster Hunter Generations Ultimate"
+    ],
+    "weakness": [
+      "dragon"
+    ],
+    "ailments": [
+      "dragonblight"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Alatreon",
+    "type": "elder",
+    "generation": 3,
+    "games": [
+      "Monster Hunter 3 Ultimate",
+      "Monster Hunter World"
+    ],
+    "weakness": [
+      "dragon"
+    ],
+    "description": "An elder dragon of pure chaos, capable of freely switching between fire, ice, thunder, and dragon elemental attacks."
+  },
+  {
+    "id": 50,
+    "name": "Dire Miralis",
+    "type": "elder",
+    "generation": 3,
+    "games": [
+      "Monster Hunter 3 Ultimate"
+    ],
+    "weakness": [
+      "water"
+    ],
+    "description": "A massive elder dragon connected to Fatalis lore. A walking volcano capable of summoning Dalamadur-scaled destruction.",
+    "elements": [
+      "fire"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Jinouga",
+    "type": "fangedWyvern",
+    "generation": 3,
+    "games": [
+      "Monster Hunter Portable 3rd"
+    ],
+    "weakness": [
+      "ice"
+    ],
+    "elements": [
+      "thunder"
+    ],
+    "note": "Japanese-exclusive name for Zinogre in P3rd"
+  },
+  {
+    "id": 52,
+    "name": "Nibibaso",
+    "type": "fangedWyvern",
+    "generation": 3,
+    "games": [
+      "Monster Hunter Portable 3rd"
+    ],
+    "weakness": [
+      "ice"
+    ],
+    "elements": [
+      "thunder"
+    ],
+    "note": "Stygian Zinogre, Japanese name in P3rd"
+  },
+  {
+    "id": 53,
+    "name": "Sharq (Sharqa)",
+    "type": "leviathan",
+    "generation": 3,
+    "games": [
+      "Monster Hunter Portable 3rd"
+    ],
+    "note": "Localized as Royal Ludroth variant in some regions"
+  }
+]

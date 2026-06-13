@@ -1,0 +1,1188 @@
+{
+  "wilds/metadata.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 299,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 7,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "game",
+      "abbreviation",
+      "platform",
+      "year",
+      "source",
+      "license",
+      "notes"
+    ],
+    "notes": []
+  },
+  "wilds/monsters/mhwilds_monsters_detailed.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 12594,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 19,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "id",
+      "name",
+      "species",
+      "threat level",
+      "locations",
+      "elements",
+      "ailments",
+      "resistances"
+    ],
+    "notes": []
+  },
+  "mhgu/metadata.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 373,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 7,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "game",
+      "abbreviation",
+      "platform",
+      "year",
+      "source",
+      "license",
+      "notes"
+    ],
+    "notes": []
+  },
+  "mhgu/skills/mhgu_skill_trees.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 36641,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 205,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "name",
+      "name_de",
+      "name_fr",
+      "name_es",
+      "name_it",
+      "name_ja"
+    ],
+    "notes": []
+  },
+  "mhgu/skills/mhgu_skills.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 238798,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 326,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "skill_tree_id",
+      "required_skill_tree_points",
+      "name",
+      "name_de",
+      "name_fr",
+      "name_es",
+      "name_it"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_charms.json": {
+    "valid_json": true,
+    "empty": true,
+    "size_bytes": 2,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 0,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_decorations.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 10892,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 242,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "num_slots"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_gathering.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 3407263,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 15414,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "item_id",
+      "location_id",
+      "area",
+      "site",
+      "rank",
+      "fixed",
+      "rare"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_hunting_rewards.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 1293471,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 8044,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "item_id",
+      "condition",
+      "monster_id",
+      "rank",
+      "stack_size",
+      "percentage"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_locations.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 6789,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 31,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "name",
+      "name_de",
+      "name_fr",
+      "name_es",
+      "name_it",
+      "name_ja",
+      "map"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_monster_ailment.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 17628,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 233,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "monster_id",
+      "ailment"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_monster_damage.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 197681,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 893,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "monster_id",
+      "body_part",
+      "cut",
+      "impact",
+      "shot",
+      "fire",
+      "water"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_monster_habitat.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 41805,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 303,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "monster_id",
+      "location_id",
+      "start_area",
+      "move_area",
+      "rest_area"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_monster_status.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 118014,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 728,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "monster_id",
+      "status",
+      "initial",
+      "increase",
+      "max",
+      "duration",
+      "damage"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_monster_weakness.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 34848,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 108,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "monster_id",
+      "state",
+      "fire",
+      "water",
+      "thunder",
+      "ice",
+      "dragon"
+    ],
+    "notes": []
+  },
+  "mhgu/extras/mhgu_quest_rewards.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 5086887,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 37370,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "quest_id",
+      "item_id",
+      "reward_slot",
+      "percentage",
+      "stack_size"
+    ],
+    "notes": []
+  },
+  "mhgu/monsters/mhgu_monsters_full.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 42162,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 129,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "class",
+      "name",
+      "name_de",
+      "name_fr",
+      "name_es",
+      "name_it",
+      "name_ja"
+    ],
+    "notes": []
+  },
+  "mhgu/weapons/mhgu_palico_weapons.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 149638,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 495,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "creation_cost",
+      "attack_melee",
+      "attack_ranged",
+      "element",
+      "element_melee",
+      "element_ranged",
+      "defense"
+    ],
+    "notes": []
+  },
+  "mhgu/weapons/mhgu_weapons.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 8197772,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 10877,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "parent_id",
+      "wtype",
+      "creation_cost",
+      "upgrade_cost",
+      "attack",
+      "max_attack",
+      "element"
+    ],
+    "notes": []
+  },
+  "mhgu/items/mhgu_combining_recipes.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 30905,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 183,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "created_item_id",
+      "item_1_id",
+      "item_2_id",
+      "amount_made_min",
+      "amount_made_max",
+      "percentage"
+    ],
+    "notes": []
+  },
+  "mhgu/items/mhgu_crafting_components.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 9956078,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 69247,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "created_item_id",
+      "component_item_id",
+      "quantity",
+      "type",
+      "key"
+    ],
+    "notes": []
+  },
+  "mhgu/items/mhgu_items.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 18148430,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 21153,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "name",
+      "name_de",
+      "name_fr",
+      "name_es",
+      "name_it",
+      "name_ja",
+      "type"
+    ],
+    "notes": []
+  },
+  "mhgu/armors/mhgu_armor_families.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 256597,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 1242,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "name",
+      "rarity",
+      "head_id",
+      "body_id",
+      "arms_id",
+      "waist_id",
+      "legs_id"
+    ],
+    "notes": []
+  },
+  "mhgu/armors/mhgu_armors.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 1524526,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 5637,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "slot",
+      "defense",
+      "max_defense",
+      "fire_res",
+      "thunder_res",
+      "dragon_res",
+      "water_res"
+    ],
+    "notes": []
+  },
+  "mhgu/armors/mhgu_palico_armors.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 168520,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 1001,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "defense",
+      "fire_res",
+      "thunder_res",
+      "dragon_res",
+      "water_res",
+      "ice_res",
+      "family"
+    ],
+    "notes": []
+  },
+  "mhgu/quests/mhgu_quests.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 2935235,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 1355,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "sort_order",
+      "name",
+      "name_de",
+      "name_fr",
+      "name_es",
+      "name_it",
+      "name_ja"
+    ],
+    "notes": []
+  },
+  "rise/metadata.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 290,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 7,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "game",
+      "abbreviation",
+      "platform",
+      "year",
+      "source",
+      "license",
+      "notes"
+    ],
+    "notes": []
+  },
+  "rise/skills/mhrise_decorations.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 124461,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 101,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "name",
+      "id",
+      "description",
+      "unlockItem",
+      "unlockMonster",
+      "unlockProgress",
+      "skills",
+      "materials"
+    ],
+    "notes": []
+  },
+  "rise/skills/mhrise_skills.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 35834,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 112,
+    "duplicate_ids": [
+      {
+        "field": "id",
+        "count": 1,
+        "sample": [
+          "1799202469"
+        ]
+      }
+    ],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "name",
+      "id",
+      "description",
+      "lv1",
+      "lv2",
+      "lv3",
+      "lv4",
+      "lv5"
+    ],
+    "notes": []
+  },
+  "rise/monsters/mhrise_monsters_detailed.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 57487,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 70,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "id",
+      "name",
+      "species",
+      "elements",
+      "ailments",
+      "resistances",
+      "weaknesses"
+    ],
+    "notes": []
+  },
+  "rise/weapons/mhrise_weapons.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 4182142,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 1860,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "name",
+      "id",
+      "description",
+      "sortId",
+      "rareType",
+      "modelId",
+      "baseVal",
+      "buyVal"
+    ],
+    "notes": []
+  },
+  "rise/items/mhrise_items.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 335139,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 1000,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "name",
+      "id",
+      "description",
+      "type",
+      "cariableFilter",
+      "plMaxCount",
+      "otMaxCount",
+      "sortId"
+    ],
+    "notes": []
+  },
+  "rise/armors/mhrise_armors.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 1444886,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 626,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "name",
+      "id",
+      "description",
+      "isValid",
+      "series",
+      "sortId",
+      "modelId",
+      "rare"
+    ],
+    "notes": []
+  },
+  "world/metadata.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 413,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 7,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "game",
+      "abbreviation",
+      "platform",
+      "year",
+      "source",
+      "license",
+      "notes"
+    ],
+    "notes": []
+  },
+  "world/skills/mhworld_skills.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 761063,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 3,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "skill_levels",
+      "skill_base",
+      "skill_base_translations"
+    ],
+    "notes": []
+  },
+  "world/monsters/mhworld_monsters_detailed.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 317437,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 90,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "id",
+      "type",
+      "species",
+      "elements",
+      "name",
+      "description",
+      "ailments",
+      "locations"
+    ],
+    "notes": []
+  },
+  "world/weapons/mhworld_weapons.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 6985665,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 12,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "kinsect_craft_ext",
+      "weapon_melody_base",
+      "kinsect_base_translations",
+      "weapon_craft",
+      "weapon_melody_notes",
+      "weapon_sharpness",
+      "weapon_base_translations",
+      "weapon_melody_base_translations"
+    ],
+    "notes": []
+  },
+  "world/items/mhworld_items.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 3187112,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 4,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "item_base",
+      "item_combination_list",
+      "item_base_translations",
+      "item_data"
+    ],
+    "notes": []
+  },
+  "world/armors/mhworld_armors.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 2575797,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 8,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "armorset_base",
+      "armorset_base_translations",
+      "armor_skills_ext",
+      "armorset_bonus_base_translations",
+      "armor_craft_ext",
+      "armor_base",
+      "armor_base_translations",
+      "armorset_bonus_base"
+    ],
+    "notes": []
+  },
+  "world/quests/mhworld_quests.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 2845855,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 4,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "quest_monsters",
+      "quest_base_translations",
+      "quest_rewards",
+      "quest_base"
+    ],
+    "notes": []
+  },
+  "cross-game/all_monsters.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 389063,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 337,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "_id",
+      "name",
+      "type",
+      "isLarge",
+      "elements",
+      "ailments",
+      "weakness",
+      "games"
+    ],
+    "notes": []
+  },
+  "cross-game/metadata.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 244,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 3,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "game",
+      "abbreviation",
+      "notes"
+    ],
+    "notes": []
+  },
+  "cross-game/monster_icon_name_mapping.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 22057,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 467,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "Abyssal Lagiacrus",
+      "Agnaktor",
+      "Altaroth",
+      "Anteka",
+      "Aptonoth",
+      "Arzuros",
+      "Azure Rathalos",
+      "Baggi"
+    ],
+    "notes": []
+  },
+  "cross-game/monsters_gen1-3_with_game_appearances.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 22644,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 52,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "id",
+      "name",
+      "type",
+      "generation",
+      "games",
+      "description"
+    ],
+    "notes": []
+  },
+  "mh3tri/metadata.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 338,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 7,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "game",
+      "abbreviation",
+      "platform",
+      "year",
+      "source",
+      "license",
+      "notes"
+    ],
+    "notes": []
+  },
+  "mh3tri/skills/mh3tri_skills.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 50313,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 83,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "key",
+      "name",
+      "description",
+      "group",
+      "armorSkills"
+    ],
+    "notes": []
+  },
+  "mh3tri/extras/mh3tri_decorations.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 23175,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 131,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "name",
+      "slotUsage",
+      "rarity",
+      "price",
+      "color",
+      "skillPoints"
+    ],
+    "notes": []
+  },
+  "mh3tri/monsters/mh3tri_large_monsters.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 146680,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 18,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "id",
+      "name",
+      "type",
+      "threat",
+      "description",
+      "quests",
+      "hp",
+      "monsterStates"
+    ],
+    "notes": []
+  },
+  "mh3tri/monsters/mh3tri_small_monsters.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 37459,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 17,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "id",
+      "name",
+      "type",
+      "description",
+      "threat",
+      "monsterStates",
+      "carves",
+      "variants"
+    ],
+    "notes": []
+  },
+  "mh3tri/weapons/mh3tri_weapons.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 345197,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 6,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "weapons_greatsword",
+      "weapons_longsword",
+      "weapons_hammer",
+      "weapons_lance",
+      "weapons_switchaxe",
+      "weapons_sns"
+    ],
+    "notes": []
+  },
+  "mh3tri/armors/mh3tri_armors.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 253974,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 568,
+    "duplicate_ids": [
+      {
+        "field": "id",
+        "count": 118,
+        "sample": [
+          "92",
+          "110",
+          "19",
+          "3",
+          "104"
+        ]
+      }
+    ],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "id",
+      "type",
+      "name",
+      "blade",
+      "gunner",
+      "defense",
+      "fireRes",
+      "waterRes"
+    ],
+    "notes": []
+  },
+  "mh3tri/quests/mh3tri_quests.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 171483,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 4,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "region",
+      "starLevels",
+      "arena",
+      "events"
+    ],
+    "notes": []
+  },
+  "mhfu/metadata.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 268,
+    "encoding_issues": [],
+    "structure": "object",
+    "record_count": 7,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "game",
+      "abbreviation",
+      "platform",
+      "year",
+      "source",
+      "license",
+      "notes"
+    ],
+    "notes": []
+  },
+  "mhfu/skills/mhfu_skills.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 46553,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 214,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "skill_type",
+      "skill_point",
+      "points",
+      "skill_name",
+      "description"
+    ],
+    "notes": []
+  },
+  "mhfu/weapons/mhfu_weapons.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 2032552,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 1500,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "name",
+      "attack",
+      "sharpness",
+      "affinity",
+      "slots",
+      "bonus",
+      "rarity",
+      "type"
+    ],
+    "notes": []
+  },
+  "mhfu/items/mhfu_item_combinations.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 34249,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 172,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "type",
+      "number",
+      "item_result",
+      "material_a",
+      "material_b",
+      "success_rate",
+      "result"
+    ],
+    "notes": []
+  },
+  "mhfu/items/mhfu_items.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 174892,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 919,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "itemType",
+      "itemName",
+      "rarity",
+      "bagCapacity",
+      "sellValue",
+      "howToGet"
+    ],
+    "notes": []
+  },
+  "mhfu/armors/mhfu_armors.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 2309621,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 2081,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "name",
+      "type",
+      "hr",
+      "elder",
+      "defence",
+      "fire_res",
+      "thunder_res",
+      "dragon_res"
+    ],
+    "notes": []
+  },
+  "mhfu/quests/mhfu_quests.json": {
+    "valid_json": true,
+    "empty": false,
+    "size_bytes": 233402,
+    "encoding_issues": [],
+    "structure": "array",
+    "record_count": 408,
+    "duplicate_ids": [],
+    "duplicate_keys": [],
+    "sample_keys": [
+      "category",
+      "name",
+      "quest-type",
+      "reward",
+      "contract-fee",
+      "time-limit",
+      "location",
+      "main-monsters"
+    ],
+    "notes": []
+  }
+}

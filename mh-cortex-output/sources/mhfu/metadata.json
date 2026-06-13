@@ -1,0 +1,9 @@
+{
+  "game": "Monster Hunter Freedom Unite",
+  "abbreviation": "MHFU",
+  "platform": "PSP",
+  "year": 2008,
+  "source": "JS-Jr/Monster-Hunter-Freedom-Unite-Database-Companion",
+  "license": "MIT",
+  "notes": "Cobre o jogo base MHFU. Armas incluem árvores completas."
+}

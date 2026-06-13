@@ -1,0 +1,5275 @@
+[
+  {
+    "id": "mh3tri_leather_pants",
+    "game": "mh3tri",
+    "name": "Leather Pants",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 1,
+      "max": null
+    },
+    "resistances": {
+      "fire": -1,
+      "water": 0,
+      "thunder": 3,
+      "ice": 0,
+      "dragon": 2
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "77",
+        "points": 3
+      },
+      {
+        "skill_name": "78",
+        "points": 1
+      },
+      {
+        "skill_name": "79",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 150,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_1",
+    "game": "mh3tri",
+    "name": "Piscine Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 3,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": 4,
+      "thunder": -3,
+      "ice": 2,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "20",
+        "points": 8
+      },
+      {
+        "skill_name": "28",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 300,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_2",
+    "game": "mh3tri",
+    "name": "Chainmail Pants",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 2,
+      "max": null
+    },
+    "resistances": {
+      "fire": -1,
+      "water": -1,
+      "thunder": -1,
+      "ice": 3,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "8",
+        "points": 2
+      },
+      {
+        "skill_name": "40",
+        "points": 1
+      },
+      {
+        "skill_name": "41",
+        "points": 2
+      },
+      {
+        "skill_name": "48",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_3",
+    "game": "mh3tri",
+    "name": "Loc Lac Boots",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 4,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -3,
+      "thunder": 2,
+      "ice": -4,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "9",
+        "points": 3
+      },
+      {
+        "skill_name": "19",
+        "points": 5
+      },
+      {
+        "skill_name": "26",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_4",
+    "game": "mh3tri",
+    "name": "Hunter's Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 6,
+      "max": null
+    },
+    "resistances": {
+      "fire": -1,
+      "water": -1,
+      "thunder": -1,
+      "ice": -1,
+      "dragon": -1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "33",
+        "points": -1
+      },
+      {
+        "skill_name": "47",
+        "points": 2
+      },
+      {
+        "skill_name": "71",
+        "points": 4
+      },
+      {
+        "skill_name": "72",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_5",
+    "game": "mh3tri",
+    "name": "Hunter's Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 3,
+      "max": null
+    },
+    "resistances": {
+      "fire": -1,
+      "water": -1,
+      "thunder": -1,
+      "ice": -1,
+      "dragon": -1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "33",
+        "points": -1
+      },
+      {
+        "skill_name": "47",
+        "points": 2
+      },
+      {
+        "skill_name": "71",
+        "points": 4
+      },
+      {
+        "skill_name": "72",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_6",
+    "game": "mh3tri",
+    "name": "Bone Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 8,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "thunder": 2,
+      "ice": -1,
+      "dragon": 3
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "12",
+        "points": 1
+      },
+      {
+        "skill_name": "24",
+        "points": -1
+      },
+      {
+        "skill_name": "42",
+        "points": 2
+      },
+      {
+        "skill_name": "73",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 750,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_7",
+    "game": "mh3tri",
+    "name": "Bone Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 4,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "thunder": 2,
+      "ice": -1,
+      "dragon": 3
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "12",
+        "points": 1
+      },
+      {
+        "skill_name": "24",
+        "points": -1
+      },
+      {
+        "skill_name": "42",
+        "points": 2
+      },
+      {
+        "skill_name": "73",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 750,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_8",
+    "game": "mh3tri",
+    "name": "Alloy Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 8,
+      "max": null
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "thunder": -2,
+      "ice": -1,
+      "dragon": -1
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 1000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_9",
+    "game": "mh3tri",
+    "name": "Alloy Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 1,
+    "gender": "both",
+    "defense": {
+      "base": 4,
+      "max": null
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 1,
+      "thunder": -2,
+      "ice": -1,
+      "dragon": -1
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 1000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_10",
+    "game": "mh3tri",
+    "name": "Jaggi Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 10,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": -1,
+      "thunder": -1,
+      "ice": -1,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 3
+      },
+      {
+        "skill_name": "25",
+        "points": 2
+      },
+      {
+        "skill_name": "27",
+        "points": -2
+      },
+      {
+        "skill_name": "46",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 1200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_11",
+    "game": "mh3tri",
+    "name": "Jaggi Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 5,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": -1,
+      "thunder": -1,
+      "ice": -1,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 3
+      },
+      {
+        "skill_name": "25",
+        "points": 3
+      },
+      {
+        "skill_name": "27",
+        "points": -2
+      },
+      {
+        "skill_name": "46",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 1200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_12",
+    "game": "mh3tri",
+    "name": "Bnahabra Boots",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 10,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": -1,
+      "thunder": 2,
+      "ice": -1,
+      "dragon": 5
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 4
+      },
+      {
+        "skill_name": "22",
+        "points": -3
+      },
+      {
+        "skill_name": "55",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 1800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_13",
+    "game": "mh3tri",
+    "name": "Bnahabra Pants",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 5,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": -1,
+      "thunder": 2,
+      "ice": -1,
+      "dragon": 5
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 4
+      },
+      {
+        "skill_name": "22",
+        "points": -3
+      },
+      {
+        "skill_name": "69",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 1800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_14",
+    "game": "mh3tri",
+    "name": "Rhenoplos Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 12,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": -1,
+      "thunder": -1,
+      "ice": -1,
+      "dragon": 2
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "29",
+        "points": 3
+      },
+      {
+        "skill_name": "31",
+        "points": 3
+      },
+      {
+        "skill_name": "34",
+        "points": -1
+      },
+      {
+        "skill_name": "44",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 1400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_15",
+    "game": "mh3tri",
+    "name": "Rhenoplos Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 6,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": -1,
+      "thunder": -1,
+      "ice": -1,
+      "dragon": 2
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "34",
+        "points": -2
+      },
+      {
+        "skill_name": "44",
+        "points": 4
+      },
+      {
+        "skill_name": "64",
+        "points": 2
+      },
+      {
+        "skill_name": "68",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 1400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_16",
+    "game": "mh3tri",
+    "name": "Qurupeco Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 12,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "6",
+        "points": 1
+      },
+      {
+        "skill_name": "14",
+        "points": 3
+      },
+      {
+        "skill_name": "35",
+        "points": -1
+      },
+      {
+        "skill_name": "45",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 1700,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_17",
+    "game": "mh3tri",
+    "name": "Qurupeco Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 6,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": -2,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "6",
+        "points": 4
+      },
+      {
+        "skill_name": "14",
+        "points": 2
+      },
+      {
+        "skill_name": "35",
+        "points": -1
+      },
+      {
+        "skill_name": "45",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 1700,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_18",
+    "game": "mh3tri",
+    "name": "Ludroth Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 13,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "thunder": -1,
+      "ice": 0,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 2
+      },
+      {
+        "skill_name": "7",
+        "points": 2
+      },
+      {
+        "skill_name": "10",
+        "points": 2
+      },
+      {
+        "skill_name": "28",
+        "points": 2
+      },
+      {
+        "skill_name": "32",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "buy_price": 2200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_19",
+    "game": "mh3tri",
+    "name": "Ludroth Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 7,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "thunder": -1,
+      "ice": 0,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 2
+      },
+      {
+        "skill_name": "7",
+        "points": 2
+      },
+      {
+        "skill_name": "10",
+        "points": 2
+      },
+      {
+        "skill_name": "32",
+        "points": -1
+      },
+      {
+        "skill_name": "61",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 2200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_20",
+    "game": "mh3tri",
+    "name": "Baggi Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 13,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": -1,
+      "thunder": -1,
+      "ice": 3,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "25",
+        "points": -1
+      },
+      {
+        "skill_name": "35",
+        "points": 1
+      },
+      {
+        "skill_name": "53",
+        "points": 3
+      },
+      {
+        "skill_name": "74",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 2400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_21",
+    "game": "mh3tri",
+    "name": "Baggi Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 7,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": -1,
+      "thunder": -1,
+      "ice": 3,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "25",
+        "points": -1
+      },
+      {
+        "skill_name": "35",
+        "points": 2
+      },
+      {
+        "skill_name": "60",
+        "points": 2
+      },
+      {
+        "skill_name": "74",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 2400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_22",
+    "game": "mh3tri",
+    "name": "Barroth Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 15,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "thunder": 3,
+      "ice": -3,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "0",
+        "points": 2
+      },
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "3",
+        "points": -2
+      },
+      {
+        "skill_name": "11",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 3200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_23",
+    "game": "mh3tri",
+    "name": "Barroth Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 8,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "thunder": 3,
+      "ice": -3,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "0",
+        "points": 2
+      },
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "3",
+        "points": -2
+      },
+      {
+        "skill_name": "11",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 3200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_24",
+    "game": "mh3tri",
+    "name": "Gobul Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 16,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": 3,
+      "thunder": -3,
+      "ice": 0,
+      "dragon": 2
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "9",
+        "points": -1
+      },
+      {
+        "skill_name": "25",
+        "points": 2
+      },
+      {
+        "skill_name": "33",
+        "points": 1
+      },
+      {
+        "skill_name": "44",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 3600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_25",
+    "game": "mh3tri",
+    "name": "Gobul Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 8,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": 3,
+      "thunder": -3,
+      "ice": 0,
+      "dragon": 2
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "9",
+        "points": -1
+      },
+      {
+        "skill_name": "25",
+        "points": 3
+      },
+      {
+        "skill_name": "33",
+        "points": 1
+      },
+      {
+        "skill_name": "44",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 3600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_26",
+    "game": "mh3tri",
+    "name": "Ranger's Espadrilles",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 15,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "43",
+        "points": 3
+      },
+      {
+        "skill_name": "75",
+        "points": -3
+      },
+      {
+        "skill_name": "76",
+        "points": 3
+      },
+      {
+        "skill_name": "78",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 10000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_27",
+    "game": "mh3tri",
+    "name": "Archer's Espadrilles",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 8,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "43",
+        "points": 3
+      },
+      {
+        "skill_name": "75",
+        "points": -3
+      },
+      {
+        "skill_name": "76",
+        "points": 3
+      },
+      {
+        "skill_name": "78",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 10000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_28",
+    "game": "mh3tri",
+    "name": "Guild Bard Boots",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 15,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 10000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_29",
+    "game": "mh3tri",
+    "name": "Guild Bard Gaiters",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 8,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 10000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_30",
+    "game": "mh3tri",
+    "name": "Rathian Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 16,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "thunder": -2,
+      "ice": 0,
+      "dragon": -4
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": -1
+      },
+      {
+        "skill_name": "8",
+        "points": 2
+      },
+      {
+        "skill_name": "21",
+        "points": 2
+      },
+      {
+        "skill_name": "32",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 3600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_31",
+    "game": "mh3tri",
+    "name": "Rathian Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 8,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "thunder": -2,
+      "ice": 0,
+      "dragon": -4
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": -1
+      },
+      {
+        "skill_name": "8",
+        "points": 1
+      },
+      {
+        "skill_name": "21",
+        "points": 2
+      },
+      {
+        "skill_name": "32",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 3600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_32",
+    "game": "mh3tri",
+    "name": "Gigginox Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 18,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 0,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": -1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 4
+      },
+      {
+        "skill_name": "8",
+        "points": -1
+      },
+      {
+        "skill_name": "10",
+        "points": 2
+      },
+      {
+        "skill_name": "22",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 4100,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_33",
+    "game": "mh3tri",
+    "name": "Gigginox Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 9,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 0,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": -1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 3
+      },
+      {
+        "skill_name": "8",
+        "points": -1
+      },
+      {
+        "skill_name": "10",
+        "points": 2
+      },
+      {
+        "skill_name": "22",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 4100,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_34",
+    "game": "mh3tri",
+    "name": "Ingot Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 18,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": -1,
+      "thunder": 3,
+      "ice": 1,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "17",
+        "points": 3
+      },
+      {
+        "skill_name": "29",
+        "points": 2
+      },
+      {
+        "skill_name": "34",
+        "points": 3
+      },
+      {
+        "skill_name": "56",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "buy_price": 5000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_35",
+    "game": "mh3tri",
+    "name": "Ingot Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 2,
+    "gender": "both",
+    "defense": {
+      "base": 9,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": -1,
+      "thunder": 3,
+      "ice": 1,
+      "dragon": 1
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "17",
+        "points": 3
+      },
+      {
+        "skill_name": "34",
+        "points": 3
+      },
+      {
+        "skill_name": "68",
+        "points": 2
+      },
+      {
+        "skill_name": "69",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "buy_price": 5000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_36",
+    "game": "mh3tri",
+    "name": "Lagiacrus Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 20,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "thunder": 4,
+      "ice": -1,
+      "dragon": -2
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "4",
+        "points": 3
+      },
+      {
+        "skill_name": "5",
+        "points": -2
+      },
+      {
+        "skill_name": "20",
+        "points": 1
+      },
+      {
+        "skill_name": "55",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 5600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_37",
+    "game": "mh3tri",
+    "name": "Lagiacrus Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 10,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 2,
+      "thunder": 4,
+      "ice": -1,
+      "dragon": -2
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "4",
+        "points": 3
+      },
+      {
+        "skill_name": "5",
+        "points": -2
+      },
+      {
+        "skill_name": "20",
+        "points": 1
+      },
+      {
+        "skill_name": "62",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 5600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_38",
+    "game": "mh3tri",
+    "name": "Rathalos Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 20,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "thunder": -2,
+      "ice": 0,
+      "dragon": -4
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 2
+      },
+      {
+        "skill_name": "3",
+        "points": 2
+      },
+      {
+        "skill_name": "6",
+        "points": -1
+      },
+      {
+        "skill_name": "26",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 5600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_39",
+    "game": "mh3tri",
+    "name": "Rathalos Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 10,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "thunder": -2,
+      "ice": 0,
+      "dragon": -4
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 2
+      },
+      {
+        "skill_name": "3",
+        "points": 2
+      },
+      {
+        "skill_name": "6",
+        "points": -1
+      },
+      {
+        "skill_name": "26",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 5600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_40",
+    "game": "mh3tri",
+    "name": "Barioth Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 20,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "thunder": -3,
+      "ice": 4,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "11",
+        "points": 1
+      },
+      {
+        "skill_name": "14",
+        "points": 3
+      },
+      {
+        "skill_name": "26",
+        "points": -1
+      },
+      {
+        "skill_name": "27",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 5600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_41",
+    "game": "mh3tri",
+    "name": "Barioth Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 10,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "thunder": -3,
+      "ice": 4,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "11",
+        "points": 1
+      },
+      {
+        "skill_name": "14",
+        "points": 2
+      },
+      {
+        "skill_name": "26",
+        "points": -2
+      },
+      {
+        "skill_name": "27",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 5600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_42",
+    "game": "mh3tri",
+    "name": "Uragaan Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 22,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -4,
+      "thunder": 1,
+      "ice": -1,
+      "dragon": -2
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 6300,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_43",
+    "game": "mh3tri",
+    "name": "Uragaan Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 11,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -4,
+      "thunder": 1,
+      "ice": -1,
+      "dragon": -2
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 6300,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_44",
+    "game": "mh3tri",
+    "name": "Agnaktor Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 22,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "thunder": 1,
+      "ice": -2,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "11",
+        "points": -2
+      },
+      {
+        "skill_name": "16",
+        "points": 5
+      },
+      {
+        "skill_name": "17",
+        "points": 2
+      },
+      {
+        "skill_name": "81",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 7200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_45",
+    "game": "mh3tri",
+    "name": "Agnaktor Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 11,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "thunder": 1,
+      "ice": -2,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "11",
+        "points": -2
+      },
+      {
+        "skill_name": "17",
+        "points": 2
+      },
+      {
+        "skill_name": "69",
+        "points": 4
+      },
+      {
+        "skill_name": "81",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 7200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_46",
+    "game": "mh3tri",
+    "name": "Helios Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 24,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 4,
+      "thunder": -3,
+      "ice": 3,
+      "dragon": -4
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": -2
+      },
+      {
+        "skill_name": "21",
+        "points": 3
+      },
+      {
+        "skill_name": "50",
+        "points": 5
+      },
+      {
+        "skill_name": "55",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "buy_price": 11000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_47",
+    "game": "mh3tri",
+    "name": "Helios Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 12,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 4,
+      "thunder": -3,
+      "ice": 3,
+      "dragon": -4
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": -2
+      },
+      {
+        "skill_name": "21",
+        "points": 3
+      },
+      {
+        "skill_name": "66",
+        "points": 5
+      },
+      {
+        "skill_name": "68",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "buy_price": 11000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_48",
+    "game": "mh3tri",
+    "name": "Yamato Gusoku",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 24,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": -3
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "9",
+        "points": 2
+      },
+      {
+        "skill_name": "40",
+        "points": -1
+      },
+      {
+        "skill_name": "53",
+        "points": 3
+      },
+      {
+        "skill_name": "55",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 12000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_49",
+    "game": "mh3tri",
+    "name": "Mutsu Gusoku",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 12,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": 0,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": -3
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "9",
+        "points": 3
+      },
+      {
+        "skill_name": "40",
+        "points": -1
+      },
+      {
+        "skill_name": "65",
+        "points": 2
+      },
+      {
+        "skill_name": "68",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 12000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_50",
+    "game": "mh3tri",
+    "name": "Leather Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 26,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "thunder": 3,
+      "ice": -2,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "77",
+        "points": 3
+      },
+      {
+        "skill_name": "78",
+        "points": 3
+      },
+      {
+        "skill_name": "79",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 4600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_51",
+    "game": "mh3tri",
+    "name": "Leather Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 15,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "thunder": 3,
+      "ice": -2,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "77",
+        "points": 3
+      },
+      {
+        "skill_name": "78",
+        "points": 3
+      },
+      {
+        "skill_name": "79",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 4600,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_52",
+    "game": "mh3tri",
+    "name": "Piscine Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 26,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 5,
+      "thunder": -4,
+      "ice": 2,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "20",
+        "points": 10
+      },
+      {
+        "skill_name": "28",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 4700,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_53",
+    "game": "mh3tri",
+    "name": "Piscine Pants+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 15,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": 5,
+      "thunder": -4,
+      "ice": 2,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "20",
+        "points": 10
+      },
+      {
+        "skill_name": "28",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 4700,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_54",
+    "game": "mh3tri",
+    "name": "Chainmail Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 30,
+      "max": null
+    },
+    "resistances": {
+      "fire": -1,
+      "water": -2,
+      "thunder": -1,
+      "ice": 4,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "8",
+        "points": 3
+      },
+      {
+        "skill_name": "40",
+        "points": 4
+      },
+      {
+        "skill_name": "41",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 5400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_55",
+    "game": "mh3tri",
+    "name": "Chainmail Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 18,
+      "max": null
+    },
+    "resistances": {
+      "fire": -1,
+      "water": -2,
+      "thunder": -1,
+      "ice": 4,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "8",
+        "points": 2
+      },
+      {
+        "skill_name": "40",
+        "points": 4
+      },
+      {
+        "skill_name": "41",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 5400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_56",
+    "game": "mh3tri",
+    "name": "Loc Lac Boots+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 30,
+      "max": null
+    },
+    "resistances": {
+      "fire": 5,
+      "water": -4,
+      "thunder": 2,
+      "ice": -5,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "9",
+        "points": 2
+      },
+      {
+        "skill_name": "19",
+        "points": 5
+      },
+      {
+        "skill_name": "26",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 5400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_57",
+    "game": "mh3tri",
+    "name": "Loc Lac Gaiters+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 18,
+      "max": null
+    },
+    "resistances": {
+      "fire": 5,
+      "water": -4,
+      "thunder": 2,
+      "ice": -5,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "9",
+        "points": 2
+      },
+      {
+        "skill_name": "19",
+        "points": 5
+      },
+      {
+        "skill_name": "26",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 5400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_58",
+    "game": "mh3tri",
+    "name": "Hunter's Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 30,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": -2,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "14",
+        "points": 2
+      },
+      {
+        "skill_name": "33",
+        "points": -1
+      },
+      {
+        "skill_name": "71",
+        "points": 5
+      },
+      {
+        "skill_name": "72",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 5400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_59",
+    "game": "mh3tri",
+    "name": "Hunter's Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 18,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": -2,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "14",
+        "points": 3
+      },
+      {
+        "skill_name": "33",
+        "points": -2
+      },
+      {
+        "skill_name": "71",
+        "points": 3
+      },
+      {
+        "skill_name": "72",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 5400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_60",
+    "game": "mh3tri",
+    "name": "Bone Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 34,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "thunder": 2,
+      "ice": -1,
+      "dragon": 3
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "11",
+        "points": 3
+      },
+      {
+        "skill_name": "12",
+        "points": 2
+      },
+      {
+        "skill_name": "24",
+        "points": -1
+      },
+      {
+        "skill_name": "73",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 6400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_61",
+    "game": "mh3tri",
+    "name": "Bone Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 20,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -2,
+      "thunder": 2,
+      "ice": -1,
+      "dragon": 3
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "11",
+        "points": 3
+      },
+      {
+        "skill_name": "12",
+        "points": 2
+      },
+      {
+        "skill_name": "24",
+        "points": -2
+      },
+      {
+        "skill_name": "73",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 6400,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_62",
+    "game": "mh3tri",
+    "name": "Alloy Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 34,
+      "max": null
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "thunder": -2,
+      "ice": -1,
+      "dragon": -1
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 7100,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_63",
+    "game": "mh3tri",
+    "name": "Alloy Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 4,
+    "gender": "both",
+    "defense": {
+      "base": 20,
+      "max": null
+    },
+    "resistances": {
+      "fire": 1,
+      "water": 2,
+      "thunder": -2,
+      "ice": -1,
+      "dragon": -1
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 7100,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_64",
+    "game": "mh3tri",
+    "name": "Jaggi Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 38,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": -1,
+      "thunder": -1,
+      "ice": -1,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 2
+      },
+      {
+        "skill_name": "3",
+        "points": 2
+      },
+      {
+        "skill_name": "25",
+        "points": 3
+      },
+      {
+        "skill_name": "27",
+        "points": -1
+      },
+      {
+        "skill_name": "46",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 8000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_65",
+    "game": "mh3tri",
+    "name": "Jaggi Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 22,
+      "max": null
+    },
+    "resistances": {
+      "fire": -3,
+      "water": -1,
+      "thunder": -1,
+      "ice": -1,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 2
+      },
+      {
+        "skill_name": "3",
+        "points": 2
+      },
+      {
+        "skill_name": "25",
+        "points": 2
+      },
+      {
+        "skill_name": "27",
+        "points": -1
+      },
+      {
+        "skill_name": "46",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 8000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_66",
+    "game": "mh3tri",
+    "name": "Bnahabra Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 38,
+      "max": null
+    },
+    "resistances": {
+      "fire": -5,
+      "water": 0,
+      "thunder": 2,
+      "ice": 0,
+      "dragon": 6
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 2
+      },
+      {
+        "skill_name": "22",
+        "points": -3
+      },
+      {
+        "skill_name": "55",
+        "points": 6
+      }
+    ],
+    "craft": {
+      "buy_price": 10500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_67",
+    "game": "mh3tri",
+    "name": "Bnahabra Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 22,
+      "max": null
+    },
+    "resistances": {
+      "fire": -5,
+      "water": 0,
+      "thunder": 2,
+      "ice": 0,
+      "dragon": 6
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 2
+      },
+      {
+        "skill_name": "22",
+        "points": -3
+      },
+      {
+        "skill_name": "69",
+        "points": 6
+      }
+    ],
+    "craft": {
+      "buy_price": 10500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_68",
+    "game": "mh3tri",
+    "name": "Rhenoplos Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 38,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "thunder": -2,
+      "ice": -1,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "29",
+        "points": 1
+      },
+      {
+        "skill_name": "31",
+        "points": 5
+      },
+      {
+        "skill_name": "34",
+        "points": -1
+      },
+      {
+        "skill_name": "44",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 8500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_69",
+    "game": "mh3tri",
+    "name": "Rhenoplos Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 22,
+      "max": null
+    },
+    "resistances": {
+      "fire": 3,
+      "water": -1,
+      "thunder": -2,
+      "ice": -1,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "34",
+        "points": -1
+      },
+      {
+        "skill_name": "44",
+        "points": 2
+      },
+      {
+        "skill_name": "64",
+        "points": 3
+      },
+      {
+        "skill_name": "68",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 8500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_70",
+    "game": "mh3tri",
+    "name": "Qurupeco Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 42,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -3,
+      "thunder": 0,
+      "ice": -4,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "6",
+        "points": 1
+      },
+      {
+        "skill_name": "35",
+        "points": -3
+      },
+      {
+        "skill_name": "43",
+        "points": 2
+      },
+      {
+        "skill_name": "45",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 10000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_71",
+    "game": "mh3tri",
+    "name": "Qurupeco Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 25,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -3,
+      "thunder": 0,
+      "ice": -4,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "6",
+        "points": 2
+      },
+      {
+        "skill_name": "35",
+        "points": -3
+      },
+      {
+        "skill_name": "43",
+        "points": 1
+      },
+      {
+        "skill_name": "45",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 10000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_72",
+    "game": "mh3tri",
+    "name": "Ludroth Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 44,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 4,
+      "thunder": -1,
+      "ice": 0,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": 2
+      },
+      {
+        "skill_name": "10",
+        "points": 3
+      },
+      {
+        "skill_name": "12",
+        "points": -1
+      },
+      {
+        "skill_name": "28",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 11800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_73",
+    "game": "mh3tri",
+    "name": "Ludroth Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 26,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 4,
+      "thunder": -1,
+      "ice": 0,
+      "dragon": 1
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": 3
+      },
+      {
+        "skill_name": "10",
+        "points": 2
+      },
+      {
+        "skill_name": "12",
+        "points": -1
+      },
+      {
+        "skill_name": "61",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 11800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_74",
+    "game": "mh3tri",
+    "name": "Baggi Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 44,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": -1,
+      "thunder": -1,
+      "ice": 4,
+      "dragon": 1
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "25",
+        "points": -1
+      },
+      {
+        "skill_name": "35",
+        "points": 7
+      },
+      {
+        "skill_name": "53",
+        "points": 2
+      },
+      {
+        "skill_name": "74",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 12300,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_75",
+    "game": "mh3tri",
+    "name": "Baggi Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 26,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": -1,
+      "thunder": -1,
+      "ice": 4,
+      "dragon": 1
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "25",
+        "points": -2
+      },
+      {
+        "skill_name": "35",
+        "points": 6
+      },
+      {
+        "skill_name": "60",
+        "points": 2
+      },
+      {
+        "skill_name": "74",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 12300,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_76",
+    "game": "mh3tri",
+    "name": "Barroth Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 48,
+      "max": null
+    },
+    "resistances": {
+      "fire": 5,
+      "water": -5,
+      "thunder": 4,
+      "ice": -4,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "0",
+        "points": 4
+      },
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "3",
+        "points": -2
+      },
+      {
+        "skill_name": "11",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 13800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_77",
+    "game": "mh3tri",
+    "name": "Barroth Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 28,
+      "max": null
+    },
+    "resistances": {
+      "fire": 5,
+      "water": -5,
+      "thunder": 4,
+      "ice": -4,
+      "dragon": 0
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "0",
+        "points": 4
+      },
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "3",
+        "points": -2
+      },
+      {
+        "skill_name": "11",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 13800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_78",
+    "game": "mh3tri",
+    "name": "Gobul Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 50,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": 4,
+      "thunder": -4,
+      "ice": 0,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "3",
+        "points": 2
+      },
+      {
+        "skill_name": "9",
+        "points": -2
+      },
+      {
+        "skill_name": "25",
+        "points": 2
+      },
+      {
+        "skill_name": "44",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 14800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_79",
+    "game": "mh3tri",
+    "name": "Gobul Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 30,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": 4,
+      "thunder": -4,
+      "ice": 0,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "3",
+        "points": 2
+      },
+      {
+        "skill_name": "9",
+        "points": -3
+      },
+      {
+        "skill_name": "25",
+        "points": 1
+      },
+      {
+        "skill_name": "44",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 14800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_80",
+    "game": "mh3tri",
+    "name": "Guild Bard Boots+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 36,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 25000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_81",
+    "game": "mh3tri",
+    "name": "Guild Bard Gaiters+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 22,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "thunder": 0,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "83",
+        "points": 0
+      }
+    ],
+    "craft": {
+      "buy_price": 25000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_82",
+    "game": "mh3tri",
+    "name": "Rathian Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 50,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "thunder": -2,
+      "ice": 0,
+      "dragon": -4
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": -3
+      },
+      {
+        "skill_name": "8",
+        "points": 3
+      },
+      {
+        "skill_name": "21",
+        "points": 2
+      },
+      {
+        "skill_name": "32",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 14800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_83",
+    "game": "mh3tri",
+    "name": "Rathian Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 30,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "thunder": -2,
+      "ice": 0,
+      "dragon": -4
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": -3
+      },
+      {
+        "skill_name": "8",
+        "points": 2
+      },
+      {
+        "skill_name": "21",
+        "points": 2
+      },
+      {
+        "skill_name": "32",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 14800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_84",
+    "game": "mh3tri",
+    "name": "Gigginox Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 54,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": -1,
+      "thunder": 3,
+      "ice": 2,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 2
+      },
+      {
+        "skill_name": "8",
+        "points": -2
+      },
+      {
+        "skill_name": "10",
+        "points": 2
+      },
+      {
+        "skill_name": "22",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 15800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_85",
+    "game": "mh3tri",
+    "name": "Gigginox Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 32,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": -1,
+      "thunder": 3,
+      "ice": 2,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "5",
+        "points": 2
+      },
+      {
+        "skill_name": "8",
+        "points": -3
+      },
+      {
+        "skill_name": "10",
+        "points": 1
+      },
+      {
+        "skill_name": "22",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 15800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_86",
+    "game": "mh3tri",
+    "name": "Ingot Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 54,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": -1,
+      "thunder": 3,
+      "ice": 1,
+      "dragon": 2
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "17",
+        "points": 2
+      },
+      {
+        "skill_name": "29",
+        "points": 5
+      },
+      {
+        "skill_name": "34",
+        "points": 3
+      },
+      {
+        "skill_name": "56",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "buy_price": 17500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_87",
+    "game": "mh3tri",
+    "name": "Ingot Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 5,
+    "gender": "both",
+    "defense": {
+      "base": 32,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": -1,
+      "thunder": 3,
+      "ice": 1,
+      "dragon": 2
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "17",
+        "points": 2
+      },
+      {
+        "skill_name": "34",
+        "points": 3
+      },
+      {
+        "skill_name": "68",
+        "points": 5
+      },
+      {
+        "skill_name": "69",
+        "points": -1
+      }
+    ],
+    "craft": {
+      "buy_price": 17500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_88",
+    "game": "mh3tri",
+    "name": "Dober Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 58,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "thunder": 1,
+      "ice": 1,
+      "dragon": 5
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "0",
+        "points": -3
+      },
+      {
+        "skill_name": "11",
+        "points": 1
+      },
+      {
+        "skill_name": "36",
+        "points": 2
+      },
+      {
+        "skill_name": "51",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 19000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_89",
+    "game": "mh3tri",
+    "name": "Dober Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 34,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": -2,
+      "thunder": 1,
+      "ice": 1,
+      "dragon": 5
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "0",
+        "points": -3
+      },
+      {
+        "skill_name": "36",
+        "points": 1
+      },
+      {
+        "skill_name": "60",
+        "points": 1
+      },
+      {
+        "skill_name": "61",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 19000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_90",
+    "game": "mh3tri",
+    "name": "Lagiacrus Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 58,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "thunder": 5,
+      "ice": -1,
+      "dragon": -2
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "4",
+        "points": 3
+      },
+      {
+        "skill_name": "5",
+        "points": -2
+      },
+      {
+        "skill_name": "20",
+        "points": 2
+      },
+      {
+        "skill_name": "57",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 18000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_91",
+    "game": "mh3tri",
+    "name": "Lagiacrus Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 34,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "thunder": 5,
+      "ice": -1,
+      "dragon": -2
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "4",
+        "points": 3
+      },
+      {
+        "skill_name": "5",
+        "points": -2
+      },
+      {
+        "skill_name": "20",
+        "points": 3
+      },
+      {
+        "skill_name": "67",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 18000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_92",
+    "game": "mh3tri",
+    "name": "Rathalos Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 58,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "thunder": -2,
+      "ice": 0,
+      "dragon": -4
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "3",
+        "points": 3
+      },
+      {
+        "skill_name": "6",
+        "points": -2
+      },
+      {
+        "skill_name": "26",
+        "points": 5
+      },
+      {
+        "skill_name": "54",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 18000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_93",
+    "game": "mh3tri",
+    "name": "Rathalos Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 34,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "thunder": -2,
+      "ice": 0,
+      "dragon": -4
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "3",
+        "points": 3
+      },
+      {
+        "skill_name": "6",
+        "points": -2
+      },
+      {
+        "skill_name": "26",
+        "points": 6
+      },
+      {
+        "skill_name": "62",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 18000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_94",
+    "game": "mh3tri",
+    "name": "Barioth Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 58,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "thunder": -3,
+      "ice": 5,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "14",
+        "points": 3
+      },
+      {
+        "skill_name": "15",
+        "points": 4
+      },
+      {
+        "skill_name": "26",
+        "points": -2
+      },
+      {
+        "skill_name": "27",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 18000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_95",
+    "game": "mh3tri",
+    "name": "Barioth Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 34,
+      "max": null
+    },
+    "resistances": {
+      "fire": -4,
+      "water": 2,
+      "thunder": -3,
+      "ice": 5,
+      "dragon": 0
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "14",
+        "points": 3
+      },
+      {
+        "skill_name": "15",
+        "points": 4
+      },
+      {
+        "skill_name": "26",
+        "points": -2
+      },
+      {
+        "skill_name": "27",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 18000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_96",
+    "game": "mh3tri",
+    "name": "Uragaan Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 62,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "thunder": 1,
+      "ice": -1,
+      "dragon": -2
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "6",
+        "points": 1
+      },
+      {
+        "skill_name": "39",
+        "points": 1
+      },
+      {
+        "skill_name": "44",
+        "points": -3
+      },
+      {
+        "skill_name": "52",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 18800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_97",
+    "game": "mh3tri",
+    "name": "Uragaan Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 37,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": -4,
+      "thunder": 1,
+      "ice": -1,
+      "dragon": -2
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "6",
+        "points": 2
+      },
+      {
+        "skill_name": "39",
+        "points": 1
+      },
+      {
+        "skill_name": "44",
+        "points": -3
+      },
+      {
+        "skill_name": "68",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 18800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_98",
+    "game": "mh3tri",
+    "name": "Agnaktor Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 62,
+      "max": null
+    },
+    "resistances": {
+      "fire": 5,
+      "water": -4,
+      "thunder": 1,
+      "ice": -2,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "11",
+        "points": -1
+      },
+      {
+        "skill_name": "16",
+        "points": 2
+      },
+      {
+        "skill_name": "55",
+        "points": 2
+      },
+      {
+        "skill_name": "81",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 19800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_99",
+    "game": "mh3tri",
+    "name": "Agnaktor Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 37,
+      "max": null
+    },
+    "resistances": {
+      "fire": 5,
+      "water": -4,
+      "thunder": 1,
+      "ice": -2,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "11",
+        "points": -2
+      },
+      {
+        "skill_name": "62",
+        "points": 2
+      },
+      {
+        "skill_name": "63",
+        "points": 1
+      },
+      {
+        "skill_name": "81",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 19800,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_100",
+    "game": "mh3tri",
+    "name": "Vangis Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 7,
+    "gender": "both",
+    "defense": {
+      "base": 64,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "thunder": -4,
+      "ice": 3,
+      "dragon": -4
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "12",
+        "points": -3
+      },
+      {
+        "skill_name": "50",
+        "points": 2
+      },
+      {
+        "skill_name": "72",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 41500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_101",
+    "game": "mh3tri",
+    "name": "Vangis Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 7,
+    "gender": "both",
+    "defense": {
+      "base": 38,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 0,
+      "thunder": -4,
+      "ice": 3,
+      "dragon": -4
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "2",
+        "points": 1
+      },
+      {
+        "skill_name": "12",
+        "points": -3
+      },
+      {
+        "skill_name": "66",
+        "points": 2
+      },
+      {
+        "skill_name": "72",
+        "points": 1
+      }
+    ],
+    "craft": {
+      "buy_price": 41500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_102",
+    "game": "mh3tri",
+    "name": "Damascus Greaves",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 62,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "thunder": -2,
+      "ice": 2,
+      "dragon": 3
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "8",
+        "points": 5
+      },
+      {
+        "skill_name": "11",
+        "points": -1
+      },
+      {
+        "skill_name": "17",
+        "points": 3
+      },
+      {
+        "skill_name": "52",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 32300,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_103",
+    "game": "mh3tri",
+    "name": "Damascus Leggings",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 37,
+      "max": null
+    },
+    "resistances": {
+      "fire": -2,
+      "water": 0,
+      "thunder": -2,
+      "ice": 2,
+      "dragon": 3
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "8",
+        "points": 6
+      },
+      {
+        "skill_name": "11",
+        "points": -1
+      },
+      {
+        "skill_name": "17",
+        "points": 2
+      },
+      {
+        "skill_name": "69",
+        "points": 4
+      }
+    ],
+    "craft": {
+      "buy_price": 32300,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_104",
+    "game": "mh3tri",
+    "name": "Helios Greaves+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 66,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 5,
+      "thunder": -3,
+      "ice": 3,
+      "dragon": -4
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": -2
+      },
+      {
+        "skill_name": "21",
+        "points": 4
+      },
+      {
+        "skill_name": "50",
+        "points": 4
+      },
+      {
+        "skill_name": "55",
+        "points": -3
+      }
+    ],
+    "craft": {
+      "buy_price": 26200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_105",
+    "game": "mh3tri",
+    "name": "Helios Leggings+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 39,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 5,
+      "thunder": -3,
+      "ice": 3,
+      "dragon": -4
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "7",
+        "points": -2
+      },
+      {
+        "skill_name": "21",
+        "points": 4
+      },
+      {
+        "skill_name": "66",
+        "points": 4
+      },
+      {
+        "skill_name": "68",
+        "points": -3
+      }
+    ],
+    "craft": {
+      "buy_price": 26200,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_106",
+    "game": "mh3tri",
+    "name": "Yamato Gusoku+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 66,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": -4
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "9",
+        "points": 5
+      },
+      {
+        "skill_name": "40",
+        "points": -3
+      },
+      {
+        "skill_name": "53",
+        "points": 3
+      },
+      {
+        "skill_name": "55",
+        "points": 2
+      }
+    ],
+    "craft": {
+      "buy_price": 27500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_107",
+    "game": "mh3tri",
+    "name": "Mutsu Gusoku+",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 39,
+      "max": null
+    },
+    "resistances": {
+      "fire": 4,
+      "water": 0,
+      "thunder": 0,
+      "ice": -3,
+      "dragon": -4
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "9",
+        "points": 4
+      },
+      {
+        "skill_name": "40",
+        "points": -2
+      },
+      {
+        "skill_name": "65",
+        "points": 4
+      },
+      {
+        "skill_name": "68",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 27500,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_108",
+    "game": "mh3tri",
+    "name": "Escadora Scale",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 7,
+    "gender": "both",
+    "defense": {
+      "base": 70,
+      "max": null
+    },
+    "resistances": {
+      "fire": -1,
+      "water": -1,
+      "thunder": 0,
+      "ice": -1,
+      "dragon": -5
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "15",
+        "points": 4
+      },
+      {
+        "skill_name": "37",
+        "points": 2
+      },
+      {
+        "skill_name": "45",
+        "points": -2
+      },
+      {
+        "skill_name": "57",
+        "points": 5
+      }
+    ],
+    "craft": {
+      "buy_price": 66666,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_109",
+    "game": "mh3tri",
+    "name": "Escadora Scala",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 7,
+    "gender": "both",
+    "defense": {
+      "base": 42,
+      "max": null
+    },
+    "resistances": {
+      "fire": -1,
+      "water": -1,
+      "thunder": 0,
+      "ice": -1,
+      "dragon": -5
+    },
+    "slots": [
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "15",
+        "points": 4
+      },
+      {
+        "skill_name": "37",
+        "points": 2
+      },
+      {
+        "skill_name": "45",
+        "points": -2
+      },
+      {
+        "skill_name": "67",
+        "points": 3
+      }
+    ],
+    "craft": {
+      "buy_price": 66666,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_110",
+    "game": "mh3tri",
+    "name": "Chakra Anklet",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 7,
+    "gender": "both",
+    "defense": {
+      "base": 18,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": -10,
+      "thunder": 10,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [],
+    "craft": {
+      "buy_price": 33333,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_111",
+    "game": "mh3tri",
+    "name": "Black Leather Pants",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 28,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": 2
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "0",
+        "points": 13
+      }
+    ],
+    "craft": {
+      "buy_price": 15000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_112",
+    "game": "mh3tri",
+    "name": "Chakra Waistlet",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 7,
+    "gender": "both",
+    "defense": {
+      "base": 18,
+      "max": null
+    },
+    "resistances": {
+      "fire": 10,
+      "water": 0,
+      "thunder": 0,
+      "ice": -10,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [],
+    "craft": {
+      "buy_price": 33333,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_113",
+    "game": "mh3tri",
+    "name": "Chakra Necklace",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 7,
+    "gender": "both",
+    "defense": {
+      "base": 18,
+      "max": null
+    },
+    "resistances": {
+      "fire": 0,
+      "water": 10,
+      "thunder": -10,
+      "ice": 0,
+      "dragon": 0
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [],
+    "craft": {
+      "buy_price": 33333,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_114",
+    "game": "mh3tri",
+    "name": "HellHunter Jacket",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 15,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "1",
+        "points": 5
+      }
+    ],
+    "craft": {
+      "buy_price": 10000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_115",
+    "game": "mh3tri",
+    "name": "HellHunter Leather",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 3,
+    "gender": "both",
+    "defense": {
+      "base": 8,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": 2
+    },
+    "slots": [
+      1,
+      1,
+      1
+    ],
+    "skills": [
+      {
+        "skill_name": "1",
+        "points": 5
+      }
+    ],
+    "craft": {
+      "buy_price": 10000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_116",
+    "game": "mh3tri",
+    "name": "SoulHunter Jacket",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 48,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": 2
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "1",
+        "points": 10
+      }
+    ],
+    "craft": {
+      "buy_price": 15000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  },
+  {
+    "id": "mh3tri_117",
+    "game": "mh3tri",
+    "name": "SoulHunter Leather",
+    "name_ja": null,
+    "part": "?",
+    "type": "both",
+    "rarity": 6,
+    "gender": "both",
+    "defense": {
+      "base": 28,
+      "max": null
+    },
+    "resistances": {
+      "fire": 2,
+      "water": 2,
+      "thunder": 2,
+      "ice": 2,
+      "dragon": 2
+    },
+    "slots": [],
+    "skills": [
+      {
+        "skill_name": "1",
+        "points": 10
+      }
+    ],
+    "craft": {
+      "buy_price": 15000,
+      "create_materials": []
+    },
+    "source_file": "mh3tri_armors.json"
+  }
+]

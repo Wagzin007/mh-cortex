@@ -1,0 +1,2195 @@
+[
+  {
+    "id": "mhgu_1",
+    "game": "mhgu",
+    "name": "Rathian",
+    "name_ja": "リオレイア",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_2",
+    "game": "mhgu",
+    "name": "Rathalos",
+    "name_ja": "リオレウス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_3",
+    "game": "mhgu",
+    "name": "Khezu",
+    "name_ja": "フルフル",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4",
+    "game": "mhgu",
+    "name": "Basarios",
+    "name_ja": "バサルモス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_5",
+    "game": "mhgu",
+    "name": "Gravios",
+    "name_ja": "グラビモス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_7",
+    "game": "mhgu",
+    "name": "Diablos",
+    "name_ja": "ディアブロス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_8",
+    "game": "mhgu",
+    "name": "Yian Kut-Ku",
+    "name_ja": "イャンクック",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_9",
+    "game": "mhgu",
+    "name": "Gypceros",
+    "name_ja": "ゲリョス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_10",
+    "game": "mhgu",
+    "name": "Plesioth",
+    "name_ja": "ガノトトス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_11",
+    "game": "mhgu",
+    "name": "Kirin",
+    "name_ja": "キリン",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_12",
+    "game": "mhgu",
+    "name": "Lao-Shan Lung",
+    "name_ja": "ラオシャンロン",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_13",
+    "game": "mhgu",
+    "name": "Fatalis",
+    "name_ja": "ミラボレアス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_14",
+    "game": "mhgu",
+    "name": "Velocidrome",
+    "name_ja": "ドスランポス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_15",
+    "game": "mhgu",
+    "name": "Gendrome",
+    "name_ja": "ドスゲネポス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_16",
+    "game": "mhgu",
+    "name": "Iodrome",
+    "name_ja": "ドスイーオス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_17",
+    "game": "mhgu",
+    "name": "Cephadrome",
+    "name_ja": "ドスガレオス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_18",
+    "game": "mhgu",
+    "name": "Yian Garuga",
+    "name_ja": "イャンガルルガ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_19",
+    "game": "mhgu",
+    "name": "Daimyo Hermitaur",
+    "name_ja": "ダイミョウザザミ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_20",
+    "game": "mhgu",
+    "name": "Shogun Ceanataur",
+    "name_ja": "ショウグンギザミ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_21",
+    "game": "mhgu",
+    "name": "Congalala",
+    "name_ja": "ババコンガ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_22",
+    "game": "mhgu",
+    "name": "Blangonga",
+    "name_ja": "ドドブランゴ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_23",
+    "game": "mhgu",
+    "name": "Rajang",
+    "name_ja": "ラージャン",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_24",
+    "game": "mhgu",
+    "name": "Kushala Daora",
+    "name_ja": "クシャルダオラ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_25",
+    "game": "mhgu",
+    "name": "Chameleos",
+    "name_ja": "オオナズチ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_27",
+    "game": "mhgu",
+    "name": "Teostra",
+    "name_ja": "テオ・テスカトル",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_30",
+    "game": "mhgu",
+    "name": "Bulldrome",
+    "name_ja": "ドスファンゴ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_32",
+    "game": "mhgu",
+    "name": "Tigrex",
+    "name_ja": "ティガレックス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_33",
+    "game": "mhgu",
+    "name": "Akantor",
+    "name_ja": "アカムトルム",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_34",
+    "game": "mhgu",
+    "name": "Giadrome",
+    "name_ja": "ドスギアノス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_36",
+    "game": "mhgu",
+    "name": "Lavasioth",
+    "name_ja": "ヴォルガノス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_37",
+    "game": "mhgu",
+    "name": "Nargacuga",
+    "name_ja": "ナルガクルガ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_38",
+    "game": "mhgu",
+    "name": "Ukanlos",
+    "name_ja": "ウカムルバス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_42",
+    "game": "mhgu",
+    "name": "Barioth",
+    "name_ja": "ベリオロス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_43",
+    "game": "mhgu",
+    "name": "Deviljho",
+    "name_ja": "イビルジョー",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_44",
+    "game": "mhgu",
+    "name": "Barroth",
+    "name_ja": "ボルボロス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_45",
+    "game": "mhgu",
+    "name": "Uragaan",
+    "name_ja": "ウラガンキン",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_46",
+    "game": "mhgu",
+    "name": "Lagiacrus",
+    "name_ja": "ラギアクルス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_47",
+    "game": "mhgu",
+    "name": "Royal Ludroth",
+    "name_ja": "ロアルドロス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_49",
+    "game": "mhgu",
+    "name": "Agnaktor",
+    "name_ja": "アグナコトル",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_50",
+    "game": "mhgu",
+    "name": "Alatreon",
+    "name_ja": "アルバトリオン",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_55",
+    "game": "mhgu",
+    "name": "Duramboros",
+    "name_ja": "ドボルベルク",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_56",
+    "game": "mhgu",
+    "name": "Nibelsnarf",
+    "name_ja": "ハプルボッカ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_57",
+    "game": "mhgu",
+    "name": "Zinogre",
+    "name_ja": "ジンオウガ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_58",
+    "game": "mhgu",
+    "name": "Amatsu",
+    "name_ja": "アマツマガツチ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_60",
+    "game": "mhgu",
+    "name": "Arzuros",
+    "name_ja": "アオアシラ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_61",
+    "game": "mhgu",
+    "name": "Lagombi",
+    "name_ja": "ウルクスス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_62",
+    "game": "mhgu",
+    "name": "Volvidon",
+    "name_ja": "ラングロトラ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_63",
+    "game": "mhgu",
+    "name": "Brachydios",
+    "name_ja": "ブラキディオス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_65",
+    "game": "mhgu",
+    "name": "Kecha Wacha",
+    "name_ja": "ケチャワチャ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_66",
+    "game": "mhgu",
+    "name": "Tetsucabra",
+    "name_ja": "テツカブラ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_67",
+    "game": "mhgu",
+    "name": "Zamtrios",
+    "name_ja": "ザボアザギル",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_68",
+    "game": "mhgu",
+    "name": "Najarala",
+    "name_ja": "ガララアジャラ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_69",
+    "game": "mhgu",
+    "name": "Seltas Queen",
+    "name_ja": "ゲネル・セルタス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_70",
+    "game": "mhgu",
+    "name": "Nerscylla",
+    "name_ja": "ネルスキュラ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_71",
+    "game": "mhgu",
+    "name": "Gore Magala",
+    "name_ja": "ゴア・マガラ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_72",
+    "game": "mhgu",
+    "name": "Shagaru Magala",
+    "name_ja": "シャガルマガラ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_76",
+    "game": "mhgu",
+    "name": "Seltas",
+    "name_ja": "アルセルタス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_77",
+    "game": "mhgu",
+    "name": "Seregios",
+    "name_ja": "セルレギオス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_79",
+    "game": "mhgu",
+    "name": "Malfestio",
+    "name_ja": "ホロロホルル",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_80",
+    "game": "mhgu",
+    "name": "Glavenus",
+    "name_ja": "ディノバルド",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_81",
+    "game": "mhgu",
+    "name": "Astalos",
+    "name_ja": "ライゼクス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_82",
+    "game": "mhgu",
+    "name": "Mizutsune",
+    "name_ja": "タマミツネ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_83",
+    "game": "mhgu",
+    "name": "Gammoth",
+    "name_ja": "ガムート",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_84",
+    "game": "mhgu",
+    "name": "Nakarkos",
+    "name_ja": "オストガロア",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_85",
+    "game": "mhgu",
+    "name": "Great Maccao",
+    "name_ja": "ドスマッカォ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_86",
+    "game": "mhgu",
+    "name": "Valstrax",
+    "name_ja": "バルファルク",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_88",
+    "game": "mhgu",
+    "name": "Ahtal-Ka",
+    "name_ja": "アトラル・カ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_269",
+    "game": "mhgu",
+    "name": "Crimson Fatalis",
+    "name_ja": "ミラボレアス【紅龍】",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_513",
+    "game": "mhgu",
+    "name": "Gold Rathian",
+    "name_ja": "リオレイア希少種",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_514",
+    "game": "mhgu",
+    "name": "Silver Rathalos",
+    "name_ja": "リオレウス希少種",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_525",
+    "game": "mhgu",
+    "name": "Old Fatalis",
+    "name_ja": "ミラボレアス【祖龍】",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1025",
+    "game": "mhgu",
+    "name": "Dreadqueen Rathian",
+    "name_ja": "紫毒姫リオレイア",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1026",
+    "game": "mhgu",
+    "name": "Dreadking Rathalos",
+    "name_ja": "黒炎王リオレウス",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1031",
+    "game": "mhgu",
+    "name": "Bloodbath Diablos",
+    "name_ja": "鏖魔ディアブロス",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1042",
+    "game": "mhgu",
+    "name": "Deadeye Yian Garuga",
+    "name_ja": "隻眼イャンガルルガ",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1043",
+    "game": "mhgu",
+    "name": "Stonefist Hermitaur",
+    "name_ja": "矛砕ダイミョウザザミ",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1044",
+    "game": "mhgu",
+    "name": "Rustrazor Ceanataur",
+    "name_ja": "鎧裂ショウグンギザミ",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1056",
+    "game": "mhgu",
+    "name": "Grimclaw Tigrex",
+    "name_ja": "荒鉤爪ティガレックス",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1061",
+    "game": "mhgu",
+    "name": "Silverwind Nargacuga",
+    "name_ja": "白疾風ナルガクルガ",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1069",
+    "game": "mhgu",
+    "name": "Crystalbeard Uragaan",
+    "name_ja": "宝纏ウラガンキン",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1081",
+    "game": "mhgu",
+    "name": "Thunderlord Zinogre",
+    "name_ja": "金雷公ジンオウガ",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1084",
+    "game": "mhgu",
+    "name": "Redhelm Arzuros",
+    "name_ja": "紅兜アオアシラ",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1085",
+    "game": "mhgu",
+    "name": "Snowbaron Lagombi",
+    "name_ja": "大雪主ウルクスス",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1090",
+    "game": "mhgu",
+    "name": "Drilltusk Tetsucabra",
+    "name_ja": "岩穿テツカブラ",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1103",
+    "game": "mhgu",
+    "name": "Nightcloak Malfestio",
+    "name_ja": "朧隠ホロロホルル",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1104",
+    "game": "mhgu",
+    "name": "Hellblade Glavenus",
+    "name_ja": "燼滅刃ディノバルド",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1105",
+    "game": "mhgu",
+    "name": "Boltreaver Astalos",
+    "name_ja": "青電主ライゼクス",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1106",
+    "game": "mhgu",
+    "name": "Soulseer Mizutsune",
+    "name_ja": "天眼タマミツネ",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1107",
+    "game": "mhgu",
+    "name": "Elderfrost Gammoth",
+    "name_ja": "銀嶺ガムート",
+    "species": "2",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1303",
+    "game": "mhgu",
+    "name": "Furious Rajang",
+    "name_ja": "激昂したラージャン",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1323",
+    "game": "mhgu",
+    "name": "Savage Deviljho",
+    "name_ja": "怒り喰らうイビルジョー",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1343",
+    "game": "mhgu",
+    "name": "Raging Brachydios",
+    "name_ja": "猛り爆ぜるブラキディオス",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_1351",
+    "game": "mhgu",
+    "name": "Chaotic Gore Magala",
+    "name_ja": "渾沌に呻くゴア・マガラ",
+    "species": "0",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4097",
+    "game": "mhgu",
+    "name": "Aptonoth",
+    "name_ja": "アプトノス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4098",
+    "game": "mhgu",
+    "name": "Apceros",
+    "name_ja": "アプケロス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4099",
+    "game": "mhgu",
+    "name": "Kelbi",
+    "name_ja": "ケルビ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4100",
+    "game": "mhgu",
+    "name": "Mosswine",
+    "name_ja": "モス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4101",
+    "game": "mhgu",
+    "name": "Hornetaur",
+    "name_ja": "カンタロス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4102",
+    "game": "mhgu",
+    "name": "Vespoid",
+    "name_ja": "ランゴスタ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4103",
+    "game": "mhgu",
+    "name": "Felyne",
+    "name_ja": "アイルー",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4104",
+    "game": "mhgu",
+    "name": "Melynx",
+    "name_ja": "メラルー",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4105",
+    "game": "mhgu",
+    "name": "Velociprey",
+    "name_ja": "ランポス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4106",
+    "game": "mhgu",
+    "name": "Genprey",
+    "name_ja": "ゲネポス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4107",
+    "game": "mhgu",
+    "name": "Ioprey",
+    "name_ja": "イーオス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4108",
+    "game": "mhgu",
+    "name": "Cephalos",
+    "name_ja": "ガレオス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4109",
+    "game": "mhgu",
+    "name": "Bullfango",
+    "name_ja": "ブルファンゴ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4110",
+    "game": "mhgu",
+    "name": "Popo",
+    "name_ja": "ポポ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4111",
+    "game": "mhgu",
+    "name": "Giaprey",
+    "name_ja": "ギアノス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4112",
+    "game": "mhgu",
+    "name": "Anteka",
+    "name_ja": "ガウシカ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4113",
+    "game": "mhgu",
+    "name": "Great Thunderbug",
+    "name_ja": "大雷光虫",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4115",
+    "game": "mhgu",
+    "name": "Remobra",
+    "name_ja": "ガブラス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4116",
+    "game": "mhgu",
+    "name": "Hermitaur",
+    "name_ja": "ヤオザミ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4117",
+    "game": "mhgu",
+    "name": "Ceanataur",
+    "name_ja": "ガミザミ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4118",
+    "game": "mhgu",
+    "name": "Conga",
+    "name_ja": "コンガ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4119",
+    "game": "mhgu",
+    "name": "Blango",
+    "name_ja": "ブランゴ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4121",
+    "game": "mhgu",
+    "name": "Rhenoplos",
+    "name_ja": "リノプロス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4122",
+    "game": "mhgu",
+    "name": "Bnahabra",
+    "name_ja": "ブナハブラ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4123",
+    "game": "mhgu",
+    "name": "Altaroth",
+    "name_ja": "オルタロス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4130",
+    "game": "mhgu",
+    "name": "Jaggi",
+    "name_ja": "ジャギィ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4131",
+    "game": "mhgu",
+    "name": "Jaggia",
+    "name_ja": "ジャギィノス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4135",
+    "game": "mhgu",
+    "name": "Ludroth",
+    "name_ja": "ルドロス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4136",
+    "game": "mhgu",
+    "name": "Uroktor",
+    "name_ja": "ウロコトル",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4137",
+    "game": "mhgu",
+    "name": "Slagtoth",
+    "name_ja": "ズワロポス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4138",
+    "game": "mhgu",
+    "name": "Gargwa",
+    "name_ja": "ガーグァ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4140",
+    "game": "mhgu",
+    "name": "Zamite",
+    "name_ja": "スクアギル",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4141",
+    "game": "mhgu",
+    "name": "Konchu",
+    "name_ja": "クンチュウ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4142",
+    "game": "mhgu",
+    "name": "Maccao",
+    "name_ja": "マッカォ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4143",
+    "game": "mhgu",
+    "name": "Larinoth",
+    "name_ja": "リモセトス",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  },
+  {
+    "id": "mhgu_4144",
+    "game": "mhgu",
+    "name": "Moofah",
+    "name_ja": "ムーファ",
+    "species": "1",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [],
+    "hitzones": null,
+    "locations": [],
+    "games": [
+      "mhgu"
+    ],
+    "source_file": "mhgu_monsters_full.json"
+  }
+]

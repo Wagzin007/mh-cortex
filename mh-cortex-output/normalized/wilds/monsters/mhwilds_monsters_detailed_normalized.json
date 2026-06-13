@@ -1,0 +1,835 @@
+[
+  {
+    "id": "wilds_1",
+    "game": "wilds",
+    "name": "Chatacabra",
+    "name_ja": null,
+    "species": "amphibian",
+    "is_large": false,
+    "elements": [],
+    "ailments": [],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 3
+      },
+      {
+        "element": "Ice",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 3
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 3
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 3
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": "Windward Plains",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_2",
+    "game": "wilds",
+    "name": "Doshaguma",
+    "name_ja": null,
+    "species": "Fanged Beast",
+    "is_large": false,
+    "elements": [
+      "Blast"
+    ],
+    "ailments": [
+      "Blastblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Fire",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": [
+      "Windward Plains",
+      "Scarlet Forest",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_3",
+    "game": "wilds",
+    "name": "Balahara",
+    "name_ja": null,
+    "species": "Leviathan",
+    "is_large": false,
+    "elements": [
+      "Water"
+    ],
+    "ailments": [
+      "Waterblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 3
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 3
+      }
+    ],
+    "hitzones": null,
+    "locations": "Windward Plains",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_4",
+    "game": "wilds",
+    "name": "Lala Barina",
+    "name_ja": null,
+    "species": "Temnoceran",
+    "is_large": false,
+    "elements": [],
+    "ailments": [
+      "Paralysis"
+    ],
+    "weaknesses": [
+      {
+        "element": "Fire",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 1
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 3
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": [
+      "Scarlet Forest",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_5",
+    "game": "wilds",
+    "name": "Rey Dau",
+    "name_ja": null,
+    "species": "Flying Wyvern",
+    "is_large": false,
+    "elements": [
+      "Thunder"
+    ],
+    "ailments": [
+      "Thunderblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Ice",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 1
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 1
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": "Windward Plains",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_6",
+    "game": "wilds",
+    "name": "Arkveld",
+    "name_ja": null,
+    "species": "Flying Wyvern",
+    "is_large": false,
+    "elements": [
+      "Dragon"
+    ],
+    "ailments": [
+      "Dragonblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": [
+      "Windward Plains",
+      "Scarlet Forest",
+      "Oilwell Basin",
+      "Iceshard Cliffs",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_7",
+    "game": "wilds",
+    "name": "Uth Duna",
+    "name_ja": null,
+    "species": "Large Monster",
+    "is_large": false,
+    "elements": [
+      "Water"
+    ],
+    "ailments": [
+      "Waterblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 2
+      },
+      {
+        "element": "Thunder",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 1
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": "Scarlet Forest",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_8",
+    "game": "wilds",
+    "name": "Ajarakan",
+    "name_ja": null,
+    "species": "Fanged Beast",
+    "is_large": false,
+    "elements": [
+      "Fire"
+    ],
+    "ailments": [
+      "Fireblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "water",
+        "stars": 3
+      },
+      {
+        "element": "ice",
+        "stars": 2
+      },
+      {
+        "element": "blast",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": [
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_9",
+    "game": "wilds",
+    "name": "Rompopolo",
+    "name_ja": null,
+    "species": "brute wyvern",
+    "is_large": false,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": null,
+    "locations": "Oilwell Basin",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_10",
+    "game": "wilds",
+    "name": "Nu Udra",
+    "name_ja": null,
+    "species": "TBD",
+    "is_large": false,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": null,
+    "locations": "Oilwell Basin",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_11",
+    "game": "wilds",
+    "name": "Quematrice",
+    "name_ja": null,
+    "species": "brute wyvern",
+    "is_large": false,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": null,
+    "locations": "Windward Plains",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_12",
+    "game": "wilds",
+    "name": "Congalala",
+    "name_ja": null,
+    "species": "fanged beast",
+    "is_large": false,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": null,
+    "locations": "TBD",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_13",
+    "game": "wilds",
+    "name": "Yian Kut-Ku",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": null,
+    "locations": "TBD",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_14",
+    "game": "wilds",
+    "name": "Rathian",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "elements": [
+      "TBD"
+    ],
+    "ailments": [
+      "TBD"
+    ],
+    "weaknesses": [
+      {
+        "element": "TBD",
+        "stars": 0
+      }
+    ],
+    "hitzones": null,
+    "locations": "TBD",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_15",
+    "game": "wilds",
+    "name": "Rathalos",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "elements": [
+      "Fire"
+    ],
+    "ailments": [
+      "Fireblight",
+      "Poison"
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 1
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Dragon",
+        "stars": 3
+      }
+    ],
+    "hitzones": null,
+    "locations": [
+      "Scarlet Forest",
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_16",
+    "game": "wilds",
+    "name": "Gypceros",
+    "name_ja": null,
+    "species": "bird wyvern",
+    "is_large": false,
+    "elements": [],
+    "ailments": [
+      "Poison"
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 1
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Fire",
+        "stars": 3
+      },
+      {
+        "element": "Ice",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": [
+      "Windward plains",
+      "Oilwell Basin",
+      "Iceshard Cliffs",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_17",
+    "game": "wilds",
+    "name": "Gravios",
+    "name_ja": null,
+    "species": "flying wyvern",
+    "is_large": false,
+    "elements": [
+      "Fire"
+    ],
+    "ailments": [
+      "Fireblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      },
+      {
+        "element": "Water",
+        "stars": 3
+      },
+      {
+        "element": "Dragon",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": [
+      "Oilwell Basin",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_18",
+    "game": "wilds",
+    "name": "Zoh Shia",
+    "name_ja": null,
+    "species": "Construct",
+    "is_large": false,
+    "elements": [
+      "Fire",
+      "Thunder"
+    ],
+    "ailments": [
+      "Fireblight",
+      "Thunderblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Dragon",
+        "stars": 3
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 1
+      }
+    ],
+    "hitzones": null,
+    "locations": "Ruins of Wyveria",
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  },
+  {
+    "id": "wilds_19",
+    "game": "wilds",
+    "name": "Mizutsune",
+    "name_ja": null,
+    "species": "Leviathan",
+    "is_large": false,
+    "elements": [
+      "Water"
+    ],
+    "ailments": [
+      "Waterblight",
+      "Bubbleblight"
+    ],
+    "weaknesses": [
+      {
+        "element": "Thunder",
+        "stars": 3
+      },
+      {
+        "element": "Dragon",
+        "stars": 3
+      },
+      {
+        "element": "Ice",
+        "stars": 2
+      },
+      {
+        "element": "Poison",
+        "stars": 2
+      },
+      {
+        "element": "Sleep",
+        "stars": 2
+      },
+      {
+        "element": "Paralysis",
+        "stars": 2
+      },
+      {
+        "element": "Blastblight",
+        "stars": 2
+      },
+      {
+        "element": "Stun",
+        "stars": 2
+      },
+      {
+        "element": "Exhaust",
+        "stars": 2
+      }
+    ],
+    "hitzones": null,
+    "locations": [
+      "Scarlet Forest",
+      "Ruins of Wyveria"
+    ],
+    "games": [
+      "wilds"
+    ],
+    "source_file": "mhwilds_monsters_detailed.json"
+  }
+]

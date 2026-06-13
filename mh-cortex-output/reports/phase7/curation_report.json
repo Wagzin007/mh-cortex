@@ -1,0 +1,277 @@
+{
+  "phase": "FASE 7 — Curadoria",
+  "date": "2026-06-05",
+  "status": "CONCLUÍDO",
+  "note_on_sources": "Conforme identificado: fontes ocidentais estruturadas estão praticamente esgotadas. Lacunas remanescentes requerem fontes japonesas (fóruns, wikis, repositórios em japonês) ou extração direta dos jogos.",
+  "corrections_authorized_pending": [
+    {
+      "id": "FIX-001",
+      "file": "world/monsters/mhworld_monsters_detailed.json",
+      "monster": "Brute Tigrex",
+      "field": "species",
+      "current_value": "fkying wyvern",
+      "correct_value": "flying wyvern",
+      "evidence": "Typo óbvio. Brute Tigrex é Flying Wyvern em todas as fontes.",
+      "status": "AGUARDANDO AUTORIZAÇÃO"
+    },
+    {
+      "id": "FIX-002",
+      "file": "cross-game/all_monsters.json",
+      "monster": "Versa Pietru",
+      "issue": "Registro duplicado",
+      "action": "Remover segunda ocorrência",
+      "status": "AGUARDANDO AUTORIZAÇÃO"
+    },
+    {
+      "id": "FIX-003",
+      "file": "rise/skills/mhrise_skills.json",
+      "skill": "Stormsoul",
+      "issue": "Skill duplicada (id=1799202469 x2, registros idênticos)",
+      "action": "Remover segunda ocorrência",
+      "status": "AGUARDANDO AUTORIZAÇÃO"
+    },
+    {
+      "id": "FIX-004",
+      "file": "cross-game/all_monsters.json",
+      "monster": "Gastodon",
+      "field": "type",
+      "current_value": "leviathan",
+      "correct_value": "herbivore",
+      "evidence": "Gastodon é Small Monster / Herbivore em MHWorld. Classificação 'leviathan' incorreta.",
+      "status": "AGUARDANDO AUTORIZAÇÃO"
+    },
+    {
+      "id": "FIX-005",
+      "file": "cross-game/all_monsters.json",
+      "monster": "Scarred Yian Garuga",
+      "field": "type",
+      "current_value": "flying wyvern",
+      "correct_value": "bird wyvern",
+      "evidence": "Yian Garuga é Bird Wyvern em toda a franquia.",
+      "status": "AGUARDANDO AUTORIZAÇÃO"
+    },
+    {
+      "id": "FIX-006",
+      "file": "rise/weapons/mhrise_weapons.json",
+      "issue": "Campo weapon_type usa int (0-13), não string",
+      "action": "Adicionar campo weapon_type_name como string usando mapeamento documentado",
+      "mapping": {
+        "0": "Great Sword",
+        "1": "Sword and Shield",
+        "2": "Dual Blades",
+        "3": "Long Sword",
+        "4": "Hammer",
+        "5": "Hunting Horn",
+        "6": "Lance",
+        "7": "Gunlance",
+        "8": "Switch Axe",
+        "9": "Charge Blade",
+        "10": "Insect Glaive",
+        "11": "Bow",
+        "12": "Light Bowgun",
+        "13": "Heavy Bowgun"
+      },
+      "status": "AGUARDANDO AUTORIZAÇÃO"
+    },
+    {
+      "id": "FIX-007",
+      "file": "cross-game/all_monsters.json",
+      "monsters": [
+        "Nightshade Paolomu",
+        "Silver Rathian"
+      ],
+      "issue": "Presentes em mhworld_monsters_detailed mas ausentes em all_monsters",
+      "action": "Adicionar os 2 registros faltando de world_monsters para all_monsters",
+      "status": "AGUARDANDO AUTORIZAÇÃO"
+    }
+  ],
+  "gaps_identified": [
+    {
+      "id": "GAP-001",
+      "game": "MHGU",
+      "category": "charms",
+      "severity": "MEDIUM",
+      "description": "mhgu_charms.json completamente vazio. Charms (talismãs) são componentes críticos de builds no MHGU.",
+      "western_sources_available": "Nenhuma fonte estruturada ocidental identificada. gatheringhallstudios/MHGenDatabase não coletou este dado.",
+      "japanese_sources_candidates": [
+        "mhgen-db.com (site japonês/EN com dados de charms)",
+        "3ds.gorokan.net (fórum japonês com tabelas de charms MHGU)",
+        "wikiwiki.jp/mhxx (wiki japonesa do MHXX/MHGU)",
+        "Extração direta via CFW + salve editor (método mais confiável)"
+      ],
+      "notes": "MHGU tem sistema de charms aleatórios (randomizados). Uma lista 'completa' de charms não existe — o que existe são tabelas de possibilidades por nível de talismã."
+    },
+    {
+      "id": "GAP-002",
+      "game": "MH3/Tri",
+      "category": "weapons",
+      "severity": "HIGH",
+      "description": "mh3tri_weapons.json contém apenas 12 entradas estruturais (outline de weapon trees), não armas individuais. Total real estimado: ~400+ armas.",
+      "western_sources_available": "maliciousbanjo/mh3-data: dados incompletos (NPM mh3-data@2.0.1).",
+      "japanese_sources_candidates": [
+        "wikiwiki.jp/mh3 (wiki japonesa do MH3 com tabelas de armas completas)",
+        "mhwiki.mhrise-db.com (cobertura parcial)",
+        "Neryss/monster_hunter_db: não cobre MH3/Tri"
+      ]
+    },
+    {
+      "id": "GAP-003",
+      "game": "MH3/Tri",
+      "category": "items",
+      "severity": "MEDIUM",
+      "description": "Nenhum dado de itens para MH3/Tri.",
+      "western_sources_available": "Nenhuma fonte estruturada identificada.",
+      "japanese_sources_candidates": [
+        "wikiwiki.jp/mh3"
+      ]
+    },
+    {
+      "id": "GAP-004",
+      "game": "MH3/Tri",
+      "category": "quests",
+      "severity": "MEDIUM",
+      "description": "mh3tri_quests.json tem ~10 registros estruturais. Total real: ~200+ quests.",
+      "japanese_sources_candidates": [
+        "wikiwiki.jp/mh3"
+      ]
+    },
+    {
+      "id": "GAP-005",
+      "game": "MHRise / Sunbreak",
+      "category": "quests",
+      "severity": "HIGH",
+      "description": "Zero quests para Rise/Sunbreak. Badge87/MHRiseScraperData não coletou quests.",
+      "western_sources_available": "Nenhuma fonte estruturada identificada.",
+      "japanese_sources_candidates": [
+        "mhrise-db.com (cobertura parcial — principalmente EN)",
+        "wikiwiki.jp/mhrise (wiki japonesa mais completa)",
+        "Kiranico Rise (mhrise.kiranico.com) — fonte web scrapeável"
+      ]
+    },
+    {
+      "id": "GAP-006",
+      "game": "MHWilds",
+      "category": "weapons / armors / items / skills / quests",
+      "severity": "LOW (jogo recente)",
+      "description": "Apenas 19 monstros disponíveis. Jogo lançado fev/2025, dados comunitários em estágio inicial.",
+      "western_sources_available": "Neryss/monster_hunter_db (apenas monstros). Kiranico Wilds em desenvolvimento.",
+      "japanese_sources_candidates": [
+        "wikiwiki.jp/mhwilds (wiki japonesa ativa — mais rápida que a ocidental)",
+        "mhwilds-db.com (em desenvolvimento)",
+        "Extração direta via mods PC (mais confiável para dados numéricos)"
+      ]
+    },
+    {
+      "id": "GAP-007",
+      "game": "MH1, MHG, MHF, MH2, MHDos, MHF2, MHP3rd",
+      "category": "todos",
+      "severity": "LOW (jogos antigos, baixa prioridade para MH-Cortex)",
+      "description": "Jogos da geração PS2/PSP sem dados estruturados no acervo. MHP3rd (Monster Hunter Portable 3rd) é notavelmente popular no Japão.",
+      "western_sources_available": "Praticamente nenhuma. MHGU cobre os dados consolidados dessas gerações mas sem contexto por jogo individual.",
+      "japanese_sources_candidates": [
+        "wikiwiki.jp/mhp3 (wiki japonesa do MHP3rd — muito completa)",
+        "wikiwiki.jp/mh2 (wiki do MH2)",
+        "mhf-game.com (arquivo do MH Frontier Online)",
+        "Nota: MH Frontier foi encerrado em 2019, dados preservados por fãs japoneses"
+      ]
+    },
+    {
+      "id": "GAP-008",
+      "game": "MHStories 1 e 2",
+      "category": "weapons / armors / items / skills / quests / monsties",
+      "severity": "MEDIUM",
+      "description": "Apenas ícones de monstros disponíveis. Stories é um RPG separado da série principal — dados de monsties (criaturas parceiras), genes, e evolução estão completamente ausentes.",
+      "western_sources_available": "Nenhuma fonte estruturada identificada para Stories 1. Stories 2 tem wikis EN parciais.",
+      "japanese_sources_candidates": [
+        "wikiwiki.jp/mhst2 (wiki japonesa do Stories 2)",
+        "gamefaqs.gamespot.com/3ds/167348-monster-hunter-stories (guias EN para Stories 1)"
+      ]
+    },
+    {
+      "id": "GAP-009",
+      "game": "MHGU",
+      "category": "name_ja fields",
+      "severity": "LOW",
+      "description": "Todos os campos name_ja e description_ja em mhgu_items, mhgu_skills, mhgu_monsters estão vazios (string vazia). Dados em japonês não foram coletados pela fonte gatheringhallstudios.",
+      "japanese_sources_candidates": [
+        "wikiwiki.jp/mhxx — nomes japoneses oficiais de todos os itens/monstros/skills"
+      ]
+    },
+    {
+      "id": "GAP-010",
+      "game": "Rise / World",
+      "category": "crafting trees / upgrade paths",
+      "severity": "MEDIUM",
+      "description": "mhrise_weapons.json tem campos forging_materials e upgrade_materials com dados de crafting. MHWorld tem weapon_craft separado. Porém os dados de Rise carecem de estrutura de árvore (parent_id / upgrade chain) que o MHGU tem via parent_id.",
+      "notes": "Dados de crafting existem mas sem encadeamento explícito de upgrade tree no Rise."
+    }
+  ],
+  "data_quality_observations": [
+    {
+      "observation": "MHGU é o dataset mais rico e completo do acervo",
+      "detail": "Único jogo com hitzones (damage zones), status resistance, ailment resistance, habitats, crafting components e quest rewards todos relacionados por ID. Base sólida para o MH-Cortex."
+    },
+    {
+      "observation": "MHWorld usa formato relacional (multi-tabela)",
+      "detail": "Preserva integridade referencial mas é incompatível com o padrão array dos demais. Para o MH-Cortex, será necessário um adaptador ou ETL específico para World."
+    },
+    {
+      "observation": "Rise/Sunbreak tem links Kiranico embutidos em armor.skills",
+      "detail": "Campo skills em mhrise_armors contém links diretos para mhrise.kiranico.com. Útil para deep-linking mas cria dependência externa."
+    },
+    {
+      "observation": "MHGU tem localização em 5 idiomas (EN/DE/FR/ES/IT) mas japonês vazio",
+      "detail": "Todos os campos _ja são strings vazias. Oportunidade para enriquecimento via fontes japonesas sem precisar substituir dados existentes."
+    },
+    {
+      "observation": "Wilds tem inconsistências de capitalização de espécies",
+      "detail": "Ex: 'brute wyvern' (lowercase) vs 'Fanged Beast' (titlecase) vs 'TBD' no mesmo arquivo. Dado precoce ainda não padronizado pela fonte."
+    },
+    {
+      "observation": "monster_icon_name_mapping cobre 467 nomes mas há 854 ícones",
+      "detail": "387 ícones sem nome mapeado. O mapping é apenas para all_monsters.json (337 monstros + aliases). Ícones de subspecies, variants e jogos antigos estão fora do mapping."
+    }
+  ],
+  "priority_recommendations": [
+    {
+      "priority": 1,
+      "action": "Aplicar FIX-001 a FIX-007 (correções simples, baixo risco)",
+      "effort": "Baixo",
+      "impact": "Elimina erros factuais confirmados"
+    },
+    {
+      "priority": 2,
+      "action": "GAP-005: Coletar quests do Rise/Sunbreak via Kiranico scraping",
+      "effort": "Médio",
+      "impact": "Alto — quests são essenciais para qualquer feature de progressão",
+      "source": "mhrise.kiranico.com — estrutura scrapeável, dados em EN"
+    },
+    {
+      "priority": 3,
+      "action": "GAP-002: Completar weapon trees do MH3/Tri",
+      "effort": "Alto",
+      "impact": "Médio — wikiwiki.jp/mh3 é a única fonte viável",
+      "source": "wikiwiki.jp/mh3 — requer leitura em japonês ou TL"
+    },
+    {
+      "priority": 4,
+      "action": "GAP-001: Coletar tabelas de possibilidade de charms MHGU",
+      "effort": "Alto",
+      "impact": "Alto para builds — wikiwiki.jp/mhxx ou extração direta",
+      "source": "wikiwiki.jp/mhxx — requer leitura em japonês"
+    },
+    {
+      "priority": 5,
+      "action": "GAP-009: Preencher campos name_ja/description_ja do MHGU",
+      "effort": "Médio",
+      "impact": "Baixo para MH-Cortex atual (EN-focused) mas alto para completude do acervo",
+      "source": "wikiwiki.jp/mhxx"
+    },
+    {
+      "priority": 6,
+      "action": "GAP-006: Monitorar fontes de Wilds conforme comunidade evolui",
+      "effort": "Baixo (aguardar)",
+      "impact": "Alto no médio prazo — jogo mais recente da franquia"
+    }
+  ]
+}

@@ -1,0 +1,1982 @@
+[
+  {
+    "category": 4,
+    "id": 0,
+    "isPositive": true,
+    "name": "Alchemy",
+    "requiredPoints": 10,
+    "requiredSkill": 0,
+    "skill_tree_id": 0,
+    "skill_tree_name": "Alchemy"
+  },
+  {
+    "category": 6,
+    "id": 1,
+    "isPositive": true,
+    "name": "Pro Ammo Combiner",
+    "requiredPoints": 10,
+    "requiredSkill": 1,
+    "skill_tree_id": 1,
+    "skill_tree_name": "Ammo Maker"
+  },
+  {
+    "category": 7,
+    "id": 2,
+    "isPositive": true,
+    "name": "Anti-Theft",
+    "requiredPoints": 10,
+    "requiredSkill": 2,
+    "skill_tree_id": 2,
+    "skill_tree_name": "Anti-Theft"
+  },
+  {
+    "category": 3,
+    "id": 5,
+    "isPositive": true,
+    "name": "Squeaky Clean +2",
+    "requiredPoints": 15,
+    "requiredSkill": 3,
+    "skill_tree_id": 3,
+    "skill_tree_name": "Antiseptic"
+  },
+  {
+    "category": 3,
+    "id": 4,
+    "isPositive": true,
+    "name": "Squeaky Clean +1",
+    "requiredPoints": 10,
+    "requiredSkill": 3,
+    "skill_tree_id": 3,
+    "skill_tree_name": "Antiseptic"
+  },
+  {
+    "category": 3,
+    "id": 3,
+    "isPositive": false,
+    "name": "Extra Stinky",
+    "requiredPoints": -10,
+    "requiredSkill": 3,
+    "skill_tree_id": 3,
+    "skill_tree_name": "Antiseptic"
+  },
+  {
+    "category": 4,
+    "id": 6,
+    "isPositive": true,
+    "name": "Artillery",
+    "requiredPoints": 10,
+    "requiredSkill": 4,
+    "skill_tree_id": 4,
+    "skill_tree_name": "Artillery"
+  },
+  {
+    "category": 0,
+    "id": 9,
+    "isPositive": true,
+    "name": "Attack Up [L]",
+    "requiredPoints": 25,
+    "requiredSkill": 5,
+    "skill_tree_id": 5,
+    "skill_tree_name": "Attack"
+  },
+  {
+    "category": 0,
+    "id": 8,
+    "isPositive": true,
+    "name": "Attack Up [M]",
+    "requiredPoints": 15,
+    "requiredSkill": 5,
+    "skill_tree_id": 5,
+    "skill_tree_name": "Attack"
+  },
+  {
+    "category": 0,
+    "id": 7,
+    "isPositive": true,
+    "name": "Attack Up [S]",
+    "requiredPoints": 10,
+    "requiredSkill": 5,
+    "skill_tree_id": 5,
+    "skill_tree_name": "Attack"
+  },
+  {
+    "category": 2,
+    "id": 10,
+    "isPositive": true,
+    "name": "Auto-Guard",
+    "requiredPoints": 10,
+    "requiredSkill": 6,
+    "skill_tree_id": 6,
+    "skill_tree_name": "Auto-Guard"
+  },
+  {
+    "category": 4,
+    "id": 11,
+    "isPositive": true,
+    "name": "Bombardier",
+    "requiredPoints": 10,
+    "requiredSkill": 7,
+    "skill_tree_id": 7,
+    "skill_tree_name": "Bomb Boost"
+  },
+  {
+    "category": 7,
+    "id": 12,
+    "isPositive": true,
+    "name": "Expert Carver",
+    "requiredPoints": 15,
+    "requiredSkill": 8,
+    "skill_tree_id": 8,
+    "skill_tree_name": "Carving"
+  },
+  {
+    "category": 6,
+    "id": 15,
+    "isPositive": true,
+    "name": "Add All Clust S",
+    "requiredPoints": 20,
+    "requiredSkill": 9,
+    "skill_tree_id": 9,
+    "skill_tree_name": "Clust S+"
+  },
+  {
+    "category": 6,
+    "id": 14,
+    "isPositive": true,
+    "name": "Add Clust S Lv1-2",
+    "requiredPoints": 15,
+    "requiredSkill": 9,
+    "skill_tree_id": 9,
+    "skill_tree_name": "Clust S+"
+  },
+  {
+    "category": 6,
+    "id": 13,
+    "isPositive": true,
+    "name": "Add Clust S Lv1",
+    "requiredPoints": 10,
+    "requiredSkill": 9,
+    "skill_tree_id": 9,
+    "skill_tree_name": "Clust S+"
+  },
+  {
+    "category": 3,
+    "id": 20,
+    "isPositive": true,
+    "name": "Negate Cold [L]",
+    "requiredPoints": 20,
+    "requiredSkill": 10,
+    "skill_tree_id": 10,
+    "skill_tree_name": "Cold Resistance"
+  },
+  {
+    "category": 3,
+    "id": 19,
+    "isPositive": true,
+    "name": "Negate Cold [S]",
+    "requiredPoints": 15,
+    "requiredSkill": 10,
+    "skill_tree_id": 10,
+    "skill_tree_name": "Cold Resistance"
+  },
+  {
+    "category": 3,
+    "id": 18,
+    "isPositive": true,
+    "name": "Halve Cold",
+    "requiredPoints": 10,
+    "requiredSkill": 10,
+    "skill_tree_id": 10,
+    "skill_tree_name": "Cold Resistance"
+  },
+  {
+    "category": 3,
+    "id": 17,
+    "isPositive": false,
+    "name": "Cold Surge [S]",
+    "requiredPoints": -10,
+    "requiredSkill": 10,
+    "skill_tree_id": 10,
+    "skill_tree_name": "Cold Resistance"
+  },
+  {
+    "category": 3,
+    "id": 16,
+    "isPositive": false,
+    "name": "Cold Surge [L]",
+    "requiredPoints": -20,
+    "requiredSkill": 10,
+    "skill_tree_id": 10,
+    "skill_tree_name": "Cold Resistance"
+  },
+  {
+    "category": 4,
+    "id": 25,
+    "isPositive": true,
+    "name": "Combo Rate +20%",
+    "requiredPoints": 20,
+    "requiredSkill": 11,
+    "skill_tree_id": 11,
+    "skill_tree_name": "Combo Rate"
+  },
+  {
+    "category": 4,
+    "id": 24,
+    "isPositive": true,
+    "name": "Combo Rate +10%",
+    "requiredPoints": 15,
+    "requiredSkill": 11,
+    "skill_tree_id": 11,
+    "skill_tree_name": "Combo Rate"
+  },
+  {
+    "category": 4,
+    "id": 23,
+    "isPositive": true,
+    "name": "Combo Rate +5%",
+    "requiredPoints": 10,
+    "requiredSkill": 11,
+    "skill_tree_id": 11,
+    "skill_tree_name": "Combo Rate"
+  },
+  {
+    "category": 4,
+    "id": 22,
+    "isPositive": false,
+    "name": "Combo Rate -5%",
+    "requiredPoints": -10,
+    "requiredSkill": 11,
+    "skill_tree_id": 11,
+    "skill_tree_name": "Combo Rate"
+  },
+  {
+    "category": 4,
+    "id": 21,
+    "isPositive": false,
+    "name": "Combo Rate -15%",
+    "requiredPoints": -20,
+    "requiredSkill": 11,
+    "skill_tree_id": 11,
+    "skill_tree_name": "Combo Rate"
+  },
+  {
+    "category": 4,
+    "id": 28,
+    "isPositive": true,
+    "name": "BBQ Master",
+    "requiredPoints": 15,
+    "requiredSkill": 12,
+    "skill_tree_id": 12,
+    "skill_tree_name": "Cooking"
+  },
+  {
+    "category": 4,
+    "id": 27,
+    "isPositive": true,
+    "name": "BBQ Expert",
+    "requiredPoints": 10,
+    "requiredSkill": 12,
+    "skill_tree_id": 12,
+    "skill_tree_name": "Cooking"
+  },
+  {
+    "category": 4,
+    "id": 26,
+    "isPositive": false,
+    "name": "Overconfident BBQ'er",
+    "requiredPoints": -10,
+    "requiredSkill": 12,
+    "skill_tree_id": 12,
+    "skill_tree_name": "Cooking"
+  },
+  {
+    "category": 6,
+    "id": 31,
+    "isPositive": true,
+    "name": "Add All Crag S",
+    "requiredPoints": 20,
+    "requiredSkill": 13,
+    "skill_tree_id": 13,
+    "skill_tree_name": "Crag S+"
+  },
+  {
+    "category": 6,
+    "id": 30,
+    "isPositive": true,
+    "name": "Add Crag S Lv1-2",
+    "requiredPoints": 15,
+    "requiredSkill": 13,
+    "skill_tree_id": 13,
+    "skill_tree_name": "Crag S+"
+  },
+  {
+    "category": 6,
+    "id": 29,
+    "isPositive": true,
+    "name": "Add Crag S Lv1",
+    "requiredPoints": 10,
+    "requiredSkill": 13,
+    "skill_tree_id": 13,
+    "skill_tree_name": "Crag S+"
+  },
+  {
+    "category": 0,
+    "id": 37,
+    "isPositive": true,
+    "name": "Defense + 40",
+    "requiredPoints": 20,
+    "requiredSkill": 14,
+    "skill_tree_id": 14,
+    "skill_tree_name": "Defense"
+  },
+  {
+    "category": 0,
+    "id": 36,
+    "isPositive": true,
+    "name": "Defense + 30",
+    "requiredPoints": 15,
+    "requiredSkill": 14,
+    "skill_tree_id": 14,
+    "skill_tree_name": "Defense"
+  },
+  {
+    "category": 0,
+    "id": 35,
+    "isPositive": true,
+    "name": "Defense + 20",
+    "requiredPoints": 10,
+    "requiredSkill": 14,
+    "skill_tree_id": 14,
+    "skill_tree_name": "Defense"
+  },
+  {
+    "category": 0,
+    "id": 34,
+    "isPositive": false,
+    "name": "Defense - 20",
+    "requiredPoints": -10,
+    "requiredSkill": 14,
+    "skill_tree_id": 14,
+    "skill_tree_name": "Defense"
+  },
+  {
+    "category": 0,
+    "id": 33,
+    "isPositive": false,
+    "name": "Defense - 30",
+    "requiredPoints": -15,
+    "requiredSkill": 14,
+    "skill_tree_id": 14,
+    "skill_tree_name": "Defense"
+  },
+  {
+    "category": 0,
+    "id": 32,
+    "isPositive": false,
+    "name": "Defense - 40",
+    "requiredPoints": -20,
+    "requiredSkill": 14,
+    "skill_tree_id": 14,
+    "skill_tree_name": "Defense"
+  },
+  {
+    "category": 3,
+    "id": 43,
+    "isPositive": true,
+    "name": "Dragon Resistance + 10",
+    "requiredPoints": 20,
+    "requiredSkill": 15,
+    "skill_tree_id": 15,
+    "skill_tree_name": "Dragon Resistance"
+  },
+  {
+    "category": 3,
+    "id": 42,
+    "isPositive": true,
+    "name": "Dragon Resistance + 5",
+    "requiredPoints": 15,
+    "requiredSkill": 15,
+    "skill_tree_id": 15,
+    "skill_tree_name": "Dragon Resistance"
+  },
+  {
+    "category": 3,
+    "id": 41,
+    "isPositive": true,
+    "name": "Dragon Resistance + 3",
+    "requiredPoints": 10,
+    "requiredSkill": 15,
+    "skill_tree_id": 15,
+    "skill_tree_name": "Dragon Resistance"
+  },
+  {
+    "category": 3,
+    "id": 40,
+    "isPositive": false,
+    "name": "Dragon Resistance - 3",
+    "requiredPoints": -10,
+    "requiredSkill": 15,
+    "skill_tree_id": 15,
+    "skill_tree_name": "Dragon Resistance"
+  },
+  {
+    "category": 3,
+    "id": 39,
+    "isPositive": false,
+    "name": "Dragon Resistance - 5",
+    "requiredPoints": -15,
+    "requiredSkill": 15,
+    "skill_tree_id": 15,
+    "skill_tree_name": "Dragon Resistance"
+  },
+  {
+    "category": 3,
+    "id": 38,
+    "isPositive": false,
+    "name": "Dragon Resistance - 10",
+    "requiredPoints": -20,
+    "requiredSkill": 15,
+    "skill_tree_id": 15,
+    "skill_tree_name": "Dragon Resistance"
+  },
+  {
+    "category": 3,
+    "id": 45,
+    "isPositive": true,
+    "name": "High Grade Earplugs",
+    "requiredPoints": 15,
+    "requiredSkill": 16,
+    "skill_tree_id": 16,
+    "skill_tree_name": "Earplugs"
+  },
+  {
+    "category": 3,
+    "id": 44,
+    "isPositive": true,
+    "name": "Earplugs",
+    "requiredPoints": 10,
+    "requiredSkill": 16,
+    "skill_tree_id": 16,
+    "skill_tree_name": "Earplugs"
+  },
+  {
+    "category": 4,
+    "id": 47,
+    "isPositive": true,
+    "name": "Speed Eater",
+    "requiredPoints": 10,
+    "requiredSkill": 17,
+    "skill_tree_id": 17,
+    "skill_tree_name": "Eating"
+  },
+  {
+    "category": 4,
+    "id": 46,
+    "isPositive": false,
+    "name": "Slow Eater",
+    "requiredPoints": -10,
+    "requiredSkill": 17,
+    "skill_tree_id": 17,
+    "skill_tree_name": "Eating"
+  },
+  {
+    "category": 3,
+    "id": 53,
+    "isPositive": true,
+    "name": "All Element Resistance + 10",
+    "requiredPoints": 20,
+    "requiredSkill": 18,
+    "skill_tree_id": 18,
+    "skill_tree_name": "Element Resistance"
+  },
+  {
+    "category": 3,
+    "id": 52,
+    "isPositive": true,
+    "name": "All Element Resistance + 5",
+    "requiredPoints": 15,
+    "requiredSkill": 18,
+    "skill_tree_id": 18,
+    "skill_tree_name": "Element Resistance"
+  },
+  {
+    "category": 3,
+    "id": 51,
+    "isPositive": true,
+    "name": "All Element Resistance + 3",
+    "requiredPoints": 10,
+    "requiredSkill": 18,
+    "skill_tree_id": 18,
+    "skill_tree_name": "Element Resistance"
+  },
+  {
+    "category": 3,
+    "id": 50,
+    "isPositive": false,
+    "name": "All Element Resistance - 3",
+    "requiredPoints": -10,
+    "requiredSkill": 18,
+    "skill_tree_id": 18,
+    "skill_tree_name": "Element Resistance"
+  },
+  {
+    "category": 3,
+    "id": 49,
+    "isPositive": false,
+    "name": "All Element Resistance - 5",
+    "requiredPoints": -15,
+    "requiredSkill": 18,
+    "skill_tree_id": 18,
+    "skill_tree_name": "Element Resistance"
+  },
+  {
+    "category": 3,
+    "id": 48,
+    "isPositive": false,
+    "name": "All Element Resistance - 10",
+    "requiredPoints": -20,
+    "requiredSkill": 18,
+    "skill_tree_id": 18,
+    "skill_tree_name": "Element Resistance"
+  },
+  {
+    "category": 2,
+    "id": 55,
+    "isPositive": true,
+    "name": "Evasion +2",
+    "requiredPoints": 20,
+    "requiredSkill": 19,
+    "skill_tree_id": 19,
+    "skill_tree_name": "Evasion"
+  },
+  {
+    "category": 2,
+    "id": 54,
+    "isPositive": true,
+    "name": "Evasion +1",
+    "requiredPoints": 10,
+    "requiredSkill": 19,
+    "skill_tree_id": 19,
+    "skill_tree_name": "Evasion"
+  },
+  {
+    "category": 0,
+    "id": 58,
+    "isPositive": true,
+    "name": "Critical Eye +2",
+    "requiredPoints": 25,
+    "requiredSkill": 20,
+    "skill_tree_id": 20,
+    "skill_tree_name": "Expert"
+  },
+  {
+    "category": 0,
+    "id": 57,
+    "isPositive": true,
+    "name": "Critical Eye +1",
+    "requiredPoints": 15,
+    "requiredSkill": 20,
+    "skill_tree_id": 20,
+    "skill_tree_name": "Expert"
+  },
+  {
+    "category": 0,
+    "id": 56,
+    "isPositive": true,
+    "name": "Mind's Eye",
+    "requiredPoints": 10,
+    "requiredSkill": 20,
+    "skill_tree_id": 20,
+    "skill_tree_name": "Expert"
+  },
+  {
+    "category": 7,
+    "id": 62,
+    "isPositive": true,
+    "name": "Great Luck",
+    "requiredPoints": 15,
+    "requiredSkill": 21,
+    "skill_tree_id": 21,
+    "skill_tree_name": "Fate"
+  },
+  {
+    "category": 7,
+    "id": 61,
+    "isPositive": true,
+    "name": "Good Luck",
+    "requiredPoints": 10,
+    "requiredSkill": 21,
+    "skill_tree_id": 21,
+    "skill_tree_name": "Fate"
+  },
+  {
+    "category": 7,
+    "id": 60,
+    "isPositive": false,
+    "name": "Bad Luck",
+    "requiredPoints": -10,
+    "requiredSkill": 21,
+    "skill_tree_id": 21,
+    "skill_tree_name": "Fate"
+  },
+  {
+    "category": 7,
+    "id": 59,
+    "isPositive": false,
+    "name": "Horrible Luck",
+    "requiredPoints": -20,
+    "requiredSkill": 21,
+    "skill_tree_id": 21,
+    "skill_tree_name": "Fate"
+  },
+  {
+    "category": 3,
+    "id": 68,
+    "isPositive": true,
+    "name": "Fire Resistance + 10",
+    "requiredPoints": 20,
+    "requiredSkill": 22,
+    "skill_tree_id": 22,
+    "skill_tree_name": "Fire Resistance"
+  },
+  {
+    "category": 3,
+    "id": 67,
+    "isPositive": true,
+    "name": "Fire Resistance + 5",
+    "requiredPoints": 15,
+    "requiredSkill": 22,
+    "skill_tree_id": 22,
+    "skill_tree_name": "Fire Resistance"
+  },
+  {
+    "category": 3,
+    "id": 66,
+    "isPositive": true,
+    "name": "Fire Resistance + 3",
+    "requiredPoints": 10,
+    "requiredSkill": 22,
+    "skill_tree_id": 22,
+    "skill_tree_name": "Fire Resistance"
+  },
+  {
+    "category": 3,
+    "id": 65,
+    "isPositive": false,
+    "name": "Fire Resistance - 3",
+    "requiredPoints": -10,
+    "requiredSkill": 22,
+    "skill_tree_id": 22,
+    "skill_tree_name": "Fire Resistance"
+  },
+  {
+    "category": 3,
+    "id": 64,
+    "isPositive": false,
+    "name": "Fire Resistance - 5",
+    "requiredPoints": -15,
+    "requiredSkill": 22,
+    "skill_tree_id": 22,
+    "skill_tree_name": "Fire Resistance"
+  },
+  {
+    "category": 3,
+    "id": 63,
+    "isPositive": false,
+    "name": "Fire Resistance - 10",
+    "requiredPoints": -20,
+    "requiredSkill": 22,
+    "skill_tree_id": 22,
+    "skill_tree_name": "Fire Resistance"
+  },
+  {
+    "category": 4,
+    "id": 69,
+    "isPositive": true,
+    "name": "Fishing Expert",
+    "requiredPoints": 10,
+    "requiredSkill": 23,
+    "skill_tree_id": 23,
+    "skill_tree_name": "Fisher"
+  },
+  {
+    "category": 7,
+    "id": 73,
+    "isPositive": true,
+    "name": "Gathering +2",
+    "requiredPoints": 15,
+    "requiredSkill": 24,
+    "skill_tree_id": 24,
+    "skill_tree_name": "Gathering"
+  },
+  {
+    "category": 7,
+    "id": 72,
+    "isPositive": true,
+    "name": "Gathering +1",
+    "requiredPoints": 10,
+    "requiredSkill": 24,
+    "skill_tree_id": 24,
+    "skill_tree_name": "Gathering"
+  },
+  {
+    "category": 7,
+    "id": 71,
+    "isPositive": false,
+    "name": "Gathering -1",
+    "requiredPoints": -10,
+    "requiredSkill": 24,
+    "skill_tree_id": 24,
+    "skill_tree_name": "Gathering"
+  },
+  {
+    "category": 7,
+    "id": 70,
+    "isPositive": false,
+    "name": "Gathering -2",
+    "requiredPoints": -15,
+    "requiredSkill": 24,
+    "skill_tree_id": 24,
+    "skill_tree_name": "Gathering"
+  },
+  {
+    "category": 4,
+    "id": 75,
+    "isPositive": true,
+    "name": "Scavenger",
+    "requiredPoints": 15,
+    "requiredSkill": 25,
+    "skill_tree_id": 25,
+    "skill_tree_name": "Gluttony"
+  },
+  {
+    "category": 4,
+    "id": 74,
+    "isPositive": true,
+    "name": "Gourmand",
+    "requiredPoints": 10,
+    "requiredSkill": 25,
+    "skill_tree_id": 25,
+    "skill_tree_name": "Gluttony"
+  },
+  {
+    "category": 2,
+    "id": 79,
+    "isPositive": true,
+    "name": "Guard +2",
+    "requiredPoints": 20,
+    "requiredSkill": 26,
+    "skill_tree_id": 26,
+    "skill_tree_name": "Guard"
+  },
+  {
+    "category": 2,
+    "id": 78,
+    "isPositive": true,
+    "name": "Guard +1",
+    "requiredPoints": 10,
+    "requiredSkill": 26,
+    "skill_tree_id": 26,
+    "skill_tree_name": "Guard"
+  },
+  {
+    "category": 2,
+    "id": 77,
+    "isPositive": false,
+    "name": "Guard -1",
+    "requiredPoints": -10,
+    "requiredSkill": 26,
+    "skill_tree_id": 26,
+    "skill_tree_name": "Guard"
+  },
+  {
+    "category": 2,
+    "id": 76,
+    "isPositive": false,
+    "name": "Guard -2",
+    "requiredPoints": -15,
+    "requiredSkill": 26,
+    "skill_tree_id": 26,
+    "skill_tree_name": "Guard"
+  },
+  {
+    "category": 5,
+    "id": 81,
+    "isPositive": true,
+    "name": "Sharpness +1",
+    "requiredPoints": 10,
+    "requiredSkill": 27,
+    "skill_tree_id": 27,
+    "skill_tree_name": "Handicraft"
+  },
+  {
+    "category": 5,
+    "id": 80,
+    "isPositive": false,
+    "name": "Sharpness -1",
+    "requiredPoints": -10,
+    "requiredSkill": 27,
+    "skill_tree_id": 27,
+    "skill_tree_name": "Handicraft"
+  },
+  {
+    "category": 1,
+    "id": 87,
+    "isPositive": true,
+    "name": "Health + 30",
+    "requiredPoints": 20,
+    "requiredSkill": 28,
+    "skill_tree_id": 28,
+    "skill_tree_name": "Health"
+  },
+  {
+    "category": 1,
+    "id": 86,
+    "isPositive": true,
+    "name": "Health + 20",
+    "requiredPoints": 15,
+    "requiredSkill": 28,
+    "skill_tree_id": 28,
+    "skill_tree_name": "Health"
+  },
+  {
+    "category": 1,
+    "id": 85,
+    "isPositive": true,
+    "name": "Health + 10",
+    "requiredPoints": 10,
+    "requiredSkill": 28,
+    "skill_tree_id": 28,
+    "skill_tree_name": "Health"
+  },
+  {
+    "category": 1,
+    "id": 84,
+    "isPositive": false,
+    "name": "Health - 10",
+    "requiredPoints": -10,
+    "requiredSkill": 28,
+    "skill_tree_id": 28,
+    "skill_tree_name": "Health"
+  },
+  {
+    "category": 1,
+    "id": 83,
+    "isPositive": false,
+    "name": "Health - 20",
+    "requiredPoints": -15,
+    "requiredSkill": 28,
+    "skill_tree_id": 28,
+    "skill_tree_name": "Health"
+  },
+  {
+    "category": 1,
+    "id": 82,
+    "isPositive": false,
+    "name": "Health - 30",
+    "requiredPoints": -20,
+    "requiredSkill": 28,
+    "skill_tree_id": 28,
+    "skill_tree_name": "Health"
+  },
+  {
+    "category": 3,
+    "id": 92,
+    "isPositive": true,
+    "name": "Negate Heat [L]",
+    "requiredPoints": 20,
+    "requiredSkill": 29,
+    "skill_tree_id": 29,
+    "skill_tree_name": "Heat Resistance"
+  },
+  {
+    "category": 3,
+    "id": 91,
+    "isPositive": true,
+    "name": "Negate Heat [S]",
+    "requiredPoints": 15,
+    "requiredSkill": 29,
+    "skill_tree_id": 29,
+    "skill_tree_name": "Heat Resistance"
+  },
+  {
+    "category": 3,
+    "id": 90,
+    "isPositive": true,
+    "name": "Halve Heat",
+    "requiredPoints": 10,
+    "requiredSkill": 29,
+    "skill_tree_id": 29,
+    "skill_tree_name": "Heat Resistance"
+  },
+  {
+    "category": 3,
+    "id": 89,
+    "isPositive": false,
+    "name": "Heat Surge [S]",
+    "requiredPoints": -10,
+    "requiredSkill": 29,
+    "skill_tree_id": 29,
+    "skill_tree_name": "Heat Resistance"
+  },
+  {
+    "category": 3,
+    "id": 88,
+    "isPositive": false,
+    "name": "Heat Surge [L]",
+    "requiredPoints": -20,
+    "requiredSkill": 29,
+    "skill_tree_id": 29,
+    "skill_tree_name": "Heat Resistance"
+  },
+  {
+    "category": 1,
+    "id": 96,
+    "isPositive": true,
+    "name": "Negate Hunger",
+    "requiredPoints": 15,
+    "requiredSkill": 30,
+    "skill_tree_id": 30,
+    "skill_tree_name": "Hunger"
+  },
+  {
+    "category": 1,
+    "id": 95,
+    "isPositive": true,
+    "name": "Halve Hunger",
+    "requiredPoints": 10,
+    "requiredSkill": 30,
+    "skill_tree_id": 30,
+    "skill_tree_name": "Hunger"
+  },
+  {
+    "category": 1,
+    "id": 94,
+    "isPositive": false,
+    "name": "Hunger Increased [S]",
+    "requiredPoints": -10,
+    "requiredSkill": 30,
+    "skill_tree_id": 30,
+    "skill_tree_name": "Hunger"
+  },
+  {
+    "category": 1,
+    "id": 93,
+    "isPositive": false,
+    "name": "Hunger Increased [L]",
+    "requiredPoints": -15,
+    "requiredSkill": 30,
+    "skill_tree_id": 30,
+    "skill_tree_name": "Hunger"
+  },
+  {
+    "category": 3,
+    "id": 102,
+    "isPositive": true,
+    "name": "Ice Resistance + 10",
+    "requiredPoints": 20,
+    "requiredSkill": 31,
+    "skill_tree_id": 31,
+    "skill_tree_name": "Ice Resistance"
+  },
+  {
+    "category": 3,
+    "id": 101,
+    "isPositive": true,
+    "name": "Ice Resistance + 5",
+    "requiredPoints": 15,
+    "requiredSkill": 31,
+    "skill_tree_id": 31,
+    "skill_tree_name": "Ice Resistance"
+  },
+  {
+    "category": 3,
+    "id": 100,
+    "isPositive": true,
+    "name": "Ice Resistance + 3",
+    "requiredPoints": 10,
+    "requiredSkill": 31,
+    "skill_tree_id": 31,
+    "skill_tree_name": "Ice Resistance"
+  },
+  {
+    "category": 3,
+    "id": 99,
+    "isPositive": false,
+    "name": "Ice Resistance - 3",
+    "requiredPoints": -10,
+    "requiredSkill": 31,
+    "skill_tree_id": 31,
+    "skill_tree_name": "Ice Resistance"
+  },
+  {
+    "category": 3,
+    "id": 98,
+    "isPositive": false,
+    "name": "Ice Resistance - 5",
+    "requiredPoints": -15,
+    "requiredSkill": 31,
+    "skill_tree_id": 31,
+    "skill_tree_name": "Ice Resistance"
+  },
+  {
+    "category": 3,
+    "id": 97,
+    "isPositive": false,
+    "name": "Ice Resistance - 10",
+    "requiredPoints": -20,
+    "requiredSkill": 31,
+    "skill_tree_id": 31,
+    "skill_tree_name": "Ice Resistance"
+  },
+  {
+    "category": 4,
+    "id": 104,
+    "isPositive": true,
+    "name": "Items Up",
+    "requiredPoints": 10,
+    "requiredSkill": 32,
+    "skill_tree_id": 32,
+    "skill_tree_name": "Lasting Power"
+  },
+  {
+    "category": 4,
+    "id": 103,
+    "isPositive": false,
+    "name": "Items Down",
+    "requiredPoints": -10,
+    "requiredSkill": 32,
+    "skill_tree_id": 32,
+    "skill_tree_name": "Lasting Power"
+  },
+  {
+    "category": 6,
+    "id": 105,
+    "isPositive": true,
+    "name": "Load Up",
+    "requiredPoints": 10,
+    "requiredSkill": 33,
+    "skill_tree_id": 33,
+    "skill_tree_name": "Load"
+  },
+  {
+    "category": 7,
+    "id": 107,
+    "isPositive": true,
+    "name": "Automap",
+    "requiredPoints": 10,
+    "requiredSkill": 34,
+    "skill_tree_id": 34,
+    "skill_tree_name": "Map"
+  },
+  {
+    "category": 7,
+    "id": 106,
+    "isPositive": false,
+    "name": "No Map",
+    "requiredPoints": -10,
+    "requiredSkill": 34,
+    "skill_tree_id": 34,
+    "skill_tree_name": "Map"
+  },
+  {
+    "category": 7,
+    "id": 108,
+    "isPositive": true,
+    "name": "Big Guy!",
+    "requiredPoints": 10,
+    "requiredSkill": 35,
+    "skill_tree_id": 35,
+    "skill_tree_name": "Monster"
+  },
+  {
+    "category": 6,
+    "id": 110,
+    "isPositive": true,
+    "name": "Add All Normal S",
+    "requiredPoints": 15,
+    "requiredSkill": 36,
+    "skill_tree_id": 36,
+    "skill_tree_name": "Normal S+"
+  },
+  {
+    "category": 6,
+    "id": 109,
+    "isPositive": true,
+    "name": "Add Normal S Lv1",
+    "requiredPoints": 10,
+    "requiredSkill": 36,
+    "skill_tree_id": 36,
+    "skill_tree_name": "Normal S+"
+  },
+  {
+    "category": 6,
+    "id": 111,
+    "isPositive": true,
+    "name": "Normal S Up",
+    "requiredPoints": 10,
+    "requiredSkill": 37,
+    "skill_tree_id": 37,
+    "skill_tree_name": "Normal S Up"
+  },
+  {
+    "category": 3,
+    "id": 114,
+    "isPositive": true,
+    "name": "Negate Paralysis",
+    "requiredPoints": 15,
+    "requiredSkill": 38,
+    "skill_tree_id": 38,
+    "skill_tree_name": "Paralysis"
+  },
+  {
+    "category": 3,
+    "id": 113,
+    "isPositive": true,
+    "name": "Halve Paralysis",
+    "requiredPoints": 10,
+    "requiredSkill": 38,
+    "skill_tree_id": 38,
+    "skill_tree_name": "Paralysis"
+  },
+  {
+    "category": 3,
+    "id": 112,
+    "isPositive": false,
+    "name": "Double Paralysis",
+    "requiredPoints": -10,
+    "requiredSkill": 38,
+    "skill_tree_id": 38,
+    "skill_tree_name": "Paralysis"
+  },
+  {
+    "category": 6,
+    "id": 117,
+    "isPositive": true,
+    "name": "Add All Pellet S",
+    "requiredPoints": 20,
+    "requiredSkill": 39,
+    "skill_tree_id": 39,
+    "skill_tree_name": "Pellet S+"
+  },
+  {
+    "category": 6,
+    "id": 116,
+    "isPositive": true,
+    "name": "Add Pellet S Lv1-2",
+    "requiredPoints": 15,
+    "requiredSkill": 39,
+    "skill_tree_id": 39,
+    "skill_tree_name": "Pellet S+"
+  },
+  {
+    "category": 6,
+    "id": 115,
+    "isPositive": true,
+    "name": "Add Pellet S Lv1",
+    "requiredPoints": 10,
+    "requiredSkill": 39,
+    "skill_tree_id": 39,
+    "skill_tree_name": "Pellet S+"
+  },
+  {
+    "category": 6,
+    "id": 118,
+    "isPositive": true,
+    "name": "Pellet S Up",
+    "requiredPoints": 10,
+    "requiredSkill": 40,
+    "skill_tree_id": 40,
+    "skill_tree_name": "Pellet S Up"
+  },
+  {
+    "category": 6,
+    "id": 121,
+    "isPositive": true,
+    "name": "Add All Pierce S",
+    "requiredPoints": 20,
+    "requiredSkill": 41,
+    "skill_tree_id": 41,
+    "skill_tree_name": "Pierce S+"
+  },
+  {
+    "category": 6,
+    "id": 120,
+    "isPositive": true,
+    "name": "Add Pierce S Lv1-2",
+    "requiredPoints": 15,
+    "requiredSkill": 41,
+    "skill_tree_id": 41,
+    "skill_tree_name": "Pierce S+"
+  },
+  {
+    "category": 6,
+    "id": 119,
+    "isPositive": true,
+    "name": "Add Pierce S Lv1",
+    "requiredPoints": 10,
+    "requiredSkill": 41,
+    "skill_tree_id": 41,
+    "skill_tree_name": "Pierce S+"
+  },
+  {
+    "category": 6,
+    "id": 122,
+    "isPositive": true,
+    "name": "Pierce S Up",
+    "requiredPoints": 10,
+    "requiredSkill": 42,
+    "skill_tree_id": 42,
+    "skill_tree_name": "Pierce S Up"
+  },
+  {
+    "category": 3,
+    "id": 125,
+    "isPositive": true,
+    "name": "Negate Poison",
+    "requiredPoints": 15,
+    "requiredSkill": 43,
+    "skill_tree_id": 43,
+    "skill_tree_name": "Poison"
+  },
+  {
+    "category": 3,
+    "id": 124,
+    "isPositive": true,
+    "name": "Halve Poison",
+    "requiredPoints": 10,
+    "requiredSkill": 43,
+    "skill_tree_id": 43,
+    "skill_tree_name": "Poison"
+  },
+  {
+    "category": 3,
+    "id": 123,
+    "isPositive": false,
+    "name": "Double Poison",
+    "requiredPoints": -10,
+    "requiredSkill": 43,
+    "skill_tree_id": 43,
+    "skill_tree_name": "Poison"
+  },
+  {
+    "category": 0,
+    "id": 128,
+    "isPositive": true,
+    "name": "Adrenaline +2",
+    "requiredPoints": 15,
+    "requiredSkill": 44,
+    "skill_tree_id": 44,
+    "skill_tree_name": "Potential"
+  },
+  {
+    "category": 0,
+    "id": 127,
+    "isPositive": true,
+    "name": "Adrenaline +1",
+    "requiredPoints": 10,
+    "requiredSkill": 44,
+    "skill_tree_id": 44,
+    "skill_tree_name": "Potential"
+  },
+  {
+    "category": 0,
+    "id": 126,
+    "isPositive": false,
+    "name": "Worrywart",
+    "requiredPoints": -15,
+    "requiredSkill": 44,
+    "skill_tree_id": 44,
+    "skill_tree_name": "Potential"
+  },
+  {
+    "category": 6,
+    "id": 130,
+    "isPositive": true,
+    "name": "Deviation Down",
+    "requiredPoints": 10,
+    "requiredSkill": 45,
+    "skill_tree_id": 45,
+    "skill_tree_name": "Precision"
+  },
+  {
+    "category": 6,
+    "id": 129,
+    "isPositive": false,
+    "name": "Deviation Up",
+    "requiredPoints": -10,
+    "requiredSkill": 45,
+    "skill_tree_id": 45,
+    "skill_tree_name": "Precision"
+  },
+  {
+    "category": 0,
+    "id": 132,
+    "isPositive": true,
+    "name": "Divine Protection",
+    "requiredPoints": 10,
+    "requiredSkill": 46,
+    "skill_tree_id": 46,
+    "skill_tree_name": "Protection"
+  },
+  {
+    "category": 0,
+    "id": 131,
+    "isPositive": false,
+    "name": "Demonic Protection",
+    "requiredPoints": -10,
+    "requiredSkill": 46,
+    "skill_tree_id": 46,
+    "skill_tree_name": "Protection"
+  },
+  {
+    "category": 7,
+    "id": 134,
+    "isPositive": true,
+    "name": "Autotracker",
+    "requiredPoints": 15,
+    "requiredSkill": 47,
+    "skill_tree_id": 47,
+    "skill_tree_name": "Psychic"
+  },
+  {
+    "category": 7,
+    "id": 133,
+    "isPositive": true,
+    "name": "Detect",
+    "requiredPoints": 10,
+    "requiredSkill": 47,
+    "skill_tree_id": 47,
+    "skill_tree_name": "Psychic"
+  },
+  {
+    "category": 6,
+    "id": 135,
+    "isPositive": true,
+    "name": "Rapid-Fire",
+    "requiredPoints": 10,
+    "requiredSkill": 48,
+    "skill_tree_id": 48,
+    "skill_tree_name": "Rapid-Fire"
+  },
+  {
+    "category": 6,
+    "id": 137,
+    "isPositive": true,
+    "name": "Recoil Down +2",
+    "requiredPoints": 15,
+    "requiredSkill": 49,
+    "skill_tree_id": 49,
+    "skill_tree_name": "Recoil"
+  },
+  {
+    "category": 6,
+    "id": 136,
+    "isPositive": true,
+    "name": "Recoil Down +1",
+    "requiredPoints": 10,
+    "requiredSkill": 49,
+    "skill_tree_id": 49,
+    "skill_tree_name": "Recoil"
+  },
+  {
+    "category": 1,
+    "id": 141,
+    "isPositive": true,
+    "name": "Recovery Speed +2",
+    "requiredPoints": 20,
+    "requiredSkill": 50,
+    "skill_tree_id": 50,
+    "skill_tree_name": "Recover Speed"
+  },
+  {
+    "category": 1,
+    "id": 140,
+    "isPositive": true,
+    "name": "Recovery Speed +1",
+    "requiredPoints": 10,
+    "requiredSkill": 50,
+    "skill_tree_id": 50,
+    "skill_tree_name": "Recover Speed"
+  },
+  {
+    "category": 1,
+    "id": 139,
+    "isPositive": false,
+    "name": "Recovery Speed -1",
+    "requiredPoints": -10,
+    "requiredSkill": 50,
+    "skill_tree_id": 50,
+    "skill_tree_name": "Recover Speed"
+  },
+  {
+    "category": 1,
+    "id": 138,
+    "isPositive": false,
+    "name": "Recovery Speed -2",
+    "requiredPoints": -20,
+    "requiredSkill": 50,
+    "skill_tree_id": 50,
+    "skill_tree_name": "Recover Speed"
+  },
+  {
+    "category": 4,
+    "id": 143,
+    "isPositive": true,
+    "name": "Recovery Items Up",
+    "requiredPoints": 10,
+    "requiredSkill": 51,
+    "skill_tree_id": 51,
+    "skill_tree_name": "Recovery Items"
+  },
+  {
+    "category": 4,
+    "id": 142,
+    "isPositive": false,
+    "name": "Recovery Items Down",
+    "requiredPoints": -10,
+    "requiredSkill": 51,
+    "skill_tree_id": 51,
+    "skill_tree_name": "Recovery Items"
+  },
+  {
+    "category": 6,
+    "id": 148,
+    "isPositive": true,
+    "name": "Reload Speed +3",
+    "requiredPoints": 20,
+    "requiredSkill": 52,
+    "skill_tree_id": 52,
+    "skill_tree_name": "Reload Speed"
+  },
+  {
+    "category": 6,
+    "id": 147,
+    "isPositive": true,
+    "name": "Reload Speed +2",
+    "requiredPoints": 15,
+    "requiredSkill": 52,
+    "skill_tree_id": 52,
+    "skill_tree_name": "Reload Speed"
+  },
+  {
+    "category": 6,
+    "id": 146,
+    "isPositive": true,
+    "name": "Reload Speed +1",
+    "requiredPoints": 10,
+    "requiredSkill": 52,
+    "skill_tree_id": 52,
+    "skill_tree_name": "Reload Speed"
+  },
+  {
+    "category": 6,
+    "id": 145,
+    "isPositive": false,
+    "name": "Reload Speed -1",
+    "requiredPoints": -10,
+    "requiredSkill": 52,
+    "skill_tree_id": 52,
+    "skill_tree_name": "Reload Speed"
+  },
+  {
+    "category": 6,
+    "id": 144,
+    "isPositive": false,
+    "name": "Reload Speed -2",
+    "requiredPoints": -15,
+    "requiredSkill": 52,
+    "skill_tree_id": 52,
+    "skill_tree_name": "Reload Speed"
+  },
+  {
+    "category": 7,
+    "id": 150,
+    "isPositive": true,
+    "name": "Sneak",
+    "requiredPoints": 10,
+    "requiredSkill": 53,
+    "skill_tree_id": 53,
+    "skill_tree_name": "Sense"
+  },
+  {
+    "category": 7,
+    "id": 149,
+    "isPositive": false,
+    "name": "Taunt",
+    "requiredPoints": -10,
+    "requiredSkill": 53,
+    "skill_tree_id": 53,
+    "skill_tree_name": "Sense"
+  },
+  {
+    "category": 5,
+    "id": 152,
+    "isPositive": true,
+    "name": "Razor Sharp",
+    "requiredPoints": 10,
+    "requiredSkill": 54,
+    "skill_tree_id": 54,
+    "skill_tree_name": "Sharpness"
+  },
+  {
+    "category": 5,
+    "id": 151,
+    "isPositive": false,
+    "name": "Blunt Edge",
+    "requiredPoints": -10,
+    "requiredSkill": 54,
+    "skill_tree_id": 54,
+    "skill_tree_name": "Sharpness"
+  },
+  {
+    "category": 3,
+    "id": 155,
+    "isPositive": true,
+    "name": "Sleep Negated",
+    "requiredPoints": 15,
+    "requiredSkill": 55,
+    "skill_tree_id": 55,
+    "skill_tree_name": "Sleep"
+  },
+  {
+    "category": 3,
+    "id": 154,
+    "isPositive": true,
+    "name": "Sleep Halved",
+    "requiredPoints": 10,
+    "requiredSkill": 55,
+    "skill_tree_id": 55,
+    "skill_tree_name": "Sleep"
+  },
+  {
+    "category": 3,
+    "id": 153,
+    "isPositive": false,
+    "name": "Sleep Doubled",
+    "requiredPoints": -10,
+    "requiredSkill": 55,
+    "skill_tree_id": 55,
+    "skill_tree_name": "Sleep"
+  },
+  {
+    "category": 3,
+    "id": 158,
+    "isPositive": true,
+    "name": "Snow Res +2",
+    "requiredPoints": 20,
+    "requiredSkill": 56,
+    "skill_tree_id": 56,
+    "skill_tree_name": "Snow Resistance"
+  },
+  {
+    "category": 3,
+    "id": 157,
+    "isPositive": true,
+    "name": "Snow Res +1",
+    "requiredPoints": 10,
+    "requiredSkill": 56,
+    "skill_tree_id": 56,
+    "skill_tree_name": "Snow Resistance"
+  },
+  {
+    "category": 3,
+    "id": 156,
+    "isPositive": false,
+    "name": "Freeze",
+    "requiredPoints": -10,
+    "requiredSkill": 56,
+    "skill_tree_id": 56,
+    "skill_tree_name": "Snow Resistance"
+  },
+  {
+    "category": 7,
+    "id": 159,
+    "isPositive": true,
+    "name": "Speed Gathering",
+    "requiredPoints": 10,
+    "requiredSkill": 57,
+    "skill_tree_id": 57,
+    "skill_tree_name": "Speed Gathering"
+  },
+  {
+    "category": 5,
+    "id": 161,
+    "isPositive": true,
+    "name": "Fast Sharpening",
+    "requiredPoints": 10,
+    "requiredSkill": 58,
+    "skill_tree_id": 58,
+    "skill_tree_name": "Speed Sharpening"
+  },
+  {
+    "category": 5,
+    "id": 160,
+    "isPositive": false,
+    "name": "Sharpening Slowed",
+    "requiredPoints": -10,
+    "requiredSkill": 58,
+    "skill_tree_id": 58,
+    "skill_tree_name": "Speed Sharpening"
+  },
+  {
+    "category": 1,
+    "id": 163,
+    "isPositive": true,
+    "name": "Marathon Runner",
+    "requiredPoints": 10,
+    "requiredSkill": 59,
+    "skill_tree_id": 59,
+    "skill_tree_name": "Stamina"
+  },
+  {
+    "category": 1,
+    "id": 162,
+    "isPositive": false,
+    "name": "Short Sprinter",
+    "requiredPoints": -10,
+    "requiredSkill": 59,
+    "skill_tree_id": 59,
+    "skill_tree_name": "Stamina"
+  },
+  {
+    "category": 0,
+    "id": 164,
+    "isPositive": true,
+    "name": "Status Attack Up",
+    "requiredPoints": 10,
+    "requiredSkill": 60,
+    "skill_tree_id": 60,
+    "skill_tree_name": "Status"
+  },
+  {
+    "category": 3,
+    "id": 167,
+    "isPositive": true,
+    "name": "Stun Negated",
+    "requiredPoints": 15,
+    "requiredSkill": 61,
+    "skill_tree_id": 61,
+    "skill_tree_name": "Stun"
+  },
+  {
+    "category": 3,
+    "id": 166,
+    "isPositive": true,
+    "name": "Stun Halved",
+    "requiredPoints": 10,
+    "requiredSkill": 61,
+    "skill_tree_id": 61,
+    "skill_tree_name": "Stun"
+  },
+  {
+    "category": 3,
+    "id": 165,
+    "isPositive": false,
+    "name": "Stun Doubled",
+    "requiredPoints": -10,
+    "requiredSkill": 61,
+    "skill_tree_id": 61,
+    "skill_tree_name": "Stun"
+  },
+  {
+    "category": 3,
+    "id": 171,
+    "isPositive": true,
+    "name": "Terrain Down Large",
+    "requiredPoints": 15,
+    "requiredSkill": 62,
+    "skill_tree_id": 62,
+    "skill_tree_name": "Terrain"
+  },
+  {
+    "category": 3,
+    "id": 170,
+    "isPositive": true,
+    "name": "Terrain Down Small",
+    "requiredPoints": 10,
+    "requiredSkill": 62,
+    "skill_tree_id": 62,
+    "skill_tree_name": "Terrain"
+  },
+  {
+    "category": 3,
+    "id": 169,
+    "isPositive": false,
+    "name": "Terrain Up Small",
+    "requiredPoints": -10,
+    "requiredSkill": 62,
+    "skill_tree_id": 62,
+    "skill_tree_name": "Terrain"
+  },
+  {
+    "category": 3,
+    "id": 168,
+    "isPositive": false,
+    "name": "Terrain Up Large",
+    "requiredPoints": -15,
+    "requiredSkill": 62,
+    "skill_tree_id": 62,
+    "skill_tree_name": "Terrain"
+  },
+  {
+    "category": 4,
+    "id": 172,
+    "isPositive": true,
+    "name": "Throw",
+    "requiredPoints": 10,
+    "requiredSkill": 63,
+    "skill_tree_id": 63,
+    "skill_tree_name": "Throw"
+  },
+  {
+    "category": 3,
+    "id": 178,
+    "isPositive": true,
+    "name": "Thunder Resistance + 10",
+    "requiredPoints": 20,
+    "requiredSkill": 64,
+    "skill_tree_id": 64,
+    "skill_tree_name": "Thunder Resistance"
+  },
+  {
+    "category": 3,
+    "id": 177,
+    "isPositive": true,
+    "name": "Thunder Resistance + 5",
+    "requiredPoints": 15,
+    "requiredSkill": 64,
+    "skill_tree_id": 64,
+    "skill_tree_name": "Thunder Resistance"
+  },
+  {
+    "category": 3,
+    "id": 176,
+    "isPositive": true,
+    "name": "Thunder Resistance + 3",
+    "requiredPoints": 10,
+    "requiredSkill": 64,
+    "skill_tree_id": 64,
+    "skill_tree_name": "Thunder Resistance"
+  },
+  {
+    "category": 3,
+    "id": 175,
+    "isPositive": false,
+    "name": "Thunder Resistance - 3",
+    "requiredPoints": -10,
+    "requiredSkill": 64,
+    "skill_tree_id": 64,
+    "skill_tree_name": "Thunder Resistance"
+  },
+  {
+    "category": 3,
+    "id": 174,
+    "isPositive": false,
+    "name": "Thunder Resistance - 5",
+    "requiredPoints": -15,
+    "requiredSkill": 64,
+    "skill_tree_id": 64,
+    "skill_tree_name": "Thunder Resistance"
+  },
+  {
+    "category": 3,
+    "id": 173,
+    "isPositive": false,
+    "name": "Thunder Resistance - 10",
+    "requiredPoints": -20,
+    "requiredSkill": 64,
+    "skill_tree_id": 64,
+    "skill_tree_name": "Thunder Resistance"
+  },
+  {
+    "category": 7,
+    "id": 179,
+    "isPositive": true,
+    "name": "Pro Transporter",
+    "requiredPoints": 10,
+    "requiredSkill": 66,
+    "skill_tree_id": 66,
+    "skill_tree_name": "Transporter"
+  },
+  {
+    "category": 3,
+    "id": 180,
+    "isPositive": true,
+    "name": "Negate Tremors",
+    "requiredPoints": 15,
+    "requiredSkill": 67,
+    "skill_tree_id": 67,
+    "skill_tree_name": "Tremor Resistance"
+  },
+  {
+    "category": 3,
+    "id": 182,
+    "isPositive": true,
+    "name": "Negate Vocal Chord Paralysis",
+    "requiredPoints": 15,
+    "requiredSkill": 68,
+    "skill_tree_id": 68,
+    "skill_tree_name": "Vocal Chords"
+  },
+  {
+    "category": 3,
+    "id": 181,
+    "isPositive": true,
+    "name": "Halve Vocal Chord Paralysis",
+    "requiredPoints": 10,
+    "requiredSkill": 68,
+    "skill_tree_id": 68,
+    "skill_tree_name": "Vocal Chords"
+  },
+  {
+    "category": 3,
+    "id": 188,
+    "isPositive": true,
+    "name": "Water Resistance + 10",
+    "requiredPoints": 20,
+    "requiredSkill": 69,
+    "skill_tree_id": 69,
+    "skill_tree_name": "Water Resistance"
+  },
+  {
+    "category": 3,
+    "id": 187,
+    "isPositive": true,
+    "name": "Water Resistance + 5",
+    "requiredPoints": 15,
+    "requiredSkill": 69,
+    "skill_tree_id": 69,
+    "skill_tree_name": "Water Resistance"
+  },
+  {
+    "category": 3,
+    "id": 186,
+    "isPositive": true,
+    "name": "Water Resistance + 3",
+    "requiredPoints": 10,
+    "requiredSkill": 69,
+    "skill_tree_id": 69,
+    "skill_tree_name": "Water Resistance"
+  },
+  {
+    "category": 3,
+    "id": 185,
+    "isPositive": false,
+    "name": "Water Resistance - 3",
+    "requiredPoints": -10,
+    "requiredSkill": 69,
+    "skill_tree_id": 69,
+    "skill_tree_name": "Water Resistance"
+  },
+  {
+    "category": 3,
+    "id": 184,
+    "isPositive": false,
+    "name": "Water Resistance - 5",
+    "requiredPoints": -15,
+    "requiredSkill": 69,
+    "skill_tree_id": 69,
+    "skill_tree_name": "Water Resistance"
+  },
+  {
+    "category": 3,
+    "id": 183,
+    "isPositive": false,
+    "name": "Water Resistance - 10",
+    "requiredPoints": -20,
+    "requiredSkill": 69,
+    "skill_tree_id": 69,
+    "skill_tree_name": "Water Resistance"
+  },
+  {
+    "category": 4,
+    "id": 192,
+    "isPositive": true,
+    "name": "Divine Whim",
+    "requiredPoints": 15,
+    "requiredSkill": 70,
+    "skill_tree_id": 70,
+    "skill_tree_name": "Whim"
+  },
+  {
+    "category": 4,
+    "id": 191,
+    "isPositive": true,
+    "name": "Spirit's Whim",
+    "requiredPoints": 10,
+    "requiredSkill": 70,
+    "skill_tree_id": 70,
+    "skill_tree_name": "Whim"
+  },
+  {
+    "category": 4,
+    "id": 190,
+    "isPositive": false,
+    "name": "Spectre's Whim",
+    "requiredPoints": -10,
+    "requiredSkill": 70,
+    "skill_tree_id": 70,
+    "skill_tree_name": "Whim"
+  },
+  {
+    "category": 4,
+    "id": 189,
+    "isPositive": false,
+    "name": "Devil's Whim",
+    "requiredPoints": -15,
+    "requiredSkill": 70,
+    "skill_tree_id": 70,
+    "skill_tree_name": "Whim"
+  },
+  {
+    "category": 4,
+    "id": 194,
+    "isPositive": true,
+    "name": "Wide-Range +2",
+    "requiredPoints": 20,
+    "requiredSkill": 71,
+    "skill_tree_id": 71,
+    "skill_tree_name": "Wide-Range"
+  },
+  {
+    "category": 4,
+    "id": 193,
+    "isPositive": true,
+    "name": "Wide-Range +1",
+    "requiredPoints": 10,
+    "requiredSkill": 71,
+    "skill_tree_id": 71,
+    "skill_tree_name": "Wide-Range"
+  },
+  {
+    "category": 3,
+    "id": 197,
+    "isPositive": true,
+    "name": "Dragon-Windproof",
+    "requiredPoints": 25,
+    "requiredSkill": 72,
+    "skill_tree_id": 72,
+    "skill_tree_name": "Wind Pressure"
+  },
+  {
+    "category": 3,
+    "id": 196,
+    "isPositive": true,
+    "name": "Windproof [L]",
+    "requiredPoints": 15,
+    "requiredSkill": 72,
+    "skill_tree_id": 72,
+    "skill_tree_name": "Wind Pressure"
+  },
+  {
+    "category": 3,
+    "id": 195,
+    "isPositive": true,
+    "name": "Windproof [S]",
+    "requiredPoints": 10,
+    "requiredSkill": 72,
+    "skill_tree_id": 72,
+    "skill_tree_name": "Wind Pressure"
+  }
+]
